@@ -6,6 +6,7 @@ on:
   push:
     paths:
       - scripts/import_found.py
+      - scripts/update_official_tables.py
       - EXTERNAL-DOWNLOADS.json
       - .github/workflows/recover-found.yml
 concurrency:
@@ -28,11 +29,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/import_found.py
+      - name: Update official archive tables
+        run: python scripts/update_official_tables.py
       - name: Commit downloaded JARs
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add source RECOVERED-SOURCES.json
+          git add source RECOVERED-SOURCES.json README.md DOWNLOADS.md
           if ! git diff --cached --quiet; then
             git commit -m 'Import verified ZIP-format JARs by source mod loader and version'
             git push
