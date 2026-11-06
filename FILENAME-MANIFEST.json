@@ -1,0 +1,924 @@
+{
+  "naming": "ModName_MCVersion_ModVersion_SourceArchive.jar",
+  "total": 102,
+  "records": [
+    {
+      "old_path": "baratone/fabric/1.13.2/baritone-1.13.2.jar",
+      "new_path": "baratone/fabric/1.13.2/Baritone_1.13.2_1.13.2_UnknownOrigin.jar",
+      "sha": "e58dbb66f029e04e500504fb9f08a8b77c7717ec",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.13.2",
+      "mod_version_label": "1.13.2",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.16.2/baritone-1.16.2.jar",
+      "new_path": "baratone/fabric/1.16.2/Baritone_1.16.2_1.16.2_UnknownOrigin.jar",
+      "sha": "a5ce863a7e0ac1780ece64d27f2d5ede83f684b7",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.16.2",
+      "mod_version_label": "1.16.2",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.16.4/baritone-1.16.4.jar",
+      "new_path": "baratone/fabric/1.16.4/Baritone_1.16.4_1.16.4_UnknownOrigin.jar",
+      "sha": "f6658bf0d949c617d7157bd69cf035d77b36a026",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.16.4",
+      "mod_version_label": "1.16.4",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.16.5/baritone-1.16.5.jar",
+      "new_path": "baratone/fabric/1.16.5/Baritone_1.16.5_1.16.5_ManInMyVan.jar",
+      "sha": "b53d7ce796f1d8ef0e4db09afb8a106dc74b05be",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.16.5",
+      "mod_version_label": "1.16.5",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.17.1/baritone-1.17.1.jar",
+      "new_path": "baratone/fabric/1.17.1/Baritone_1.17.1_1.17.1_UnknownOrigin.jar",
+      "sha": "30fd881fd5fb52202325225433fe933671d7a267",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.17.1",
+      "mod_version_label": "1.17.1",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.18.2/baritone-1.18.2.jar",
+      "new_path": "baratone/fabric/1.18.2/Baritone_1.18.2_1.18.2_ManInMyVan.jar",
+      "sha": "1ea70cce5c0510bde405327828e9fdb6c51742ba",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.18.2",
+      "mod_version_label": "1.18.2",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.19.2/baritone-1.19.2.jar",
+      "new_path": "baratone/fabric/1.19.2/Baritone_1.19.2_1.19.2_ManInMyVan.jar",
+      "sha": "93eceb74ac8f6a90100b9c8cc8e9d71357bd4bd3",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.19.2",
+      "mod_version_label": "1.19.2",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.19.3/baritone-1.19.3.jar",
+      "new_path": "baratone/fabric/1.19.3/Baritone_1.19.3_1.19.3_ManInMyVan.jar",
+      "sha": "2bd154b73e6e9f4a118362069e152d7bfc877203",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.19.3",
+      "mod_version_label": "1.19.3",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.19.4/baritone-1.19.4.jar",
+      "new_path": "baratone/fabric/1.19.4/Baritone_1.19.4_1.19.4_ManInMyVan.jar",
+      "sha": "ea822ba0387cdb747b0b026212c52f18e4aae23c",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.19.4",
+      "mod_version_label": "1.19.4",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.19/baritone-1.19.jar",
+      "new_path": "baratone/fabric/1.19/Baritone_1.19_1.19_ManInMyVan.jar",
+      "sha": "45f3c8ef260849fb6e85db09a8e894fd9174dfae",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.19",
+      "mod_version_label": "1.19",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.20.1/baritone-1.20.1.jar",
+      "new_path": "baratone/fabric/1.20.1/Baritone_1.20.1_1.20.1_ManInMyVan.jar",
+      "sha": "e6252d0b8202ce911677a224c4198f3c3a4fa186",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.20.1",
+      "mod_version_label": "1.20.1",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.20.2/baritone-1.20.2.jar",
+      "new_path": "baratone/fabric/1.20.2/Baritone_1.20.2_1.20.2_ManInMyVan.jar",
+      "sha": "0206b242f293bc5c071a7afddd17bb1447c86ddd",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.20.2",
+      "mod_version_label": "1.20.2",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.20.3/baritone-1.20.3.jar",
+      "new_path": "baratone/fabric/1.20.3/Baritone_1.20.3_1.20.3_UnknownOrigin.jar",
+      "sha": "27188cb8871f1e9d5a46d57514339fc7a1065b46",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.20.3",
+      "mod_version_label": "1.20.3",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.20.4/baritone-1.20.4.jar",
+      "new_path": "baratone/fabric/1.20.4/Baritone_1.20.4_1.20.4_UnknownOrigin.jar",
+      "sha": "27188cb8871f1e9d5a46d57514339fc7a1065b46",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.20.4",
+      "mod_version_label": "1.20.4",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.20.6/baritone-1.20.6.jar",
+      "new_path": "baratone/fabric/1.20.6/Baritone_1.20.6_1.20.6_UnknownOrigin.jar",
+      "sha": "644d9a68a23b19fda7bf1b1ac33d2ce8f909c873",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.20.6",
+      "mod_version_label": "1.20.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.20/baritone-1.20.jar",
+      "new_path": "baratone/fabric/1.20/Baritone_1.20_1.20_ManInMyVan.jar",
+      "sha": "ac7cc83699557142d0887a5ce09a7a5a0be98146",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.20",
+      "mod_version_label": "1.20",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.21.1/baritone-1.21.1.jar",
+      "new_path": "baratone/fabric/1.21.1/Baritone_1.21.1_1.21.1_UnknownOrigin.jar",
+      "sha": "1313d8429ea25b481d18163f4ec3641ca57f9a30",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.21.1",
+      "mod_version_label": "1.21.1",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.21.3/baritone-1.21.3.jar",
+      "new_path": "baratone/fabric/1.21.3/Baritone_1.21.3_1.21.3_UnknownOrigin.jar",
+      "sha": "7318cb32b3fa834f12d5a0ec983d60e2605f0cb3",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.21.3",
+      "mod_version_label": "1.21.3",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/fabric/1.21/baritone-1.21.jar",
+      "new_path": "baratone/fabric/1.21/Baritone_1.21_1.21_UnknownOrigin.jar",
+      "sha": "77e65e363f6dc4adf299c438005c397609f9974a",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.21",
+      "mod_version_label": "1.21",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/forge/1.12.2/baritone-forge-1.12.2.jar",
+      "new_path": "baratone/forge/1.12.2/Baritone_1.12.2_1.12.2_UnknownOrigin.jar",
+      "sha": "6b696006b712d0a66c863173548f9d9203e32386",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.12.2",
+      "mod_version_label": "1.12.2",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/forge/1.15.2/baritone-forge-1.15.2.jar",
+      "new_path": "baratone/forge/1.15.2/Baritone_1.15.2_1.15.2_UnknownOrigin.jar",
+      "sha": "a921b54870cbf57ece66840d0959a10db6c91d8a",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.15.2",
+      "mod_version_label": "1.15.2",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/forge/1.16.4/baritone-forge-1.16.4.jar",
+      "new_path": "baratone/forge/1.16.4/Baritone_1.16.4_1.16.4_UnknownOrigin.jar",
+      "sha": "93d507719e86764a3a2b8fcb02e334a33880068c",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.16.4",
+      "mod_version_label": "1.16.4",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/forge/1.16.5/baritone-forge-1.16.5.jar",
+      "new_path": "baratone/forge/1.16.5/Baritone_1.16.5_1.16.5_UnknownOrigin.jar",
+      "sha": "1a2c067d289923a3787eb7a8bafcdc15d398b228",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.16.5",
+      "mod_version_label": "1.16.5",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/forge/1.17.1/baritone-forge-1.17.1.jar",
+      "new_path": "baratone/forge/1.17.1/Baritone_1.17.1_1.17.1_UnknownOrigin.jar",
+      "sha": "694863520d4e261a2cb014d1dc4c5fd40a6aec6e",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.17.1",
+      "mod_version_label": "1.17.1",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/forge/1.18.1/baritone-forge-1.18.1.jar",
+      "new_path": "baratone/forge/1.18.1/Baritone_1.18.1_1.18.1_UnknownOrigin.jar",
+      "sha": "5a8994a18cebf2ac15f3d01753753c3f5cda5f4a",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.18.1",
+      "mod_version_label": "1.18.1",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/forge/1.18.2/baritone-forge-1.18.2.jar",
+      "new_path": "baratone/forge/1.18.2/Baritone_1.18.2_1.18.2_UnknownOrigin.jar",
+      "sha": "dc36ff7f7d2290b5071e3a3218987e2458926a6d",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.18.2",
+      "mod_version_label": "1.18.2",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/forge/1.19.2/baritone-forge-1.19.2.jar",
+      "new_path": "baratone/forge/1.19.2/Baritone_1.19.2_1.19.2_UnknownOrigin.jar",
+      "sha": "f77ebab1a80eb198c79c04996418ad910c066b71",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.19.2",
+      "mod_version_label": "1.19.2",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/forge/1.19.4/baritone-forge-1.19.4.jar",
+      "new_path": "baratone/forge/1.19.4/Baritone_1.19.4_1.19.4_UnknownOrigin.jar",
+      "sha": "389f9163eadf59f6d8cebdea680a92117343b38a",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.19.4",
+      "mod_version_label": "1.19.4",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/forge/1.20.1/baritone-forge-1.20.1.jar",
+      "new_path": "baratone/forge/1.20.1/Baritone_1.20.1_1.20.1_UnknownOrigin.jar",
+      "sha": "59ff9cf108177ee56f3fbdc30b8183e30fff838f",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.20.1",
+      "mod_version_label": "1.20.1",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/forge/1.20.3/baritone-forge-1.20.3.jar",
+      "new_path": "baratone/forge/1.20.3/Baritone_1.20.3_1.20.3_UnknownOrigin.jar",
+      "sha": "fa6a3778b4193732c9402a39428e926433c3f5e0",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.20.3",
+      "mod_version_label": "1.20.3",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/forge/1.20.4/baritone-forge-1.20.4.jar",
+      "new_path": "baratone/forge/1.20.4/Baritone_1.20.4_1.20.4_UnknownOrigin.jar",
+      "sha": "fa6a3778b4193732c9402a39428e926433c3f5e0",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.20.4",
+      "mod_version_label": "1.20.4",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/forge/1.20/baritone-forge-1.20.jar",
+      "new_path": "baratone/forge/1.20/Baritone_1.20_1.20_UnknownOrigin.jar",
+      "sha": "59ff9cf108177ee56f3fbdc30b8183e30fff838f",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.20",
+      "mod_version_label": "1.20",
+      "verified_working": false
+    },
+    {
+      "old_path": "baratone/forge/1.21.3/baritone-forge-1.21.3.jar",
+      "new_path": "baratone/forge/1.21.3/Baritone_1.21.3_1.21.3_UnknownOrigin.jar",
+      "sha": "7f083e71d38a2c10491cbf181fc38de2148e96f8",
+      "source_archive": "UnknownOrigin",
+      "mc_version_label": "1.21.3",
+      "mod_version_label": "1.21.3",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.14.4/meteor-client-0.1.0.jar",
+      "new_path": "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.0_ManInMyVan.jar",
+      "sha": "12e962c60e5e436bee4e53f2e68c50c1f6935122",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.14.4",
+      "mod_version_label": "0.1.0",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.14.4/meteor-client-0.1.1.jar",
+      "new_path": "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.1_ManInMyVan.jar",
+      "sha": "35fbab8d67c588b457cd1c64e4e3a229993df34d",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.14.4",
+      "mod_version_label": "0.1.1",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.14.4/meteor-client-0.1.2.jar",
+      "new_path": "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.2_ManInMyVan.jar",
+      "sha": "1cd43f554a12b6c51f5356cc47557338efd624a6",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.14.4",
+      "mod_version_label": "0.1.2",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.14.4/meteor-client-0.1.3.jar",
+      "new_path": "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.3_ManInMyVan.jar",
+      "sha": "0362e784924ddc2dd0726ddf40bdc8864e9b4743",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.14.4",
+      "mod_version_label": "0.1.3",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.14.4/meteor-client-0.1.4.jar",
+      "new_path": "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.4_ManInMyVan.jar",
+      "sha": "f9b4292fa237f4c25117293961dcb5e055e402d5",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.14.4",
+      "mod_version_label": "0.1.4",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.14.4/meteor-client-0.1.5.jar",
+      "new_path": "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.5_ManInMyVan.jar",
+      "sha": "ec2c17a9dea78e46d801280adbdfae2792c1eecf",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.14.4",
+      "mod_version_label": "0.1.5",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.14.4/meteor-client-0.1.6.jar",
+      "new_path": "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.6_ManInMyVan.jar",
+      "sha": "5c6b17edf928d728c2c0b98c0a447c9603dc3174",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.14.4",
+      "mod_version_label": "0.1.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.14.4/meteor-client-0.1.7-1.14.4.jar",
+      "new_path": "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.7_ManInMyVan.jar",
+      "sha": "b397283eaef48d179875226238fc9e0176b8888a",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.14.4",
+      "mod_version_label": "0.1.7",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.14.4/meteor-client-0.1.8-1.14.4.jar",
+      "new_path": "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.8_ManInMyVan.jar",
+      "sha": "2245b6c252b7b732fa9e018b4ec8be11e1c46136",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.14.4",
+      "mod_version_label": "0.1.8",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.14.4/meteor-client-0.1.9-1.14.4.jar",
+      "new_path": "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.9_ManInMyVan.jar",
+      "sha": "3ec677e706a1a4c475e52c162f3356eb342cd0aa",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.14.4",
+      "mod_version_label": "0.1.9",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.14.4/meteor-client-0.2.0-1.14.4.jar",
+      "new_path": "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.2.0_ManInMyVan.jar",
+      "sha": "eb6c536984fe6f3723e500a15b35aa38db088cac",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.14.4",
+      "mod_version_label": "0.2.0",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.14.4/meteor-client-0.2.1-1.14.4.jar",
+      "new_path": "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.2.1_ManInMyVan.jar",
+      "sha": "0b595c80ad69b55dddef8b16521d466f16a4a680",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.14.4",
+      "mod_version_label": "0.2.1",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.14.4/meteor-client-0.2.2-1.14.4.jar",
+      "new_path": "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.2.2_ManInMyVan.jar",
+      "sha": "1c25817b3d602ec85548384fea8f65ef3bb81e01",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.14.4",
+      "mod_version_label": "0.2.2",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.14.4/meteor-client-0.2.3-1.14.4.jar",
+      "new_path": "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.2.3_ManInMyVan.jar",
+      "sha": "0229355338384d04e869919e80ea837f2fb68777",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.14.4",
+      "mod_version_label": "0.2.3",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.14.4/meteor-client-0.2.4-1.14.4.jar",
+      "new_path": "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.2.4_ManInMyVan.jar",
+      "sha": "d4fdbd9f3fd158332b7249ebbccb663ad2080214",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.14.4",
+      "mod_version_label": "0.2.4",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.14.4/meteor-client-0.2.8-1.14.4.jar",
+      "new_path": "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.2.8_ManInMyVan.jar",
+      "sha": "c04c28990ae56cfbdb3dc882006669b3b74c656d",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.14.4",
+      "mod_version_label": "0.2.8",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.15.2/meteor-client-0.1.7-1.15.2.jar",
+      "new_path": "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.1.7_ManInMyVan.jar",
+      "sha": "9953de36c1a29ef5169764a52bcddba714a3c6fb",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.15.2",
+      "mod_version_label": "0.1.7",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.15.2/meteor-client-0.1.8-1.15.2.jar",
+      "new_path": "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.1.8_ManInMyVan.jar",
+      "sha": "efbb1e371bb4bfd2eb706eee41ff61d0f2a33086",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.15.2",
+      "mod_version_label": "0.1.8",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.15.2/meteor-client-0.1.9-1.15.2.jar",
+      "new_path": "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.1.9_ManInMyVan.jar",
+      "sha": "6716e7339f62b4ae8525ba7a938169da4dbe6f5f",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.15.2",
+      "mod_version_label": "0.1.9",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.15.2/meteor-client-0.2.0-1.15.2.jar",
+      "new_path": "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.2.0_ManInMyVan.jar",
+      "sha": "a3c24874a508139b643413648c70bb69affcd574",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.15.2",
+      "mod_version_label": "0.2.0",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.15.2/meteor-client-0.2.1-1.15.2.jar",
+      "new_path": "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.2.1_ManInMyVan.jar",
+      "sha": "777d0dff226c63f12ee194360dd14f517ec25766",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.15.2",
+      "mod_version_label": "0.2.1",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.15.2/meteor-client-0.2.2-1.15.2.jar",
+      "new_path": "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.2.2_ManInMyVan.jar",
+      "sha": "09f0beb1c622ec8861bdb4f1e3bc08fe32a4bdf6",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.15.2",
+      "mod_version_label": "0.2.2",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.15.2/meteor-client-0.2.3-1.15.2.jar",
+      "new_path": "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.2.3_ManInMyVan.jar",
+      "sha": "25aebe4c791c65d5e9ead30eaba83472e11f3d58",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.15.2",
+      "mod_version_label": "0.2.3",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.15.2/meteor-client-0.2.4-1.15.2.jar",
+      "new_path": "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.2.4_ManInMyVan.jar",
+      "sha": "6eb842ce10eb77038779eeae835f39ab6a254128",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.15.2",
+      "mod_version_label": "0.2.4",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.15.2/meteor-client-0.2.6-1.15.2.jar",
+      "new_path": "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.2.6_ManInMyVan.jar",
+      "sha": "cec2615589900e1da4b6ef385bbf232479a0a85c",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.15.2",
+      "mod_version_label": "0.2.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.16.x/meteor-client-0.3.6.jar",
+      "new_path": "meteor/fabric/1.16.x/MeteorClient_1.16.x_0.3.6_ManInMyVan.jar",
+      "sha": "a23d99f4fa71b680c92d2c4d48cc041067ecff91",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.16.x",
+      "mod_version_label": "0.3.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.16.x/meteor-client-0.3.8.jar",
+      "new_path": "meteor/fabric/1.16.x/MeteorClient_1.16.x_0.3.8_ManInMyVan.jar",
+      "sha": "5e71db6a7f3b5350f5edd6ad913d4ab8a7607b7e",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.16.x",
+      "mod_version_label": "0.3.8",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.16.x/meteor-client-0.4.2.jar",
+      "new_path": "meteor/fabric/1.16.x/MeteorClient_1.16.x_0.4.2_ManInMyVan.jar",
+      "sha": "0d8547d8fd220c59e564ec6dade0ec7ff5cc0953",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.16.x",
+      "mod_version_label": "0.4.2",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.16.x/meteor-client-0.4.4.jar",
+      "new_path": "meteor/fabric/1.16.x/MeteorClient_1.16.x_0.4.4_ManInMyVan.jar",
+      "sha": "2f2edb9c26ccf0cd38c17039061982b7f1947588",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.16.x",
+      "mod_version_label": "0.4.4",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.17.1/meteor-client-0.4.5.jar",
+      "new_path": "meteor/fabric/1.17.1/MeteorClient_1.17.1_0.4.5_ManInMyVan.jar",
+      "sha": "6c838ced78f00a9f0024cf997aea9c98f9cd7ab4",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.17.1",
+      "mod_version_label": "0.4.5",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.17.1/meteor-client-0.4.6.jar",
+      "new_path": "meteor/fabric/1.17.1/MeteorClient_1.17.1_0.4.6_ManInMyVan.jar",
+      "sha": "a5a32c8924ef4ec7e39c5432de6d5028149141f0",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.17.1",
+      "mod_version_label": "0.4.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.18.2/meteor-client-0.4.8.jar",
+      "new_path": "meteor/fabric/1.18.2/MeteorClient_1.18.2_0.4.8_ManInMyVan.jar",
+      "sha": "bf94d32ee0bfba2ba163cb836d0f98ed15a46917",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.18.2",
+      "mod_version_label": "0.4.8",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.18.2/meteor-client-0.4.9.jar",
+      "new_path": "meteor/fabric/1.18.2/MeteorClient_1.18.2_0.4.9_ManInMyVan.jar",
+      "sha": "8a4cb2779231fdc87ebfa5939df2541985414d6b",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.18.2",
+      "mod_version_label": "0.4.9",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.19.2/meteor-client-0.5.1.jar",
+      "new_path": "meteor/fabric/1.19.2/MeteorClient_1.19.2_0.5.1_ManInMyVan.jar",
+      "sha": "e7d602369ba64cb10de32b0a5282985db90ee413",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.19.2",
+      "mod_version_label": "0.5.1",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.19.3/meteor-client-0.5.2.jar",
+      "new_path": "meteor/fabric/1.19.3/MeteorClient_1.19.3_0.5.2_ManInMyVan.jar",
+      "sha": "390ce8c157fb7cdaaf4d33f493c92ade2a9dd25f",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.19.3",
+      "mod_version_label": "0.5.2",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.19.4/meteor-client-0.5.3.jar",
+      "new_path": "meteor/fabric/1.19.4/MeteorClient_1.19.4_0.5.3_ManInMyVan.jar",
+      "sha": "cfeb282b1c2e3562eb8ec75957c0c707b3c09a3c",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.19.4",
+      "mod_version_label": "0.5.3",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.19/meteor-client-0.5.0.jar",
+      "new_path": "meteor/fabric/1.19/MeteorClient_1.19_0.5.0_ManInMyVan.jar",
+      "sha": "76362be1b380135aa714141b4c0df6956e2ec5ae",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.19",
+      "mod_version_label": "0.5.0",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.20-1.20.1/meteor-client-0.5.4.jar",
+      "new_path": "meteor/fabric/1.20-1.20.1/MeteorClient_1.20-1.20.1_0.5.4_ManInMyVan.jar",
+      "sha": "795f96a84527a1920cb89c920d7de8a6c12e79e4",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.20-1.20.1",
+      "mod_version_label": "0.5.4",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.20.2/meteor-client-0.5.5.jar",
+      "new_path": "meteor/fabric/1.20.2/MeteorClient_1.20.2_0.5.5_ManInMyVan.jar",
+      "sha": "893083e0db80a9c5217724c77e86f5f0af5e3a36",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.20.2",
+      "mod_version_label": "0.5.5",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.20.4/meteor-client-0.5.6.jar",
+      "new_path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan.jar",
+      "sha": "1bb6f246a19b4d844ec3b5e58c2eaaf4c9abfb25",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.20.4",
+      "mod_version_label": "0.5.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.20.6/meteor-client-0.5.7.jar",
+      "new_path": "meteor/fabric/1.20.6/MeteorClient_1.20.6_0.5.7_ManInMyVan.jar",
+      "sha": "60a9305dc85ddeb099c24dcf6885b704b81b24a9",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.20.6",
+      "mod_version_label": "0.5.7",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/1.21.1/meteor-client-0.5.8.jar",
+      "new_path": "meteor/fabric/1.21.1/MeteorClient_1.21.1_0.5.8_ManInMyVan.jar",
+      "sha": "efbfcacdcb41acfa082ef0ad1d0711dbc19f5d6d",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "1.21.1",
+      "mod_version_label": "0.5.8",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.3.0.1-1.16.1.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.3.0.1_ManInMyVan.jar",
+      "sha": "2957e9857c17768690d411df10a6cea527bef8a9",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.3.0.1",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.4.6-1180.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.6_ManInMyVan.jar",
+      "sha": "cf58d3dd6b6b850b3a6c03dcbd21056eeb8b75d2",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.4.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.4.7-1373.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.7_ManInMyVan.jar",
+      "sha": "ed0b208fff5deb16609775dbde1e067a88eef3d9",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.4.7",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.4.7-1381.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.7_ManInMyVan_build-05c97f8e.jar",
+      "sha": "05c97f8ef0cfad9e2e6dc59aa7767df8bb57c5b3",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.4.7",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.4.7-1388.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.7_ManInMyVan_build-1a7416bc.jar",
+      "sha": "1a7416bcced13925af6f236f4bc04b7dbc371338",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.4.7",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.4.7-1396.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.7_ManInMyVan_build-540d48a0.jar",
+      "sha": "540d48a0b5477b3617e9f2324c5438b591c04792",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.4.7",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.4.8-1427.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.8_ManInMyVan.jar",
+      "sha": "e0a60a9c0aa21e24f80a1f89659eeeeab80a3e93",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.4.8",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.4.8-1441.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.8_ManInMyVan_build-8381cbe3.jar",
+      "sha": "8381cbe33683a18aa05cb88d6e1ae8e249143d42",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.4.8",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.0-1562.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.0_ManInMyVan.jar",
+      "sha": "97666a93ca1d1c76d0a3abba376fe2dda4050714",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.0",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.1-1571.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.1_ManInMyVan.jar",
+      "sha": "e87f5a6a11cd180778269dce1ca2b46cee206784",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.1",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.1-1690.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.1_ManInMyVan_build-f9d6ed89.jar",
+      "sha": "f9d6ed89dcc55986b1a381bc5c62514365908197",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.1",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.5-1964.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.5_ManInMyVan.jar",
+      "sha": "0ecbbc5508abb68a7b39f3748fffe808cf5b2028",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.5",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.6-1985.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan.jar",
+      "sha": "a0e45bb5dbdc7894065523899547091175a15547",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.6-1993.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-6f989071.jar",
+      "sha": "6f989071c443516f0e6dd90871d20eab79359d84",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.6-1995.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-22ab601e.jar",
+      "sha": "22ab601e5676e8bf580842e4db571027b69758cd",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.6-1996.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-37ab721f.jar",
+      "sha": "37ab721f6ac7785fab836a3f6b94c83d4f7a9b49",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.6-1997.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-68b73118.jar",
+      "sha": "68b73118a0f0ccced63e7a7c52355c9ea003ee09",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.6-1998.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-aad83ef9.jar",
+      "sha": "aad83ef995dda023b039edcb24aee82cb6ee74f7",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.6-1999.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-13c939e4.jar",
+      "sha": "13c939e4ba94b7e97cc06444c05f6f7627bf6c7f",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.6-2001.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-464e4a98.jar",
+      "sha": "464e4a9837467d19fcf10bd6e156790f4c9ec958",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.6-2002.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-05b42454.jar",
+      "sha": "05b4245446c5e3b9349e868e6e8d0c936fb76ce1",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.6-2003.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-33f02500.jar",
+      "sha": "33f025009bea3bda89342912de9d4780fce5fb76",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.6-2005.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-c13166ed.jar",
+      "sha": "c13166ed78a3cfa159d0b4537b9916ee5dd4edae",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.6-2007.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-1c070fed.jar",
+      "sha": "1c070fedd4c50e8bcbab58f7183b4187fae14d48",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.6-2008.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-8bbd0a7e.jar",
+      "sha": "8bbd0a7e8320ad8e266cb10c55482124c5e774be",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.6",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.7-2079.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.7_ManInMyVan.jar",
+      "sha": "af9f8e66a2f0575822c0f05ed1928d578242d1ae",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.7",
+      "verified_working": false
+    },
+    {
+      "old_path": "meteor/fabric/unverified-extra/meteor-client-0.5.8-2119.jar",
+      "new_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.8_ManInMyVan.jar",
+      "sha": "f5677724261921941514333f6c5362a2097e271f",
+      "source_archive": "ManInMyVan",
+      "mc_version_label": "unverified-extra",
+      "mod_version_label": "0.5.8",
+      "verified_working": false
+    }
+  ]
+}
