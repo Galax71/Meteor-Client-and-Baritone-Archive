@@ -1,0 +1,31 @@
+name: Recover historical JARs
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/import_found.py
+      - .github/workflows/recover-found.yml
+permissions:
+  contents: write
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Download and validate archives
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/import_found.py
+      - name: Commit downloaded JARs
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add source RECOVERED-SOURCES.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Import verified ZIP-format JARs by source mod loader and version'
+            git push
+          fi
