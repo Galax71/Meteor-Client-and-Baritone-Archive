@@ -45,7 +45,7 @@ jobs:
 
   compile:
     needs: discover
-    if: ${{ needs.discover.outputs.matrix != '' }}
+    if: ${{ needs.discover.outputs.matrix != '' && needs.discover.outputs.matrix != '{"include":[]}' }}
     strategy:
       fail-fast: false
       max-parallel: 3
@@ -53,7 +53,26 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 90
     steps:
+      - name: Check whether upstream source ref exists
+        id: upstream
+        shell: bash
+        env:
+          PROJECT: ${{ matrix.project }}
+          REF: ${{ matrix.ref }}
+        run: |
+          if [[ "$PROJECT" == "meteor" ]]; then
+            URL="https://github.com/MeteorDevelopment/meteor-client.git"
+          else
+            URL="https://github.com/cabaletta/baritone.git"
+          fi
+          if git ls-remote --exit-code --heads --tags "$URL" "$REF" | grep -q .; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::warning::Upstream ref $PROJECT/$REF is unavailable; skipping this matrix entry"
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
       - name: Fetch exact upstream branch
+        if: steps.upstream.outputs.exists == 'true'
         uses: actions/checkout@v4
         with:
           repository: ${{ matrix.project == 'meteor' && 'MeteorDevelopment/meteor-client' || 'cabaletta/baritone' }}
@@ -63,11 +82,14 @@ jobs:
           submodules: recursive
           persist-credentials: false
       - uses: actions/setup-java@v4
+        if: steps.upstream.outputs.exists == 'true'
         with:
           distribution: temurin
           java-version: ${{ matrix.java }}
       - uses: gradle/actions/setup-gradle@v4
+        if: steps.upstream.outputs.exists == 'true'
       - name: Compile upstream source
+        if: steps.upstream.outputs.exists == 'true'
         shell: bash
         working-directory: source
         run: |
@@ -78,6 +100,7 @@ jobs:
             ./gradlew --no-daemon build
           fi
       - name: Collect loader-specific distributable JARs
+        if: steps.upstream.outputs.exists == 'true'
         shell: bash
         env:
           PROJECT: ${{ matrix.project }}
@@ -122,6 +145,7 @@ jobs:
               (file.parent/(file.name+'.sha256')).write_text(hashlib.sha256(file.read_bytes()).hexdigest()+'  '+file.name+'\n')
           PY
       - uses: actions/upload-artifact@v4
+        if: steps.upstream.outputs.exists == 'true'
         with:
           name: built-${{ matrix.project }}-${{ matrix.mc }}-${{ github.run_id }}
           path: publish/
@@ -148,13 +172,11 @@ jobs:
           import pathlib,shutil
           for jar in pathlib.Path('incoming').rglob('*.jar'):
               parts=jar.parts
-              try: i=parts.index('meteor')
-              except ValueError:
-                  try: i=parts.index('baratone')
-                  except ValueError: continue
+              try: i=next(i for i,p in enumerate(parts) if p in ('meteor','baratone'))
+              except StopIteration: continue
               relative=pathlib.Path(*parts[i:])
               if len(relative.parts)!=4: continue
-              target=pathlib.Path(relative)
+              target=pathlib.Path('source')/'compiled-upstream'/relative
               if target.exists():
                   if target.read_bytes()!=jar.read_bytes():
                       print('Existing archive preserved:',target)
@@ -168,7 +190,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add meteor/ baratone/
+          git add source/compiled-upstream/
           if git diff --cached --quiet; then
             echo "No new builds to publish"
           else
