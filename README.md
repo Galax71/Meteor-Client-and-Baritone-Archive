@@ -895,10 +895,10 @@ These are **not hosted in this repository**. A missing *specific build* can coex
 | 1.21.6 | See source | Fabric | Meteor official archive | [Open source](https://meteorclient.com/archive) | Available upstream — not imported |
 | 1.21.5 | See source | Fabric | Meteor official archive | [Open source](https://meteorclient.com/archive) | Available upstream — not imported |
 | 1.21.4 | See source | Fabric | Meteor official archive | [Open source](https://meteorclient.com/archive) | Available upstream — not imported |
-| 1.21.2/1.21.3 | 0.5.9 | Fabric | ManInMyVan historical archive | [Open source](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/meteor-client-0.5.9.jar) | Specific historical JAR missing — not imported |
-| 1.18.1 | 0.4.7 | Fabric | ManInMyVan historical archive | [Open source](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/meteor-client-0.4.7.jar) | Specific historical JAR missing — not imported |
-| 1.18.1 | 0.4.7 build 1384 | Fabric | ManInMyVan extra builds | [Open source](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.7-1384.jar) | Specific historical JAR missing — not imported |
-| 1.18.1 | 0.4.7 build 1405 | Fabric | ManInMyVan extra builds | [Open source](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.7-1405.jar) | Specific historical JAR missing — not imported |
+| 1.21.2/1.21.3 | 0.5.9 | Fabric | ManInMyVan historical archive | [Open source](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/meteor-client-0.5.9.jar) | Automated recovery queued; not yet imported |
+| 1.18.1 | 0.4.7 | Fabric | ManInMyVan historical archive | [Open source](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/meteor-client-0.4.7.jar) | Imported · [Download JAR](source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.18.1/meteor-client-0.4.7.jar) |
+| 1.18.1 | 0.4.7 build 1384 | Fabric | ManInMyVan extra builds | [Open source](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.7-1384.jar) | Imported · [Download JAR](source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.18.1/meteor-client-0.4.7-1384.jar) |
+| 1.18.1 | 0.4.7 build 1405 | Fabric | ManInMyVan extra builds | [Open source](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.7-1405.jar) | Imported · [Download JAR](source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.18.1/meteor-client-0.4.7-1405.jar) |
 
 ### Baritone
 
@@ -937,17 +937,19 @@ The following are **source locations and research leads**, not proof that a spec
 
 The ManInMyVan repository also contains contributor credits and historical version labels in its [README](https://github.com/ManInMyVan/meteor-archive/blob/main/README.md). Those credits are not automatically proof of original authorship of each binary.
 
-### Five ManInMyVan files not yet imported
+### ManInMyVan source comparison: four recovered, one pending
 
-These are linked to their **external source** and are **not** counted among this repository's downloads:
+Comparison against [ManInMyVan/meteor-archive](https://github.com/ManInMyVan/meteor-archive/tree/main/files) uses **Git blob SHA** (exact file identity). Four files previously labelled “not imported” are already present in this repository under `source/github.com-ManInMyVan-meteor-archive/`. The fifth file is queued for automated import; **it must not be counted as imported until a local JAR exists**.
 
-| File | Source link |
-|---|---|
-| `baritone-1.21.3-20241117.084726-1.jar` | [View source file](https://github.com/ManInMyVan/meteor-archive/blob/main/files/baritone/baritone-1.21.3-20241117.084726-1.jar) |
-| `meteor-client-0.4.7-1384.jar` | [View source file](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.7-1384.jar) |
-| `meteor-client-0.4.7-1405.jar` | [View source file](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.7-1405.jar) |
-| `meteor-client-0.4.7.jar` | [View source file](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/meteor-client-0.4.7.jar) |
-| `meteor-client-0.5.9.jar` | [View source file](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/meteor-client-0.5.9.jar) |
+| Historical file | Status | Download / source |
+|---|---|---|
+| `baritone-1.21.3-20241117.084726-1.jar` | ✅ Imported · SHA matched | [Download](source/github.com-ManInMyVan-meteor-archive/baritone/fabric/1.21.3/baritone-1.21.3-20241117.084726-1.jar) |
+| `meteor-client-0.4.7-1384.jar` | ✅ Imported · SHA matched | [Download](source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.18.1/meteor-client-0.4.7-1384.jar) |
+| `meteor-client-0.4.7-1405.jar` | ✅ Imported · SHA matched | [Download](source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.18.1/meteor-client-0.4.7-1405.jar) |
+| `meteor-client-0.4.7.jar` | ✅ Imported · SHA matched | [Download](source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.18.1/meteor-client-0.4.7.jar) |
+| `meteor-client-0.5.9.jar` | ⏳ Pending automated import · Minecraft 1.21.3 label inferred | [Upstream file](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/meteor-client-0.5.9.jar) |
+
+For all 83 upstream files and exact SHA comparisons, see [IMPORT-PROVENANCE.json](IMPORT-PROVENANCE.json).
 
 ## Archive layout
 

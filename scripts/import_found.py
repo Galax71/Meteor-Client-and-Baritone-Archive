@@ -35,7 +35,7 @@ for page in range(1,11):
    loader='neoforge' if 'neoforge' in name else 'fabric' if 'fabric' in name else 'forge' if 'forge' in name else 'standalone'
    digest=a.get('digest') or '';digest=digest[7:] if digest.startswith('sha256:') else None
    for mc in mcvers:save(a['browser_download_url'],'github.com-cabaletta-baritone','baritone',loader,mc,name,digest)
-known={'0.3.0.1':'1.16.1','0.4.6':'1.17.1','0.4.7':'1.18.1','0.4.8':'1.18.2','0.5.0':'1.19','0.5.1':'1.19.2','0.5.5':'1.20.2','0.5.6':'1.20.4','0.5.7':'1.20.6','0.5.8':'1.21.1'}
+known={'0.3.0.1':'1.16.1','0.4.6':'1.17.1','0.4.7':'1.18.1','0.4.8':'1.18.2','0.5.0':'1.19','0.5.1':'1.19.2','0.5.5':'1.20.2','0.5.6':'1.20.4','0.5.7':'1.20.6','0.5.8':'1.21.1','0.5.9':'1.21.3'}
 try:
  tree=json.loads(fetch('https://api.github.com/repos/ManInMyVan/meteor-archive/git/trees/main?recursive=1'))['tree']
  for item in tree:

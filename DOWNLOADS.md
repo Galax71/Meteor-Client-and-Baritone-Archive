@@ -1,6 +1,6 @@
 # Archived JAR downloads by Minecraft version and loader
 
-These links point to files committed in this repository. Version folders reflect the original archive's version labels, not independently verified runtime compatibility. The `unverified-extra` builds require inspection of their embedded metadata.
+These links point to files committed in this repository. The community-source comparison is tracked in [IMPORT-PROVENANCE.json](IMPORT-PROVENANCE.json). Version folders reflect the original archive's version labels, not independently verified runtime compatibility. The `unverified-extra` builds require inspection of their embedded metadata.
 
 ## meteor
 
