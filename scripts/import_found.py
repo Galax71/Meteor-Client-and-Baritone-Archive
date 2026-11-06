@@ -8,13 +8,15 @@ def fetch(url):
 def save(url,source,mod,loader,mc,name,sha=None):
  if not re.fullmatch(r'(?:1\.\d+(?:\.\d+)?|26\.\d+(?:\.\d+)?)',mc):return
  if not re.fullmatch(r'[A-Za-z0-9._-]+\.jar',name):return
+ p=base/source/mod/loader/mc/name
  try:
+  if p.exists():
+   print('ALREADY ARCHIVED',p.relative_to(root),flush=True)
+   return
   data=fetch(url)
   if len(data)>75000000 or not zipfile.is_zipfile(io.BytesIO(data)):raise ValueError('invalid jar or too large')
   digest=hashlib.sha256(data).hexdigest()
   if sha and sha!=digest:raise ValueError('SHA256 mismatch')
-  p=base/source/mod/loader/mc/name
-  if p.exists() and hashlib.sha256(p.read_bytes()).hexdigest()==digest:return
   if p.exists():p=p.with_name(p.stem+'_'+digest[:10]+'.jar')
   p.parent.mkdir(parents=True,exist_ok=True);p.write_bytes(data)
   records.append(dict(path=str(p.relative_to(root)),source_url=url,sha256=digest,bytes=len(data),tested_in_game=False))

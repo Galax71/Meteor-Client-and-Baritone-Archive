@@ -1,11 +1,16 @@
 name: Recover historical JARs
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '17 7 * * *'
   push:
     paths:
       - scripts/import_found.py
       - EXTERNAL-DOWNLOADS.json
       - .github/workflows/recover-found.yml
+concurrency:
+  group: auto-mod-recovery
+  cancel-in-progress: false
 permissions:
   contents: write
 jobs:
@@ -14,6 +19,8 @@ jobs:
     timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
