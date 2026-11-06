@@ -131,6 +131,12 @@ Minecraft versions are sorted newest first. **(inferred)** means the version is 
 | 1.13.2 | fabric | 1.13.2 | Unknown | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.13.2/Baritone_1.13.2_1.13.2_UnknownOrigin.jar) |
 | 1.12.2 | forge | 1.12.2 | Unknown | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.12.2/Baritone_1.12.2_1.12.2_UnknownOrigin.jar) |
 
+## Minecraft Java releases 1.0.0 through 26.3
+
+[Complete per-version table](MC-VERSION-COVERAGE.md) · [Machine-readable inventory](MC-VERSION-COVERAGE.json) · [Missing / potentially lost mod builds](MISSING-OR-LOST.md).
+
+The inventory has **104 Minecraft full-release version labels** with separate Meteor Client and Baritone coverage statuses, newest to oldest. Missing files are not automatically lost builds; many older Minecraft versions predate the mods.
+
 ## Missing versions and historical builds found online
 
 These are **not hosted in this repository**. A missing *specific build* can coexist with other local JARs for the same Minecraft version. Source links lead to release/archive pages rather than guaranteed direct JAR downloads. Historical version mappings are not individual in-game compatibility tests. This is not an exhaustive inventory of every Minecraft patch version.
@@ -232,3 +238,7 @@ Meteor Client and Baritone are third-party projects. This archive is independent
 ## Standardized filenames
 
 Every archived JAR follows `ModName_MCVersion_ModVersion_SourceArchive.jar`. If two builds would otherwise have the same filename, `_build-<GitBlobSHA>` distinguishes them. `ManInMyVan` means an identical file is present in that community archive, **not** that its original author or build origin is proven. `UnknownOrigin` means no matching listed source archive has been established. Minecraft and mod version fields are inferred from the archive path or old filename and are **not verified compatibility results**. See [FILENAME-MANIFEST.json](FILENAME-MANIFEST.json) for old-to-new paths and exact Git blob hashes.
+
+## Missing or potentially lost to time
+
+See [MISSING-OR-LOST.md](MISSING-OR-LOST.md) for specific historical mod-version gaps and Internet Archive / Wayback Machine research links. None are confirmed permanently lost.

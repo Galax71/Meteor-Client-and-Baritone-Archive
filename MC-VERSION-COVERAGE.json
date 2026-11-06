@@ -1,0 +1,1603 @@
+{
+  "scope": "Curated Minecraft Java full releases 1.0.0 through 26.3",
+  "sources": [
+    "https://minecraft.wiki/w/Java_Edition_version_history",
+    "https://meteorclient.com/archive",
+    "https://github.com/cabaletta/baritone/blob/1.21.4/SETUP.md"
+  ],
+  "records": [
+    {
+      "minecraft_version": "26.3",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "26.3",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "26.2",
+      "mod": "Meteor Client",
+      "status": "official-upstream",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "26.2",
+      "mod": "Baritone",
+      "status": "official-upstream",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "26.1.2",
+      "mod": "Meteor Client",
+      "status": "official-upstream",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "26.1.2",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "26.1.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "26.1.1",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "26.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "26.1",
+      "mod": "Baritone",
+      "status": "official-upstream",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.11",
+      "mod": "Meteor Client",
+      "status": "official-upstream",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.11",
+      "mod": "Baritone",
+      "status": "official-upstream",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.10",
+      "mod": "Meteor Client",
+      "status": "official-upstream",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.10",
+      "mod": "Baritone",
+      "status": "official-upstream",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.9",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.9",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.8",
+      "mod": "Meteor Client",
+      "status": "official-upstream",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.8",
+      "mod": "Baritone",
+      "status": "official-upstream",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.7",
+      "mod": "Meteor Client",
+      "status": "official-upstream",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.7",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.6",
+      "mod": "Meteor Client",
+      "status": "official-upstream",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.6",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.5",
+      "mod": "Meteor Client",
+      "status": "official-upstream",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.5",
+      "mod": "Baritone",
+      "status": "official-upstream",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.4",
+      "mod": "Meteor Client",
+      "status": "official-upstream",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.4",
+      "mod": "Baritone",
+      "status": "official-upstream",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.3",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.3",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.21.3/Baritone_1.21.3_1.21.3_UnknownOrigin.jar",
+        "baratone/forge/1.21.3/Baritone_1.21.3_1.21.3_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.2",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.2",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.1",
+      "mod": "Meteor Client",
+      "status": "local",
+      "local_paths": [
+        "meteor/fabric/1.21.1/MeteorClient_1.21.1_0.5.8_ManInMyVan.jar",
+        "meteor/fabric/1.21.1/MeteorClient_1.21.1_0.5.8_ManInMyVan_build-f5677724.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21.1",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.21.1/Baritone_1.21.1_1.21.1_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.21",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.21/Baritone_1.21_1.21_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.20.6",
+      "mod": "Meteor Client",
+      "status": "local",
+      "local_paths": [
+        "meteor/fabric/1.20.6/MeteorClient_1.20.6_0.5.7_ManInMyVan.jar",
+        "meteor/fabric/1.20.6/MeteorClient_1.20.6_0.5.7_ManInMyVan_build-af9f8e66.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.20.6",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.20.6/Baritone_1.20.6_1.20.6_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.20.5",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.20.5",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.20.4",
+      "mod": "Meteor Client",
+      "status": "local",
+      "local_paths": [
+        "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan.jar",
+        "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-05b42454.jar",
+        "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-13c939e4.jar",
+        "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-1c070fed.jar",
+        "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-22ab601e.jar",
+        "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-33f02500.jar",
+        "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-37ab721f.jar",
+        "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-464e4a98.jar",
+        "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-68b73118.jar",
+        "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-6f989071.jar",
+        "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-8bbd0a7e.jar",
+        "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-a0e45bb5.jar",
+        "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-aad83ef9.jar",
+        "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-c13166ed.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.20.4",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.20.4/Baritone_1.20.4_1.20.4_UnknownOrigin.jar",
+        "baratone/forge/1.20.4/Baritone_1.20.4_1.20.4_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.20.3",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.20.3",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.20.3/Baritone_1.20.3_1.20.3_UnknownOrigin.jar",
+        "baratone/forge/1.20.3/Baritone_1.20.3_1.20.3_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.20.2",
+      "mod": "Meteor Client",
+      "status": "local",
+      "local_paths": [
+        "meteor/fabric/1.20.2/MeteorClient_1.20.2_0.5.5_ManInMyVan.jar",
+        "meteor/fabric/1.20.2/MeteorClient_1.20.2_0.5.5_ManInMyVan_build-0ecbbc55.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.20.2",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.20.2/Baritone_1.20.2_1.20.2_ManInMyVan.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.20.1",
+      "mod": "Meteor Client",
+      "status": "local",
+      "local_paths": [
+        "meteor/fabric/1.20-1.20.1/MeteorClient_1.20-1.20.1_0.5.4_ManInMyVan.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.20.1",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.20.1/Baritone_1.20.1_1.20.1_ManInMyVan.jar",
+        "baratone/forge/1.20.1/Baritone_1.20.1_1.20.1_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.20",
+      "mod": "Meteor Client",
+      "status": "local",
+      "local_paths": [
+        "meteor/fabric/1.20-1.20.1/MeteorClient_1.20-1.20.1_0.5.4_ManInMyVan.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.20",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.20/Baritone_1.20_1.20_ManInMyVan.jar",
+        "baratone/forge/1.20/Baritone_1.20_1.20_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.19.4",
+      "mod": "Meteor Client",
+      "status": "local",
+      "local_paths": [
+        "meteor/fabric/1.19.4/MeteorClient_1.19.4_0.5.3_ManInMyVan.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.19.4",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.19.4/Baritone_1.19.4_1.19.4_ManInMyVan.jar",
+        "baratone/forge/1.19.4/Baritone_1.19.4_1.19.4_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.19.3",
+      "mod": "Meteor Client",
+      "status": "local",
+      "local_paths": [
+        "meteor/fabric/1.19.3/MeteorClient_1.19.3_0.5.2_ManInMyVan.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.19.3",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.19.3/Baritone_1.19.3_1.19.3_ManInMyVan.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.19.2",
+      "mod": "Meteor Client",
+      "status": "local",
+      "local_paths": [
+        "meteor/fabric/1.19.2/MeteorClient_1.19.2_0.5.1_ManInMyVan.jar",
+        "meteor/fabric/1.19.2/MeteorClient_1.19.2_0.5.1_ManInMyVan_build-e87f5a6a.jar",
+        "meteor/fabric/1.19.2/MeteorClient_1.19.2_0.5.1_ManInMyVan_build-f9d6ed89.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.19.2",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.19.2/Baritone_1.19.2_1.19.2_ManInMyVan.jar",
+        "baratone/forge/1.19.2/Baritone_1.19.2_1.19.2_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.19.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.19.1",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.19",
+      "mod": "Meteor Client",
+      "status": "local",
+      "local_paths": [
+        "meteor/fabric/1.19/MeteorClient_1.19_0.5.0_ManInMyVan.jar",
+        "meteor/fabric/1.19/MeteorClient_1.19_0.5.0_ManInMyVan_build-97666a93.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.19",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.19/Baritone_1.19_1.19_ManInMyVan.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.18.2",
+      "mod": "Meteor Client",
+      "status": "local",
+      "local_paths": [
+        "meteor/fabric/1.18.2/MeteorClient_1.18.2_0.4.8_ManInMyVan.jar",
+        "meteor/fabric/1.18.2/MeteorClient_1.18.2_0.4.8_ManInMyVan_build-8381cbe3.jar",
+        "meteor/fabric/1.18.2/MeteorClient_1.18.2_0.4.8_ManInMyVan_build-e0a60a9c.jar",
+        "meteor/fabric/1.18.2/MeteorClient_1.18.2_0.4.9_ManInMyVan.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.18.2",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.18.2/Baritone_1.18.2_1.18.2_ManInMyVan.jar",
+        "baratone/forge/1.18.2/Baritone_1.18.2_1.18.2_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.18.1",
+      "mod": "Meteor Client",
+      "status": "local",
+      "local_paths": [
+        "meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan.jar",
+        "meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan_build-05c97f8e.jar",
+        "meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan_build-1a7416bc.jar",
+        "meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan_build-540d48a0.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.18.1",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/forge/1.18.1/Baritone_1.18.1_1.18.1_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.18",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.18",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.17.1",
+      "mod": "Meteor Client",
+      "status": "local",
+      "local_paths": [
+        "meteor/fabric/1.17.1/MeteorClient_1.17.1_0.4.5_ManInMyVan.jar",
+        "meteor/fabric/1.17.1/MeteorClient_1.17.1_0.4.6_ManInMyVan.jar",
+        "meteor/fabric/1.17.1/MeteorClient_1.17.1_0.4.6_ManInMyVan_build-cf58d3dd.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.17.1",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.17.1/Baritone_1.17.1_1.17.1_UnknownOrigin.jar",
+        "baratone/forge/1.17.1/Baritone_1.17.1_1.17.1_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.17",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.17",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.16.5",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.16.5",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.16.5/Baritone_1.16.5_1.16.5_ManInMyVan.jar",
+        "baratone/forge/1.16.5/Baritone_1.16.5_1.16.5_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.16.4",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.16.4",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.16.4/Baritone_1.16.4_1.16.4_UnknownOrigin.jar",
+        "baratone/forge/1.16.4/Baritone_1.16.4_1.16.4_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.16.3",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.16.3",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.16.2",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.16.2",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.16.2/Baritone_1.16.2_1.16.2_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.16.1",
+      "mod": "Meteor Client",
+      "status": "local",
+      "local_paths": [
+        "meteor/fabric/1.16.1/MeteorClient_1.16.1_0.3.0.1_ManInMyVan.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.16.1",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.16",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.16",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.15.2",
+      "mod": "Meteor Client",
+      "status": "local",
+      "local_paths": [
+        "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.1.7_ManInMyVan.jar",
+        "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.1.8_ManInMyVan.jar",
+        "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.1.9_ManInMyVan.jar",
+        "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.2.0_ManInMyVan.jar",
+        "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.2.1_ManInMyVan.jar",
+        "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.2.2_ManInMyVan.jar",
+        "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.2.3_ManInMyVan.jar",
+        "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.2.4_ManInMyVan.jar",
+        "meteor/fabric/1.15.2/MeteorClient_1.15.2_0.2.6_ManInMyVan.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.15.2",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/forge/1.15.2/Baritone_1.15.2_1.15.2_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.15.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.15.1",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.15",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.15",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.14.4",
+      "mod": "Meteor Client",
+      "status": "local",
+      "local_paths": [
+        "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.0_ManInMyVan.jar",
+        "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.1_ManInMyVan.jar",
+        "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.2_ManInMyVan.jar",
+        "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.3_ManInMyVan.jar",
+        "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.4_ManInMyVan.jar",
+        "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.5_ManInMyVan.jar",
+        "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.6_ManInMyVan.jar",
+        "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.7_ManInMyVan.jar",
+        "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.8_ManInMyVan.jar",
+        "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.9_ManInMyVan.jar",
+        "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.2.0_ManInMyVan.jar",
+        "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.2.1_ManInMyVan.jar",
+        "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.2.2_ManInMyVan.jar",
+        "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.2.3_ManInMyVan.jar",
+        "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.2.4_ManInMyVan.jar",
+        "meteor/fabric/1.14.4/MeteorClient_1.14.4_0.2.8_ManInMyVan.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.14.4",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.14.3",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.14.3",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.14.2",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.14.2",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.14.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.14.1",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.14",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.14",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.13.2",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.13.2",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/fabric/1.13.2/Baritone_1.13.2_1.13.2_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.13.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.13.1",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.13",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.13",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.12.2",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.12.2",
+      "mod": "Baritone",
+      "status": "local",
+      "local_paths": [
+        "baratone/forge/1.12.2/Baritone_1.12.2_1.12.2_UnknownOrigin.jar"
+      ],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.12.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.12.1",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.12",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.12",
+      "mod": "Baritone",
+      "status": "major-series-only",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.11.2",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.11.2",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.11.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.11.1",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.11",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.11",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.10.2",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.10.2",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.10.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.10.1",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.10",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.10",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.9.4",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.9.4",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.9.3",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.9.3",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.9.2",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.9.2",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.9.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.9.1",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.9",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.9",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.9",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.9",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.8",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.8",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.7",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.7",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.6",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.6",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.5",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.5",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.4",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.4",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.3",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.3",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.2",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.2",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8.1",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.8",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.7.10",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.7.10",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.7.9",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.7.9",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.7.8",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.7.8",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.7.7",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.7.7",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.7.6",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.7.6",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.7.5",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.7.5",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.7.4",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.7.4",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.7.2",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.7.2",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.6.4",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.6.4",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.6.2",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.6.2",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.6.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.6.1",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.5.2",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.5.2",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.5.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.5.1",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.5",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.5",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.4.7",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.4.7",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.4.6",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.4.6",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.4.5",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.4.5",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.4.4",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.4.4",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.4.2",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.4.2",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.3.2",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.3.2",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.3.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.3.1",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.2.5",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.2.5",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.2.4",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.2.4",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.2.3",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.2.3",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.2.2",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.2.2",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.2.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.2.1",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.1",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.0.1",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.0.1",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.0.0",
+      "mod": "Meteor Client",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    },
+    {
+      "minecraft_version": "1.0.0",
+      "mod": "Baritone",
+      "status": "not-established",
+      "local_paths": [],
+      "verified_in_game": false
+    }
+  ]
+}
