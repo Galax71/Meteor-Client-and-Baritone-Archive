@@ -1,0 +1,50 @@
+{
+  "note": "Early development entries are representative historical milestones, not a complete inventory of every pre-release build.",
+  "sources": [
+    "https://minecraft.wiki/w/Java_Edition_version_history",
+    "https://minecraft.wiki/w/Java_Edition_Pre-Classic",
+    "https://minecraft.wiki/w/Java_Edition_Classic",
+    "https://minecraft.wiki/w/Java_Edition_Indev",
+    "https://minecraft.wiki/w/Java_Edition_Infdev"
+  ],
+  "early_versions": [
+    "rd-132211",
+    "rd-132328",
+    "rd-160052",
+    "c0.0.11a",
+    "c0.0.13a",
+    "c0.0.14a",
+    "c0.0.16a",
+    "c0.0.18a",
+    "c0.0.20a",
+    "c0.0.21a",
+    "c0.0.23a",
+    "c0.0.30",
+    "in-20100128",
+    "in-20100206",
+    "in-20100223",
+    "inf-20100618",
+    "inf-20100630",
+    "a1.0.4",
+    "a1.0.11",
+    "a1.0.14",
+    "a1.0.17",
+    "a1.1.2_01",
+    "a1.2.0",
+    "a1.2.6",
+    "b1.0",
+    "b1.1_02",
+    "b1.2_02",
+    "b1.3_01",
+    "b1.4_01",
+    "b1.5_01",
+    "b1.6.6",
+    "b1.7.3",
+    "b1.8.1"
+  ],
+  "labels": {
+    "yes": "A local or official archived build is evidenced for this Minecraft version",
+    "no": "Predates documented mod support; not a claim about every possible historical fork",
+    "unknown": "No compatible build established; not proof it never existed"
+  }
+}

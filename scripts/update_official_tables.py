@@ -82,3 +82,6 @@ for heading,next_heading in [('### Meteor Client','### Baritone'),('### Baritone
  section=section[:start]+'\n'.join(lines[:header+2]+rows+[''])+'\n'+section[stop:]
 text=text[:a]+section+text[b:]
 readme.write_text(text)
+
+# NOTE: The main README includes a Mod existed? column and early Minecraft milestones.
+# Preserve this column when regenerating rows; historical evidence is maintained in MOD-EXISTENCE-NOTES.json.
