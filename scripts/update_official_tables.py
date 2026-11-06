@@ -20,6 +20,13 @@ def key(version):
     if re.fullmatch(r"(?:1|26)\.\d+(?:\.\d+)?", version):
         return (2, *[int(n) for n in version.split(".")])
     return (0, version)
+def priority(row):
+    if "meteorclient.com" in row or "github.com-cabaletta-baritone" in row:
+        return 0
+    if "ManInMyVan" in row:
+        return 2
+    return 1
+
 def version_from_row(row):
     return row.split("|")[1].strip().replace(" (inferred)", "")
 def status(version, found):
@@ -73,14 +80,14 @@ for heading, next_heading, mod in [
     for version in all_versions:
         existing = by_version.get(version, [])
         downloaded = recovered.get(version, [])
-        for line in existing:
+        for line in sorted(existing, key=priority):
             cells = line.split("|")
             if len(cells) == 7:
                 cells[2] = " " + status(version, True) + " "
             elif len(cells) == 6:
                 cells.insert(2, " " + status(version, True) + " ")
             rows.append("|".join(cells))
-        rows.extend(downloaded)
+        rows.extend(sorted(downloaded, key=priority))
         if not existing and not downloaded:
             rows.append(f"| {version} | {status(version, False)} | — | 🔴 **Missing** | — | 🔴 **Missing** |")
     prefix = "\n".join(lines[:header])
