@@ -247,7 +247,7 @@ See [MISSING-OR-LOST.md](MISSING-OR-LOST.md) for specific historical mod-version
 <!-- OFFICIAL_METEOR_START -->
 ## Official Meteor Client website downloads
 
-These **22 JARs have already been downloaded and committed** from [Meteor's official version archive](https://meteorclient.com/archive). The source and SHA-256 for each file are recorded in [RECOVERED-SOURCES.json](RECOVERED-SOURCES.json). Valid JARs have not been independently tested in Minecraft.
+These **22 JARs have been downloaded and committed** from [Meteor's official version archive](https://meteorclient.com/archive). See [RECOVERED-SOURCES.json](RECOVERED-SOURCES.json) for original URLs and SHA-256 hashes. In-game compatibility has not been verified.
 
 ### Meteor Client
 
