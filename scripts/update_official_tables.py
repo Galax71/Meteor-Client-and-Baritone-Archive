@@ -28,3 +28,32 @@ for name in ['README.md','DOWNLOADS.md']:
  else:text=text.rstrip()+'\n\n'+block+'\n'
  p.write_text(text)
 print('Updated official-site download tables:',len(entries),'JARs')
+
+
+# Keep the main README tables synchronized with the official recovered JARs.
+readme=root/'README.md'
+text=readme.read_text()
+begin=text.index('## Downloads by mod')
+end=text.index('## Minecraft Java releases',begin)
+section=text[begin:end]
+for mod,heading,next_heading in [('meteor','### Meteor Client','### Baritone'),('baritone','### Baritone',None)]:
+ start=section.index(heading)
+ finish=section.index(next_heading,start+len(heading)) if next_heading else len(section)
+ chunk=section[start:finish]
+ rows=chunk.splitlines()
+ header=next(i for i,line in enumerate(rows) if line.startswith('| Minecraft version |'))
+ stop=next((i for i in range(header+2,len(rows)) if not rows[i].startswith('|')),len(rows))
+ previous=[line for line in rows[header+2:stop] if 'source/meteorclient.com/' not in line]
+ recovered=[]
+ for item in entries:
+  p=item['path'].split('/')
+  if p[2]!=mod:continue
+  recovered.append(f'| {p[4]} | {p[3]} | {p[5][:-4]} (official archive filename) | [meteorclient.com](https://meteorclient.com/archive) | [Download JAR]({item["path"]}) |')
+ def sortkey(line):
+  v=line.split('|')[1].strip().split(' ')[0]
+  return tuple(int(n) for n in v.split('.') if n.isdigit())
+ combined=sorted(previous+recovered,key=sortkey,reverse=True)
+ rows[header+2:stop]=combined
+ section=section[:start]+'\n'.join(rows)+section[finish:]
+text=text[:begin]+section+text[end:]
+readme.write_text(text)
