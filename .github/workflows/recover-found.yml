@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - scripts/import_found.py
+      - EXTERNAL-DOWNLOADS.json
       - .github/workflows/recover-found.yml
 permissions:
   contents: write

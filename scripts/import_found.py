@@ -50,6 +50,19 @@ try:
   else:continue
   save('https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/'+urllib.parse.quote(path,safe='/'),'github.com-ManInMyVan-meteor-archive',mod,'fabric',mc,name)
 except Exception as e:print('Community archive error',e)
+
+# Import non-GitHub direct downloads listed in a reviewed source manifest.
+external=root/'EXTERNAL-DOWNLOADS.json'
+if external.exists():
+ try:
+  for item in json.loads(external.read_text()).get('downloads',[]):
+   url=item['url'];host=urllib.parse.urlparse(url).hostname or ''
+   if urllib.parse.urlparse(url).scheme!='https' or not host:continue
+   if host in ('localhost','127.0.0.1') or host.endswith('.local'):continue
+   source=re.sub(r'[^a-zA-Z0-9._-]','-',host)
+   save(url,source,item['mod'],item['loader'],item['minecraft_version'],item['filename'],item.get('sha256'))
+ except Exception as e:print('External source manifest error',e)
+
 manifest=root/'RECOVERED-SOURCES.json'
 prior=json.loads(manifest.read_text())['files'] if manifest.exists() else []
 items={x['path']:x for x in prior}
