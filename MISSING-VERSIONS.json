@@ -1,10 +1,11 @@
 {
   "generated_from": "Comparison of repository tree with upstream published version lists",
-  "note": "Not exhaustive; entries not yet downloaded or tested",
+  "note": "Curated, non-exhaustive list of missing Minecraft version labels and missing specific historical builds. A version may have other JARs locally while a specific build is missing. No downloads have been imported.",
   "sources": [
     "https://meteorclient.com/archive",
     "https://github.com/cabaletta/baritone/releases",
-    "https://github.com/cabaletta/baritone/blob/1.21.4/SETUP.md"
+    "https://github.com/cabaletta/baritone/blob/1.21.4/SETUP.md",
+    "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md"
   ],
   "missing": [
     {
@@ -142,6 +143,51 @@
       "source": "Baritone official releases / Meteor archive",
       "url": "https://github.com/cabaletta/baritone/releases",
       "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Baritone",
+      "mc": "1.14.4",
+      "loader": "Forge / legacy installation; check release assets",
+      "source": "Official Baritone v1.4 series",
+      "url": "https://github.com/cabaletta/baritone/releases",
+      "status": "Historical release documented — not imported",
+      "evidence": "https://github.com/cabaletta/baritone/blob/1.21.4/SETUP.md"
+    },
+    {
+      "mod": "Meteor Client",
+      "mc": "1.18.1",
+      "mod_version": "0.4.7",
+      "loader": "Fabric",
+      "source": "ManInMyVan historical archive",
+      "url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/meteor-client-0.4.7.jar",
+      "status": "Specific historical JAR missing — not imported"
+    },
+    {
+      "mod": "Meteor Client",
+      "mc": "1.21.2/1.21.3",
+      "mod_version": "0.5.9",
+      "loader": "Fabric",
+      "source": "ManInMyVan historical archive",
+      "url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/meteor-client-0.5.9.jar",
+      "status": "Specific historical JAR missing — not imported"
+    },
+    {
+      "mod": "Meteor Client",
+      "mc": "1.18.1",
+      "mod_version": "0.4.7 build 1384",
+      "loader": "Fabric",
+      "source": "ManInMyVan extra builds",
+      "url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.7-1384.jar",
+      "status": "Specific historical JAR missing — not imported"
+    },
+    {
+      "mod": "Meteor Client",
+      "mc": "1.18.1",
+      "mod_version": "0.4.7 build 1405",
+      "loader": "Fabric",
+      "source": "ManInMyVan extra builds",
+      "url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.7-1405.jar",
+      "status": "Specific historical JAR missing — not imported"
     }
   ]
 }
