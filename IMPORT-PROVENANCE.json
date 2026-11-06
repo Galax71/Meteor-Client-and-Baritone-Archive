@@ -89,7 +89,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.3.0.1-1.16.1.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.3.0.1-1.16.1.jar",
       "source_git_blob_sha": "2957e9857c17768690d411df10a6cea527bef8a9",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.3.0.1_ManInMyVan.jar",
+      "archive_path": "meteor/fabric/1.16.1/MeteorClient_1.16.1_0.3.0.1_ManInMyVan.jar",
       "status": "identical-content-present"
     },
     {
@@ -97,7 +97,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.4.6-1180.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.6-1180.jar",
       "source_git_blob_sha": "cf58d3dd6b6b850b3a6c03dcbd21056eeb8b75d2",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.6_ManInMyVan.jar",
+      "archive_path": "meteor/fabric/1.17.1/MeteorClient_1.17.1_0.4.6_ManInMyVan_build-cf58d3dd.jar",
       "status": "identical-content-present"
     },
     {
@@ -105,7 +105,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.4.7-1373.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.7-1373.jar",
       "source_git_blob_sha": "ed0b208fff5deb16609775dbde1e067a88eef3d9",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.7_ManInMyVan.jar",
+      "archive_path": "meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan.jar",
       "status": "identical-content-present"
     },
     {
@@ -113,7 +113,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.4.7-1381.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.7-1381.jar",
       "source_git_blob_sha": "05c97f8ef0cfad9e2e6dc59aa7767df8bb57c5b3",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.7_ManInMyVan_build-05c97f8e.jar",
+      "archive_path": "meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan_build-05c97f8e.jar",
       "status": "identical-content-present"
     },
     {
@@ -129,7 +129,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.4.7-1388.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.7-1388.jar",
       "source_git_blob_sha": "1a7416bcced13925af6f236f4bc04b7dbc371338",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.7_ManInMyVan_build-1a7416bc.jar",
+      "archive_path": "meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan_build-1a7416bc.jar",
       "status": "identical-content-present"
     },
     {
@@ -137,7 +137,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.4.7-1396.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.7-1396.jar",
       "source_git_blob_sha": "540d48a0b5477b3617e9f2324c5438b591c04792",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.7_ManInMyVan_build-540d48a0.jar",
+      "archive_path": "meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan_build-540d48a0.jar",
       "status": "identical-content-present"
     },
     {
@@ -153,7 +153,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.4.8-1427.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.8-1427.jar",
       "source_git_blob_sha": "e0a60a9c0aa21e24f80a1f89659eeeeab80a3e93",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.8_ManInMyVan.jar",
+      "archive_path": "meteor/fabric/1.18.2/MeteorClient_1.18.2_0.4.8_ManInMyVan_build-e0a60a9c.jar",
       "status": "identical-content-present"
     },
     {
@@ -161,7 +161,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.4.8-1441.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.8-1441.jar",
       "source_git_blob_sha": "8381cbe33683a18aa05cb88d6e1ae8e249143d42",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.8_ManInMyVan_build-8381cbe3.jar",
+      "archive_path": "meteor/fabric/1.18.2/MeteorClient_1.18.2_0.4.8_ManInMyVan_build-8381cbe3.jar",
       "status": "identical-content-present"
     },
     {
@@ -169,7 +169,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.0-1562.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.0-1562.jar",
       "source_git_blob_sha": "97666a93ca1d1c76d0a3abba376fe2dda4050714",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.0_ManInMyVan.jar",
+      "archive_path": "meteor/fabric/1.19/MeteorClient_1.19_0.5.0_ManInMyVan_build-97666a93.jar",
       "status": "identical-content-present"
     },
     {
@@ -177,7 +177,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.1-1571.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.1-1571.jar",
       "source_git_blob_sha": "e87f5a6a11cd180778269dce1ca2b46cee206784",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.1_ManInMyVan.jar",
+      "archive_path": "meteor/fabric/1.19.2/MeteorClient_1.19.2_0.5.1_ManInMyVan_build-e87f5a6a.jar",
       "status": "identical-content-present"
     },
     {
@@ -185,7 +185,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.1-1690.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.1-1690.jar",
       "source_git_blob_sha": "f9d6ed89dcc55986b1a381bc5c62514365908197",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.1_ManInMyVan_build-f9d6ed89.jar",
+      "archive_path": "meteor/fabric/1.19.2/MeteorClient_1.19.2_0.5.1_ManInMyVan_build-f9d6ed89.jar",
       "status": "identical-content-present"
     },
     {
@@ -193,7 +193,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.5-1964.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.5-1964.jar",
       "source_git_blob_sha": "0ecbbc5508abb68a7b39f3748fffe808cf5b2028",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.5_ManInMyVan.jar",
+      "archive_path": "meteor/fabric/1.20.2/MeteorClient_1.20.2_0.5.5_ManInMyVan_build-0ecbbc55.jar",
       "status": "identical-content-present"
     },
     {
@@ -201,7 +201,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.6-1985.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.6-1985.jar",
       "source_git_blob_sha": "a0e45bb5dbdc7894065523899547091175a15547",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan.jar",
+      "archive_path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-a0e45bb5.jar",
       "status": "identical-content-present"
     },
     {
@@ -209,7 +209,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.6-1993.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.6-1993.jar",
       "source_git_blob_sha": "6f989071c443516f0e6dd90871d20eab79359d84",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-6f989071.jar",
+      "archive_path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-6f989071.jar",
       "status": "identical-content-present"
     },
     {
@@ -217,7 +217,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.6-1995.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.6-1995.jar",
       "source_git_blob_sha": "22ab601e5676e8bf580842e4db571027b69758cd",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-22ab601e.jar",
+      "archive_path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-22ab601e.jar",
       "status": "identical-content-present"
     },
     {
@@ -225,7 +225,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.6-1996.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.6-1996.jar",
       "source_git_blob_sha": "37ab721f6ac7785fab836a3f6b94c83d4f7a9b49",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-37ab721f.jar",
+      "archive_path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-37ab721f.jar",
       "status": "identical-content-present"
     },
     {
@@ -233,7 +233,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.6-1997.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.6-1997.jar",
       "source_git_blob_sha": "68b73118a0f0ccced63e7a7c52355c9ea003ee09",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-68b73118.jar",
+      "archive_path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-68b73118.jar",
       "status": "identical-content-present"
     },
     {
@@ -241,7 +241,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.6-1998.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.6-1998.jar",
       "source_git_blob_sha": "aad83ef995dda023b039edcb24aee82cb6ee74f7",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-aad83ef9.jar",
+      "archive_path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-aad83ef9.jar",
       "status": "identical-content-present"
     },
     {
@@ -249,7 +249,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.6-1999.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.6-1999.jar",
       "source_git_blob_sha": "13c939e4ba94b7e97cc06444c05f6f7627bf6c7f",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-13c939e4.jar",
+      "archive_path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-13c939e4.jar",
       "status": "identical-content-present"
     },
     {
@@ -257,7 +257,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.6-2001.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.6-2001.jar",
       "source_git_blob_sha": "464e4a9837467d19fcf10bd6e156790f4c9ec958",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-464e4a98.jar",
+      "archive_path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-464e4a98.jar",
       "status": "identical-content-present"
     },
     {
@@ -265,7 +265,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.6-2002.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.6-2002.jar",
       "source_git_blob_sha": "05b4245446c5e3b9349e868e6e8d0c936fb76ce1",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-05b42454.jar",
+      "archive_path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-05b42454.jar",
       "status": "identical-content-present"
     },
     {
@@ -273,7 +273,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.6-2003.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.6-2003.jar",
       "source_git_blob_sha": "33f025009bea3bda89342912de9d4780fce5fb76",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-33f02500.jar",
+      "archive_path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-33f02500.jar",
       "status": "identical-content-present"
     },
     {
@@ -281,7 +281,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.6-2005.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.6-2005.jar",
       "source_git_blob_sha": "c13166ed78a3cfa159d0b4537b9916ee5dd4edae",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-c13166ed.jar",
+      "archive_path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-c13166ed.jar",
       "status": "identical-content-present"
     },
     {
@@ -289,7 +289,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.6-2007.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.6-2007.jar",
       "source_git_blob_sha": "1c070fedd4c50e8bcbab58f7183b4187fae14d48",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-1c070fed.jar",
+      "archive_path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-1c070fed.jar",
       "status": "identical-content-present"
     },
     {
@@ -297,7 +297,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.6-2008.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.6-2008.jar",
       "source_git_blob_sha": "8bbd0a7e8320ad8e266cb10c55482124c5e774be",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-8bbd0a7e.jar",
+      "archive_path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-8bbd0a7e.jar",
       "status": "identical-content-present"
     },
     {
@@ -305,7 +305,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.7-2079.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.7-2079.jar",
       "source_git_blob_sha": "af9f8e66a2f0575822c0f05ed1928d578242d1ae",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.7_ManInMyVan.jar",
+      "archive_path": "meteor/fabric/1.20.6/MeteorClient_1.20.6_0.5.7_ManInMyVan_build-af9f8e66.jar",
       "status": "identical-content-present"
     },
     {
@@ -313,7 +313,7 @@
       "source_path": "files/meteor-client/extra/meteor-client-0.5.8-2119.jar",
       "source_url": "https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.5.8-2119.jar",
       "source_git_blob_sha": "f5677724261921941514333f6c5362a2097e271f",
-      "archive_path": "meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.8_ManInMyVan.jar",
+      "archive_path": "meteor/fabric/1.21.1/MeteorClient_1.21.1_0.5.8_ManInMyVan_build-f5677724.jar",
       "status": "identical-content-present"
     },
     {

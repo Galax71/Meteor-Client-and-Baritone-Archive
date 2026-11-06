@@ -1,0 +1,223 @@
+{
+  "method": "Historical release-version association; build-specific metadata not inspected",
+  "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+  "matched": 27,
+  "matches": [
+    {
+      "path": "meteor/fabric/1.16.1/MeteorClient_1.16.1_0.3.0.1_ManInMyVan.jar",
+      "mod_version": "0.3.0.1",
+      "minecraft_version": "1.16.1",
+      "evidence": "original filename explicitly includes 1.16.1",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.17.1/MeteorClient_1.17.1_0.4.6_ManInMyVan_build-cf58d3dd.jar",
+      "mod_version": "0.4.6",
+      "minecraft_version": "1.17.1",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan.jar",
+      "mod_version": "0.4.7",
+      "minecraft_version": "1.18.1",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan_build-05c97f8e.jar",
+      "mod_version": "0.4.7",
+      "minecraft_version": "1.18.1",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan_build-1a7416bc.jar",
+      "mod_version": "0.4.7",
+      "minecraft_version": "1.18.1",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan_build-540d48a0.jar",
+      "mod_version": "0.4.7",
+      "minecraft_version": "1.18.1",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.18.2/MeteorClient_1.18.2_0.4.8_ManInMyVan_build-e0a60a9c.jar",
+      "mod_version": "0.4.8",
+      "minecraft_version": "1.18.2",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.18.2/MeteorClient_1.18.2_0.4.8_ManInMyVan_build-8381cbe3.jar",
+      "mod_version": "0.4.8",
+      "minecraft_version": "1.18.2",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.19/MeteorClient_1.19_0.5.0_ManInMyVan_build-97666a93.jar",
+      "mod_version": "0.5.0",
+      "minecraft_version": "1.19",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.19.2/MeteorClient_1.19.2_0.5.1_ManInMyVan_build-e87f5a6a.jar",
+      "mod_version": "0.5.1",
+      "minecraft_version": "1.19.2",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.19.2/MeteorClient_1.19.2_0.5.1_ManInMyVan_build-f9d6ed89.jar",
+      "mod_version": "0.5.1",
+      "minecraft_version": "1.19.2",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.20.2/MeteorClient_1.20.2_0.5.5_ManInMyVan_build-0ecbbc55.jar",
+      "mod_version": "0.5.5",
+      "minecraft_version": "1.20.2",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-a0e45bb5.jar",
+      "mod_version": "0.5.6",
+      "minecraft_version": "1.20.4",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-6f989071.jar",
+      "mod_version": "0.5.6",
+      "minecraft_version": "1.20.4",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-22ab601e.jar",
+      "mod_version": "0.5.6",
+      "minecraft_version": "1.20.4",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-37ab721f.jar",
+      "mod_version": "0.5.6",
+      "minecraft_version": "1.20.4",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-68b73118.jar",
+      "mod_version": "0.5.6",
+      "minecraft_version": "1.20.4",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-aad83ef9.jar",
+      "mod_version": "0.5.6",
+      "minecraft_version": "1.20.4",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-13c939e4.jar",
+      "mod_version": "0.5.6",
+      "minecraft_version": "1.20.4",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-464e4a98.jar",
+      "mod_version": "0.5.6",
+      "minecraft_version": "1.20.4",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-05b42454.jar",
+      "mod_version": "0.5.6",
+      "minecraft_version": "1.20.4",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-33f02500.jar",
+      "mod_version": "0.5.6",
+      "minecraft_version": "1.20.4",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-c13166ed.jar",
+      "mod_version": "0.5.6",
+      "minecraft_version": "1.20.4",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-1c070fed.jar",
+      "mod_version": "0.5.6",
+      "minecraft_version": "1.20.4",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-8bbd0a7e.jar",
+      "mod_version": "0.5.6",
+      "minecraft_version": "1.20.4",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.20.6/MeteorClient_1.20.6_0.5.7_ManInMyVan_build-af9f8e66.jar",
+      "mod_version": "0.5.7",
+      "minecraft_version": "1.20.6",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    },
+    {
+      "path": "meteor/fabric/1.21.1/MeteorClient_1.21.1_0.5.8_ManInMyVan_build-f5677724.jar",
+      "mod_version": "0.5.8",
+      "minecraft_version": "1.21.1",
+      "evidence": "inferred from ManInMyVan historical release table; individual build not inspected",
+      "source": "https://github.com/ManInMyVan/meteor-archive/blob/main/README.md",
+      "verified_in_game": false
+    }
+  ]
+}

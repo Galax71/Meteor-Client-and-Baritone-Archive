@@ -48,33 +48,33 @@ These links point to files committed in this repository. Version folders reflect
 | 1.20.4 | fabric | [meteor-client-0.5.6.jar](meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan.jar) |
 | 1.20.6 | fabric | [meteor-client-0.5.7.jar](meteor/fabric/1.20.6/MeteorClient_1.20.6_0.5.7_ManInMyVan.jar) |
 | 1.21.1 | fabric | [meteor-client-0.5.8.jar](meteor/fabric/1.21.1/MeteorClient_1.21.1_0.5.8_ManInMyVan.jar) |
-| unverified-extra | fabric | [meteor-client-0.3.0.1-1.16.1.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.3.0.1_ManInMyVan.jar) |
-| unverified-extra | fabric | [meteor-client-0.4.6-1180.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.6_ManInMyVan.jar) |
-| unverified-extra | fabric | [meteor-client-0.4.7-1373.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.7_ManInMyVan.jar) |
-| unverified-extra | fabric | [meteor-client-0.4.7-1381.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.7_ManInMyVan_build-05c97f8e.jar) |
-| unverified-extra | fabric | [meteor-client-0.4.7-1388.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.7_ManInMyVan_build-1a7416bc.jar) |
-| unverified-extra | fabric | [meteor-client-0.4.7-1396.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.7_ManInMyVan_build-540d48a0.jar) |
-| unverified-extra | fabric | [meteor-client-0.4.8-1427.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.8_ManInMyVan.jar) |
-| unverified-extra | fabric | [meteor-client-0.4.8-1441.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.4.8_ManInMyVan_build-8381cbe3.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.0-1562.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.0_ManInMyVan.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.1-1571.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.1_ManInMyVan.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.1-1690.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.1_ManInMyVan_build-f9d6ed89.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.5-1964.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.5_ManInMyVan.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.6-1985.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.6-1993.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-6f989071.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.6-1995.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-22ab601e.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.6-1996.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-37ab721f.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.6-1997.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-68b73118.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.6-1998.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-aad83ef9.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.6-1999.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-13c939e4.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.6-2001.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-464e4a98.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.6-2002.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-05b42454.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.6-2003.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-33f02500.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.6-2005.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-c13166ed.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.6-2007.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-1c070fed.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.6-2008.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.6_ManInMyVan_build-8bbd0a7e.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.7-2079.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.7_ManInMyVan.jar) |
-| unverified-extra | fabric | [meteor-client-0.5.8-2119.jar](meteor/fabric/unverified-extra/MeteorClient_unverified-extra_0.5.8_ManInMyVan.jar) |
+| unverified-extra | fabric | [meteor-client-0.3.0.1-1.16.1.jar](meteor/fabric/1.16.1/MeteorClient_1.16.1_0.3.0.1_ManInMyVan.jar) |
+| unverified-extra | fabric | [meteor-client-0.4.6-1180.jar](meteor/fabric/1.17.1/MeteorClient_1.17.1_0.4.6_ManInMyVan_build-cf58d3dd.jar) |
+| unverified-extra | fabric | [meteor-client-0.4.7-1373.jar](meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan.jar) |
+| unverified-extra | fabric | [meteor-client-0.4.7-1381.jar](meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan_build-05c97f8e.jar) |
+| unverified-extra | fabric | [meteor-client-0.4.7-1388.jar](meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan_build-1a7416bc.jar) |
+| unverified-extra | fabric | [meteor-client-0.4.7-1396.jar](meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan_build-540d48a0.jar) |
+| unverified-extra | fabric | [meteor-client-0.4.8-1427.jar](meteor/fabric/1.18.2/MeteorClient_1.18.2_0.4.8_ManInMyVan_build-e0a60a9c.jar) |
+| unverified-extra | fabric | [meteor-client-0.4.8-1441.jar](meteor/fabric/1.18.2/MeteorClient_1.18.2_0.4.8_ManInMyVan_build-8381cbe3.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.0-1562.jar](meteor/fabric/1.19/MeteorClient_1.19_0.5.0_ManInMyVan_build-97666a93.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.1-1571.jar](meteor/fabric/1.19.2/MeteorClient_1.19.2_0.5.1_ManInMyVan_build-e87f5a6a.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.1-1690.jar](meteor/fabric/1.19.2/MeteorClient_1.19.2_0.5.1_ManInMyVan_build-f9d6ed89.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.5-1964.jar](meteor/fabric/1.20.2/MeteorClient_1.20.2_0.5.5_ManInMyVan_build-0ecbbc55.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.6-1985.jar](meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-a0e45bb5.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.6-1993.jar](meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-6f989071.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.6-1995.jar](meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-22ab601e.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.6-1996.jar](meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-37ab721f.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.6-1997.jar](meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-68b73118.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.6-1998.jar](meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-aad83ef9.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.6-1999.jar](meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-13c939e4.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.6-2001.jar](meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-464e4a98.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.6-2002.jar](meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-05b42454.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.6-2003.jar](meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-33f02500.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.6-2005.jar](meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-c13166ed.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.6-2007.jar](meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-1c070fed.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.6-2008.jar](meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-8bbd0a7e.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.7-2079.jar](meteor/fabric/1.20.6/MeteorClient_1.20.6_0.5.7_ManInMyVan_build-af9f8e66.jar) |
+| unverified-extra | fabric | [meteor-client-0.5.8-2119.jar](meteor/fabric/1.21.1/MeteorClient_1.21.1_0.5.8_ManInMyVan_build-f5677724.jar) |
 
 ## baratone
 
@@ -118,3 +118,7 @@ These links point to files committed in this repository. Version folders reflect
 ## Standardized filenames
 
 Every archived JAR follows `ModName_MCVersion_ModVersion_SourceArchive.jar`. If two builds would otherwise have the same filename, `_build-<GitBlobSHA>` distinguishes them. `ManInMyVan` means an identical file is present in that community archive, **not** that its original author or build origin is proven. `UnknownOrigin` means no matching listed source archive has been established. Minecraft and mod version fields are inferred from the archive path or old filename and are **not verified compatibility results**. See [FILENAME-MANIFEST.json](FILENAME-MANIFEST.json) for old-to-new paths and exact Git blob hashes.
+
+## Extra build version matching
+
+27 formerly unverified-extra Meteor builds have been classified by historical release associations, not verified by in-game testing. [Evidence manifest](EXTRA-VERSION-MATCHES.json).
