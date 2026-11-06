@@ -330,6 +330,13 @@
       "tested_in_game": false
     },
     {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.21.3/meteor-client-0.5.9.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/meteor-client-0.5.9.jar",
+      "sha256": "55e81715d0f2d485eb36c9aa96a57a83a0236890b97c3ed352e57af12ed68001",
+      "bytes": 4548160,
+      "tested_in_game": false
+    },
+    {
       "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.16.5/baritone-api-fabric-1.6.3.jar",
       "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.3/baritone-api-fabric-1.6.3.jar",
       "sha256": "79d4c7d359f65320a324c46e9c4af7f550df260117afa0036caa12f6676566d8",
