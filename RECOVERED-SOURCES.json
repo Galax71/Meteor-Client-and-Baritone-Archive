@@ -3226,6 +3226,160 @@
       "sha256": "6a0846386c8e19745d79f685eff042ca1c511b53a19b541526fc08c813d2619a",
       "bytes": 834954,
       "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/baritone/fabric/1.20.2/baritone-1.20.2.jar",
+      "source_url": "https://meteorclient.com/api/downloadBaritone?version=1.20.2",
+      "sha256": "b29c4bedcfa30ddfeaa1b7d7abfa75031b1bd134d88f8c6cc8143b427cdadd4a",
+      "bytes": 1593560,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/baritone/fabric/1.20.4/baritone-1.20.4.jar",
+      "source_url": "https://meteorclient.com/api/downloadBaritone?version=1.20.4",
+      "sha256": "299265e779eafd06b4d426d0b36626f423f9d4045ec663686e530222329f650d",
+      "bytes": 1592767,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/baritone/fabric/1.20.6/baritone-1.20.6.jar",
+      "source_url": "https://meteorclient.com/api/downloadBaritone?version=1.20.6",
+      "sha256": "bb4f88948dbf78d13f1805e4d03f053c66b39869968adc3e2bef63189cbacea6",
+      "bytes": 1594306,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/baritone/fabric/1.21.1/baritone-1.21.1.jar",
+      "source_url": "https://meteorclient.com/api/downloadBaritone?version=1.21.1",
+      "sha256": "5dee92abf17b9a96ddf1a65ec08038f3193899a4c5a8c9ad1270b75ae31c1183",
+      "bytes": 1596041,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/baritone/fabric/1.21.10/baritone-1.21.10.jar",
+      "source_url": "https://meteorclient.com/api/downloadBaritone?version=1.21.10",
+      "sha256": "5dd7f49f05860d08d931a077e543cf170263663ca04441002c14b970d65883d8",
+      "bytes": 1611967,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/baritone/fabric/1.21.11/baritone-1.21.11.jar",
+      "source_url": "https://meteorclient.com/api/downloadBaritone?version=1.21.11",
+      "sha256": "3e8c7ab86b7c0148f8711ca2e7cb608712dbc2a97253de0f131ec3db41a2bd3c",
+      "bytes": 1610665,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/baritone/fabric/1.21.3/baritone-1.21.3.jar",
+      "source_url": "https://meteorclient.com/api/downloadBaritone?version=1.21.3",
+      "sha256": "7ecb533c830827b5b38deafe8c562898e1cc571e961351cd50df31eb982d1284",
+      "bytes": 1601369,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/baritone/fabric/1.21.4/baritone-1.21.4.jar",
+      "source_url": "https://meteorclient.com/api/downloadBaritone?version=1.21.4",
+      "sha256": "6b50dba3a709a795432a90940f2aed9f323de72d493595169f6fd3c6baf4ddf9",
+      "bytes": 1601496,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/baritone/fabric/1.21.5/baritone-1.21.5.jar",
+      "source_url": "https://meteorclient.com/api/downloadBaritone?version=1.21.5",
+      "sha256": "6f9b02b07d8fbea642b449519e0273331f8a90543f7a8ed3ab776674d97ad1a5",
+      "bytes": 1611690,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/baritone/fabric/1.21.8/baritone-1.21.8.jar",
+      "source_url": "https://meteorclient.com/api/downloadBaritone?version=1.21.8",
+      "sha256": "11fd79fa0c20ae8e1f747c75c708b260158aa97bf88010e893b01c5c8541d6d4",
+      "bytes": 1612270,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/baritone/fabric/1.21/baritone-1.21.jar",
+      "source_url": "https://meteorclient.com/api/downloadBaritone?version=1.21",
+      "sha256": "f1c777236d7609556d959de410af5fa24bfcf9236eb9adefb7d93f294a6aabd0",
+      "bytes": 1596366,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/baritone/fabric/26.1/baritone-26.1.jar",
+      "source_url": "https://meteorclient.com/api/downloadBaritone?version=26.1",
+      "sha256": "00b93b5000b773c843da707eaa53444d3b645d8c7dcd6174b3f0e33d0fd1fe47",
+      "bytes": 1625010,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/baritone/fabric/26.2/baritone-26.2.jar",
+      "source_url": "https://meteorclient.com/api/downloadBaritone?version=26.2",
+      "sha256": "8a2e7b71229005fd451e5f012f8b9c715e41531631a4a0a53c900a47cd852423",
+      "bytes": 4852460,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/meteor/fabric/1.21.10/meteor-client-1.21.10.jar",
+      "source_url": "https://meteorclient.com/api/download?version=1.21.10",
+      "sha256": "402b1609c2f52c71faa0188e54a11358f74e8d9a6f14769cf4dfe35abd154944",
+      "bytes": 5226893,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/meteor/fabric/1.21.11/meteor-client-1.21.11.jar",
+      "source_url": "https://meteorclient.com/api/download?version=1.21.11",
+      "sha256": "93390cfdb1030e47f116357ba421c90a9b1ca4832b6551c2dec1ade5eeb42e71",
+      "bytes": 5342786,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/meteor/fabric/1.21.4/meteor-client-1.21.4.jar",
+      "source_url": "https://meteorclient.com/api/download?version=1.21.4",
+      "sha256": "fe166e4ccc27de18c6537acc72851f432b1a4850858f1e8cac4c80240a72b4ef",
+      "bytes": 4592462,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/meteor/fabric/1.21.5/meteor-client-1.21.5.jar",
+      "source_url": "https://meteorclient.com/api/download?version=1.21.5",
+      "sha256": "309d3d61b7d3f9651c42c2f7dbaa41dabb3765fe1705bde263912bc712ebc44d",
+      "bytes": 4622925,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/meteor/fabric/1.21.6/meteor-client-1.21.6.jar",
+      "source_url": "https://meteorclient.com/api/download?version=1.21.6",
+      "sha256": "0996f410abaaea5b78d8e03d79c2e18c940d47922d1269ccc8aa4a643c959328",
+      "bytes": 4648898,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/meteor/fabric/1.21.7/meteor-client-1.21.7.jar",
+      "source_url": "https://meteorclient.com/api/download?version=1.21.7",
+      "sha256": "a0993fdd76dc2ac421f5143267ca8f2393584ee4b1e5b779018a8201b427c655",
+      "bytes": 4648435,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/meteor/fabric/1.21.8/meteor-client-1.21.8.jar",
+      "source_url": "https://meteorclient.com/api/download?version=1.21.8",
+      "sha256": "7359e847a8af925ed2ef3559e66b879069770ece7feb3847519c23949ee2d8cc",
+      "bytes": 4720991,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/meteor/fabric/26.1.2/meteor-client-26.1.2.jar",
+      "source_url": "https://meteorclient.com/api/download?version=26.1.2",
+      "sha256": "abd124d2d6b65b9cdc54fbf230d31817693386df0678f2953cfc97cfd3e1581f",
+      "bytes": 5338059,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/meteorclient.com/meteor/fabric/26.2/meteor-client-26.2.jar",
+      "source_url": "https://meteorclient.com/api/download?version=26.2",
+      "sha256": "c84e494dc066133bb1a45bba34d3148f26474f3272bb5865475d63222fc352ae",
+      "bytes": 5066741,
+      "tested_in_game": false
     }
   ]
 }
