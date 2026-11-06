@@ -1,0 +1,147 @@
+{
+  "generated_from": "Comparison of repository tree with upstream published version lists",
+  "note": "Not exhaustive; entries not yet downloaded or tested",
+  "sources": [
+    "https://meteorclient.com/archive",
+    "https://github.com/cabaletta/baritone/releases",
+    "https://github.com/cabaletta/baritone/blob/1.21.4/SETUP.md"
+  ],
+  "missing": [
+    {
+      "mod": "Meteor Client",
+      "mc": "26.2",
+      "loader": "Fabric",
+      "source": "Meteor official archive",
+      "url": "https://meteorclient.com/archive",
+      "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Meteor Client",
+      "mc": "26.1.2",
+      "loader": "Fabric",
+      "source": "Meteor official archive",
+      "url": "https://meteorclient.com/archive",
+      "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Meteor Client",
+      "mc": "1.21.11",
+      "loader": "Fabric",
+      "source": "Meteor official archive",
+      "url": "https://meteorclient.com/archive",
+      "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Meteor Client",
+      "mc": "1.21.10",
+      "loader": "Fabric",
+      "source": "Meteor official archive",
+      "url": "https://meteorclient.com/archive",
+      "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Meteor Client",
+      "mc": "1.21.8",
+      "loader": "Fabric",
+      "source": "Meteor official archive",
+      "url": "https://meteorclient.com/archive",
+      "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Meteor Client",
+      "mc": "1.21.7",
+      "loader": "Fabric",
+      "source": "Meteor official archive",
+      "url": "https://meteorclient.com/archive",
+      "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Meteor Client",
+      "mc": "1.21.6",
+      "loader": "Fabric",
+      "source": "Meteor official archive",
+      "url": "https://meteorclient.com/archive",
+      "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Meteor Client",
+      "mc": "1.21.5",
+      "loader": "Fabric",
+      "source": "Meteor official archive",
+      "url": "https://meteorclient.com/archive",
+      "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Meteor Client",
+      "mc": "1.21.4",
+      "loader": "Fabric",
+      "source": "Meteor official archive",
+      "url": "https://meteorclient.com/archive",
+      "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Baritone",
+      "mc": "26.3",
+      "loader": "See official release assets",
+      "source": "Baritone official releases / Meteor archive",
+      "url": "https://github.com/cabaletta/baritone/releases",
+      "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Baritone",
+      "mc": "26.2",
+      "loader": "See official release assets",
+      "source": "Baritone official releases / Meteor archive",
+      "url": "https://github.com/cabaletta/baritone/releases",
+      "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Baritone",
+      "mc": "26.1",
+      "loader": "See official release assets",
+      "source": "Baritone official releases / Meteor archive",
+      "url": "https://github.com/cabaletta/baritone/releases",
+      "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Baritone",
+      "mc": "1.21.11",
+      "loader": "See official release assets",
+      "source": "Baritone official releases / Meteor archive",
+      "url": "https://github.com/cabaletta/baritone/releases",
+      "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Baritone",
+      "mc": "1.21.10",
+      "loader": "See official release assets",
+      "source": "Baritone official releases / Meteor archive",
+      "url": "https://github.com/cabaletta/baritone/releases",
+      "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Baritone",
+      "mc": "1.21.8",
+      "loader": "See official release assets",
+      "source": "Baritone official releases / Meteor archive",
+      "url": "https://github.com/cabaletta/baritone/releases",
+      "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Baritone",
+      "mc": "1.21.5",
+      "loader": "See official release assets",
+      "source": "Baritone official releases / Meteor archive",
+      "url": "https://github.com/cabaletta/baritone/releases",
+      "status": "Available upstream — not imported"
+    },
+    {
+      "mod": "Baritone",
+      "mc": "1.21.4",
+      "loader": "See official release assets",
+      "source": "Baritone official releases / Meteor archive",
+      "url": "https://github.com/cabaletta/baritone/releases",
+      "status": "Available upstream — not imported"
+    }
+  ]
+}

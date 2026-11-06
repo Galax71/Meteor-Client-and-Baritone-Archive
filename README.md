@@ -131,6 +131,34 @@ Minecraft versions are sorted newest first. **(inferred)** means the version is 
 | 1.13.2 | fabric | 1.13.2 | Unknown | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.13.2/Baritone_1.13.2_1.13.2_UnknownOrigin.jar) |
 | 1.12.2 | forge | 1.12.2 | Unknown | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.12.2/Baritone_1.12.2_1.12.2_UnknownOrigin.jar) |
 
+## Missing versions found online
+
+These versions have upstream archive or release listings but **no matching JAR stored in this repository**. Follow the official source to select a build. Baritone releases may offer Fabric, Forge and NeoForge; check each release's supported loaders and Minecraft versions. Minecraft 26.x uses the newer version naming scheme. This is a prioritized gap list, **not an exhaustive list of every historical Minecraft patch release**.
+
+| Mod | Minecraft version | Loader | Source archive | Download / release page | Local status |
+|---|---|---|---|---|---|
+| Meteor Client | 26.2 | Fabric | Meteor official archive | [Official source](https://meteorclient.com/archive) | Not imported |
+| Meteor Client | 26.1.2 | Fabric | Meteor official archive | [Official source](https://meteorclient.com/archive) | Not imported |
+| Meteor Client | 1.21.11 | Fabric | Meteor official archive | [Official source](https://meteorclient.com/archive) | Not imported |
+| Meteor Client | 1.21.10 | Fabric | Meteor official archive | [Official source](https://meteorclient.com/archive) | Not imported |
+| Meteor Client | 1.21.8 | Fabric | Meteor official archive | [Official source](https://meteorclient.com/archive) | Not imported |
+| Meteor Client | 1.21.7 | Fabric | Meteor official archive | [Official source](https://meteorclient.com/archive) | Not imported |
+| Meteor Client | 1.21.6 | Fabric | Meteor official archive | [Official source](https://meteorclient.com/archive) | Not imported |
+| Meteor Client | 1.21.5 | Fabric | Meteor official archive | [Official source](https://meteorclient.com/archive) | Not imported |
+| Meteor Client | 1.21.4 | Fabric | Meteor official archive | [Official source](https://meteorclient.com/archive) | Not imported |
+| Baritone | 26.3 | See official release assets | Baritone official releases / Meteor archive | [Official source](https://github.com/cabaletta/baritone/releases) | Not imported |
+| Baritone | 26.2 | See official release assets | Baritone official releases / Meteor archive | [Official source](https://github.com/cabaletta/baritone/releases) | Not imported |
+| Baritone | 26.1 | See official release assets | Baritone official releases / Meteor archive | [Official source](https://github.com/cabaletta/baritone/releases) | Not imported |
+| Baritone | 1.21.11 | See official release assets | Baritone official releases / Meteor archive | [Official source](https://github.com/cabaletta/baritone/releases) | Not imported |
+| Baritone | 1.21.10 | See official release assets | Baritone official releases / Meteor archive | [Official source](https://github.com/cabaletta/baritone/releases) | Not imported |
+| Baritone | 1.21.8 | See official release assets | Baritone official releases / Meteor archive | [Official source](https://github.com/cabaletta/baritone/releases) | Not imported |
+| Baritone | 1.21.5 | See official release assets | Baritone official releases / Meteor archive | [Official source](https://github.com/cabaletta/baritone/releases) | Not imported |
+| Baritone | 1.21.4 | See official release assets | Baritone official releases / Meteor archive | [Official source](https://github.com/cabaletta/baritone/releases) | Not imported |
+
+Other sources worth checking: [Meteor historical community archive](https://github.com/alone8199/meteor-client-archive) (records Minecraft versions and actual mod versions from `fabric.mod.json`), [Baritone Minecraft-to-mod version mapping](https://github.com/cabaletta/baritone/blob/1.21.4/SETUP.md), and [Meteor's archive FAQ](https://meteorclient.com/faq/old-versions).
+
+**Source references:** [Meteor archive](https://meteorclient.com/archive), [Baritone releases](https://github.com/cabaletta/baritone/releases), [Baritone setup/version mapping](https://github.com/cabaletta/baritone/blob/1.21.4/SETUP.md).
+
 ## Where the files came from
 
 The following are **source locations and research leads**, not proof that a specific archived JAR was originally built or downloaded there. The original acquisition location of many files is unknown.
