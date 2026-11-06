@@ -1,0 +1,123 @@
+name: Build Meteor and Baritone from source
+
+on:
+  workflow_dispatch:
+    inputs:
+      project:
+        description: Which upstream project to compile
+        required: true
+        type: choice
+        options: [both, meteor, baritone]
+        default: both
+      meteor_ref:
+        description: Meteor Git branch/tag/commit (e.g. master, 1.21.11, 1.21.10)
+        required: true
+        default: "1.21.11"
+      baritone_ref:
+        description: Baritone Git branch/tag/commit (e.g. 1.21.11, 1.20.1, 1.16.5)
+        required: true
+        default: "1.21.11"
+
+permissions:
+  contents: read
+
+jobs:
+  meteor:
+    if: ${{ inputs.project == 'both' || inputs.project == 'meteor' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - name: Check out upstream Meteor source
+        uses: actions/checkout@v4
+        with:
+          repository: MeteorDevelopment/meteor-client
+          ref: ${{ inputs.meteor_ref }}
+          path: source
+          persist-credentials: false
+      - name: Set up Java 25
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '25'
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+      - name: Compile Meteor
+        working-directory: source
+        run: |
+          chmod +x ./gradlew
+          ./gradlew --no-daemon build -Pcommit="$(git rev-parse HEAD)" -Pbuild_number=0
+      - name: Collect JARs and build metadata
+        if: success()
+        shell: bash
+        run: |
+          mkdir -p compiled/meteor
+          find source -type f -path '*/build/libs/*.jar' -exec cp -n {} compiled/meteor/ \;
+          printf 'project=Meteor Client\nsource=https://github.com/MeteorDevelopment/meteor-client\nref=%s\ncommit=%s\n' "${{ inputs.meteor_ref }}" "$(git -C source rev-parse HEAD)" > compiled/meteor/BUILD-INFO.txt
+          test -n "$(find compiled/meteor -name '*.jar' -print -quit)"
+      - name: Upload Meteor build output
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: meteor-compiled-${{ github.run_number }}
+          path: compiled/meteor/
+          if-no-files-found: error
+
+  baritone:
+    if: ${{ inputs.project == 'both' || inputs.project == 'baritone' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - name: Check out upstream Baritone source
+        uses: actions/checkout@v4
+        with:
+          repository: cabaletta/baritone
+          ref: ${{ inputs.baritone_ref }}
+          path: source
+          submodules: recursive
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Determine Java version
+        id: java
+        shell: bash
+        run: |
+          # Newer branches use JDK 21. Old versions may need a different toolchain.
+          ref="${{ inputs.baritone_ref }}"
+          case "$ref" in
+            1.13.*|1.14.*|1.15.*|1.16.*) version=8 ;;
+            1.17.*) version=16 ;;
+            1.18.*|1.19.*|1.20.1|1.20.2) version=17 ;;
+            *) version=21 ;;
+          esac
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: ${{ steps.java.outputs.version }}
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+      - name: Compile Baritone
+        working-directory: source
+        run: |
+          chmod +x ./gradlew
+          ./gradlew --no-daemon build
+      - name: Collect JARs and build metadata
+        if: success()
+        shell: bash
+        run: |
+          mkdir -p compiled/baritone
+          if [ -d source/dist ]; then
+            find source/dist -type f -name '*.jar' -exec cp -n {} compiled/baritone/ \;
+          fi
+          if ! find compiled/baritone -name '*.jar' -print -quit | grep -q .; then
+            find source -type f -path '*/build/libs/*.jar' -exec cp -n {} compiled/baritone/ \;
+          fi
+          printf 'project=Baritone\nsource=https://github.com/cabaletta/baritone\nref=%s\ncommit=%s\n' "${{ inputs.baritone_ref }}" "$(git -C source rev-parse HEAD)" > compiled/baritone/BUILD-INFO.txt
+          test -n "$(find compiled/baritone -name '*.jar' -print -quit)"
+      - name: Upload Baritone build output
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: baritone-compiled-${{ github.run_number }}
+          path: compiled/baritone/
+          if-no-files-found: error
