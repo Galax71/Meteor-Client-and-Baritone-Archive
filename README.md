@@ -1,4 +1,9 @@
 # Meteor/Baritone Archive
+
+**[Browse all existing compiled JARs by mod and loader](DOWNLOADS.md)** · **[Build other versions](BUILDING.md)**
+
+NeoForge and other loaders are listed only when a corresponding compiled JAR has been verified; the current archive primarily contains Meteor Client, Baritone Fabric and Baritone Forge builds.
+
 Using Unsupported Minecraft Versions:
 If the mod does not support the version of Minecraft you are using, consider using ViaFabricPlus. This tool allows you to connect to servers using different Minecraft versions, providing greater compatibility.
 
