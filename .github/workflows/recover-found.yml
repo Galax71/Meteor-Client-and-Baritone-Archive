@@ -9,6 +9,10 @@ on:
       - scripts/update_official_tables.py
       - EXTERNAL-DOWNLOADS.json
       - .github/workflows/recover-found.yml
+      - 'source/**/*.jar'
+      - RECOVERED-SOURCES.json
+      - MC-VERSION-COVERAGE.json
+      - MOD-EXISTENCE-NOTES.json
 concurrency:
   group: auto-mod-recovery
   cancel-in-progress: false

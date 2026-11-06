@@ -1,87 +1,91 @@
 #!/usr/bin/env python3
-"""Update README and DOWNLOADS tables from already-downloaded official JARs."""
+"""Synchronize both main README mod tables with downloaded JARs.
+
+Preserves manually curated archive rows and historical mod-existence statuses.
+Only marks a version available when an actual JAR is present.
+"""
 import json
+import re
 from pathlib import Path
-root=Path(__file__).resolve().parents[1]
-entries=[x for x in json.loads((root/'RECOVERED-SOURCES.json').read_text())['files'] if x['path'].startswith('source/meteorclient.com/')]
-def key(x):
- v=x['path'].split('/')[4]
- return tuple(int(y) for y in v.split('.'))
-entries.sort(key=key,reverse=True)
-lines=['<!-- OFFICIAL_METEOR_START -->','## Official Meteor Client website downloads','',
-       f'These **{len(entries)} JARs have been downloaded and committed** from [Meteor\'s official version archive](https://meteorclient.com/archive). See [RECOVERED-SOURCES.json](RECOVERED-SOURCES.json) for original URLs and SHA-256 hashes. In-game compatibility has not been verified.','']
-for mod,title in [('meteor','Meteor Client'),('baritone','Baritone')]:
- lines.extend(['### '+title,'','| Minecraft version | Loader | Mod version / build | Download |','|---|---|---|---|'])
- for item in entries:
-  p=item['path'].split('/')
-  if p[2]!=mod:continue
-  lines.append(f'| {p[4]} | {p[3]} | {p[5][:-4]} | [Download JAR]({item["path"]}) |')
- lines.append('')
-lines.append('<!-- OFFICIAL_METEOR_END -->')
-block='\n'.join(lines)
-for name in ['README.md','DOWNLOADS.md']:
- p=root/name
- text=p.read_text()
- a=text.find('<!-- OFFICIAL_METEOR_START -->')
- b=text.find('<!-- OFFICIAL_METEOR_END -->')
- if a>=0 and b>a:text=text[:a]+block+text[b+len('<!-- OFFICIAL_METEOR_END -->'):]
- else:text=text.rstrip()+'\n\n'+block+'\n'
- p.write_text(text)
-print('Updated official-site download tables:',len(entries),'JARs')
 
+ROOT = Path(__file__).resolve().parents[1]
+README = ROOT / "README.md"
+manifest = json.loads((ROOT / "RECOVERED-SOURCES.json").read_text())
+coverage = json.loads((ROOT / "MC-VERSION-COVERAGE.json").read_text())
+notes = json.loads((ROOT / "MOD-EXISTENCE-NOTES.json").read_text())
+early = notes.get("early_versions", [])
+versions = list(dict.fromkeys([x["minecraft_version"] for x in coverage["records"]] + early))
+files = [x for x in manifest.get("files", []) if (ROOT / x["path"]).is_file()]
+def key(version):
+    if re.fullmatch(r"(?:1|26)\.\d+(?:\.\d+)?", version):
+        return (2, *[int(n) for n in version.split(".")])
+    return (0, version)
+def version_from_row(row):
+    return row.split("|")[1].strip().replace(" (inferred)", "")
+def status(version, found):
+    if found:
+        return "Yes — archived build"
+    if version in early or re.fullmatch(r"1\.(?:[0-9]|10|11)(?:\.\d+)?", version):
+        return "No — predates documented mod support"
+    return "Unknown — no verified build"
 
-# Keep the main README tables synchronized with the official recovered JARs.
-readme=root/'README.md'
-text=readme.read_text()
-begin=text.index('## Downloads by mod')
-end=text.index('## Minecraft Java releases',begin)
-section=text[begin:end]
-for mod,heading,next_heading in [('meteor','### Meteor Client','### Baritone'),('baritone','### Baritone',None)]:
- start=section.index(heading)
- finish=section.index(next_heading,start+len(heading)) if next_heading else len(section)
- chunk=section[start:finish]
- rows=chunk.splitlines()
- header=next(i for i,line in enumerate(rows) if line.startswith('| Minecraft version |'))
- stop=next((i for i in range(header+2,len(rows)) if not rows[i].startswith('|')),len(rows))
- previous=[line for line in rows[header+2:stop] if 'source/meteorclient.com/' not in line]
- recovered=[]
- for item in entries:
-  p=item['path'].split('/')
-  if p[2]!=mod:continue
-  recovered.append(f'| {p[4]} | {p[3]} | {p[5][:-4]} (official archive filename) | [meteorclient.com](https://meteorclient.com/archive) | [Download JAR]({item["path"]}) |')
- def sortkey(line):
-  v=line.split('|')[1].strip().split(' ')[0]
-  return tuple(int(n) for n in v.split('.') if n.isdigit())
- combined=sorted(previous+recovered,key=sortkey,reverse=True)
- rows[header+2:stop]=combined
- section=section[:start]+'\n'.join(rows)+section[finish:]
-text=text[:begin]+section+text[end:]
-readme.write_text(text)
-
-# Add explicit Missing rows for Minecraft versions without a local archive entry.
-coverage=json.loads((root/'MC-VERSION-COVERAGE.json').read_text())
-versions=list(dict.fromkeys(item['minecraft_version'] for item in coverage['records']))
-readme=root/'README.md'
-text=readme.read_text()
-a=text.index('## Downloads by mod')
-b=text.index('## Minecraft Java releases',a)
-section=text[a:b]
-for heading,next_heading in [('### Meteor Client','### Baritone'),('### Baritone',None)]:
- start=section.index(heading)
- stop=section.index(next_heading,start+len(heading)) if next_heading else len(section)
- chunk=section[start:stop]
- lines=chunk.splitlines()
- header=next(i for i,line in enumerate(lines) if line.startswith('| Minecraft version |'))
- existing=[line for line in lines[header+2:] if line.startswith('|') and not line.startswith('|---') and '**Missing**' not in line]
- present={line.split('|')[1].strip().replace(' (inferred)','') for line in existing}
- missing=[f'| {v} | — | **Missing** | — | **Missing** |' for v in versions if v not in present]
- def version_key(line):
-  v=line.split('|')[1].strip().replace(' (inferred)','')
-  return tuple(int(part) for part in v.split('.') if part.isdigit())
- rows=sorted(existing+missing,key=version_key,reverse=True)
- section=section[:start]+'\n'.join(lines[:header+2]+rows+[''])+'\n'+section[stop:]
-text=text[:a]+section+text[b:]
-readme.write_text(text)
-
-# NOTE: The main README includes a Mod existed? column and early Minecraft milestones.
-# Preserve this column when regenerating rows; historical evidence is maintained in MOD-EXISTENCE-NOTES.json.
+readme = README.read_text()
+start = readme.index("## Downloads by mod")
+end = readme.index("## Minecraft Java releases", start)
+section = readme[start:end]
+for heading, next_heading, mod in [
+    ("### Meteor Client", "### Baritone", "meteor"),
+    ("### Baritone", None, "baritone"),
+]:
+    a = section.index(heading)
+    b = section.index(next_heading, a + len(heading)) if next_heading else len(section)
+    chunk = section[a:b]
+    lines = chunk.splitlines()
+    header = next(i for i, line in enumerate(lines) if line.startswith("| Minecraft version |"))
+    old = [line for line in lines[header+2:] if line.startswith("|") and not line.startswith("|---")]
+    # Preserve pre-existing non-generated archive rows, but discard stale missing
+    # and generated recovered rows before rebuilding from actual files.
+    original = [
+        line for line in old
+        if "**Missing**" not in line
+        and "source/" not in line
+    ]
+    by_version = {}
+    for line in original:
+        by_version.setdefault(version_from_row(line), []).append(line)
+    recovered = {}
+    for item in files:
+        path = item["path"]
+        parts = path.split("/")
+        if len(parts) < 6 or parts[2] != mod or not path.endswith(".jar"):
+            continue
+        version, loader, filename = parts[4], parts[3], parts[-1]
+        source = parts[1]
+        # The build filename is not necessarily an independently verified mod version.
+        line = (
+            f"| {version} | Yes — archived build | {loader} | "
+            f"{filename[:-4]} (filename) | [{source}]({item['source_url']}) | "
+            f"[Download JAR]({path}) |"
+        )
+        recovered.setdefault(version, []).append(line)
+    all_versions = sorted(set(versions) | set(by_version) | set(recovered), key=key, reverse=True)
+    rows = []
+    for version in all_versions:
+        existing = by_version.get(version, [])
+        downloaded = recovered.get(version, [])
+        for line in existing:
+            cells = line.split("|")
+            if len(cells) == 7:
+                cells[2] = " " + status(version, True) + " "
+            elif len(cells) == 6:
+                cells.insert(2, " " + status(version, True) + " ")
+            rows.append("|".join(cells))
+        rows.extend(downloaded)
+        if not existing and not downloaded:
+            rows.append(f"| {version} | {status(version, False)} | — | **Missing** | — | **Missing** |")
+    prefix = "\n".join(lines[:header])
+    replacement = prefix + "\n| Minecraft version | Mod existed? | Loader | Mod version | Archive found in | Download |\n|---|---|---|---|---|---|\n" + "\n".join(rows) + "\n\n"
+    section = section[:a] + replacement + section[b:]
+readme = readme[:start] + section + readme[end:]
+README.write_text(readme)
+print("Updated main README tables from", len(files), "verified-present recovered JAR paths")
