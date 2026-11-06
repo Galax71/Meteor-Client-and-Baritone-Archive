@@ -57,3 +57,28 @@ for mod,heading,next_heading in [('meteor','### Meteor Client','### Baritone'),(
  section=section[:start]+'\n'.join(rows)+section[finish:]
 text=text[:begin]+section+text[end:]
 readme.write_text(text)
+
+# Add explicit Missing rows for Minecraft versions without a local archive entry.
+coverage=json.loads((root/'MC-VERSION-COVERAGE.json').read_text())
+versions=list(dict.fromkeys(item['minecraft_version'] for item in coverage['records']))
+readme=root/'README.md'
+text=readme.read_text()
+a=text.index('## Downloads by mod')
+b=text.index('## Minecraft Java releases',a)
+section=text[a:b]
+for heading,next_heading in [('### Meteor Client','### Baritone'),('### Baritone',None)]:
+ start=section.index(heading)
+ stop=section.index(next_heading,start+len(heading)) if next_heading else len(section)
+ chunk=section[start:stop]
+ lines=chunk.splitlines()
+ header=next(i for i,line in enumerate(lines) if line.startswith('| Minecraft version |'))
+ existing=[line for line in lines[header+2:] if line.startswith('|') and not line.startswith('|---') and '**Missing**' not in line]
+ present={line.split('|')[1].strip().replace(' (inferred)','') for line in existing}
+ missing=[f'| {v} | — | **Missing** | — | **Missing** |' for v in versions if v not in present]
+ def version_key(line):
+  v=line.split('|')[1].strip().replace(' (inferred)','')
+  return tuple(int(part) for part in v.split('.') if part.isdigit())
+ rows=sorted(existing+missing,key=version_key,reverse=True)
+ section=section[:start]+'\n'.join(lines[:header+2]+rows+[''])+'\n'+section[stop:]
+text=text[:a]+section+text[b:]
+readme.write_text(text)
