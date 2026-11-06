@@ -52,6 +52,7 @@ Minecraft versions are sorted newest first. **(inferred)** means the version is 
 | 1.20.4 (inferred) | fabric | 0.5.6 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-c13166ed.jar) |
 | 1.20.2 | fabric | 0.5.5 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.2/MeteorClient_1.20.2_0.5.5_ManInMyVan.jar) |
 | 1.20.2 (inferred) | fabric | 0.5.5 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.2/MeteorClient_1.20.2_0.5.5_ManInMyVan_build-0ecbbc55.jar) |
+| 1.20-1.20.1 | fabric | 0.5.4 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20-1.20.1/MeteorClient_1.20-1.20.1_0.5.4_ManInMyVan.jar) |
 | 1.19.4 | fabric | 0.5.3 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19.4/MeteorClient_1.19.4_0.5.3_ManInMyVan.jar) |
 | 1.19.3 | fabric | 0.5.2 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19.3/MeteorClient_1.19.3_0.5.2_ManInMyVan.jar) |
 | 1.19.2 | fabric | 0.5.1 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19.2/MeteorClient_1.19.2_0.5.1_ManInMyVan.jar) |
@@ -100,8 +101,6 @@ Minecraft versions are sorted newest first. **(inferred)** means the version is 
 | 1.14.4 | fabric | 0.1.2 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.2_ManInMyVan.jar) |
 | 1.14.4 | fabric | 0.1.1 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.1_ManInMyVan.jar) |
 | 1.14.4 | fabric | 0.1.0 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/MeteorClient_1.14.4_0.1.0_ManInMyVan.jar) |
-| 1.20-1.20.1 | fabric | 0.5.4 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20-1.20.1/MeteorClient_1.20-1.20.1_0.5.4_ManInMyVan.jar) |
-
 ### Baritone
 
 | Minecraft version | Loader | Mod version | Archive found in | Download |
@@ -152,7 +151,6 @@ Minecraft versions are sorted newest first. **(inferred)** means the version is 
 | 1.15.2 | forge | 1.15.2 | Unknown | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.15.2/Baritone_1.15.2_1.15.2_UnknownOrigin.jar) |
 | 1.13.2 | fabric | 1.13.2 | Unknown | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.13.2/Baritone_1.13.2_1.13.2_UnknownOrigin.jar) |
 | 1.12.2 | forge | 1.12.2 | Unknown | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.12.2/Baritone_1.12.2_1.12.2_UnknownOrigin.jar) |
-
 ## Minecraft Java releases 1.0.0 through 26.3
 
 [Complete per-version table](MC-VERSION-COVERAGE.md) · [Machine-readable inventory](MC-VERSION-COVERAGE.json) · [Missing / potentially lost mod builds](MISSING-OR-LOST.md).
