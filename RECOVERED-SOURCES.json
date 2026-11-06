@@ -1,0 +1,3231 @@
+{
+  "files": [
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/baritone/fabric/1.16.5/baritone-1.16.5-SNAPSHOT.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/baritone/baritone-1.16.5-SNAPSHOT.jar",
+      "sha256": "2c27267c5b2945eb6ffa4c2583b55f928a57508fdd6e1ea6dc01629c82214b7c",
+      "bytes": 655848,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/baritone/fabric/1.18.2/baritone-1.18.2-SNAPSHOT.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/baritone/baritone-1.18.2-SNAPSHOT.jar",
+      "sha256": "2767bbb8f3ee890f243609bfc2cb6b92fbf638cf7223a9d97030e26ac0fa363f",
+      "bytes": 498863,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/baritone/fabric/1.19.2/baritone-1.19.2-SNAPSHOT.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/baritone/baritone-1.19.2-SNAPSHOT.jar",
+      "sha256": "d268d0277814240a1b0f64f8ce82e8cc095dab5720eccc7bcb38791eb5f5d17d",
+      "bytes": 510037,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/baritone/fabric/1.19.3/baritone-1.19.3-SNAPSHOT.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/baritone/baritone-1.19.3-SNAPSHOT.jar",
+      "sha256": "288c2653a47577f4f13bdb862ebef6f2f4ac41de2e1b9efa2b4bcd0a06c1362b",
+      "bytes": 522959,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/baritone/fabric/1.19.4/baritone-1.19.4-SNAPSHOT.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/baritone/baritone-1.19.4-SNAPSHOT.jar",
+      "sha256": "75d96e15511909b75b9190f369c35a1553b669d0aa2a04643c95cc5dd3f5f4e5",
+      "bytes": 527431,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/baritone/fabric/1.19/baritone-1.19-SNAPSHOT.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/baritone/baritone-1.19-SNAPSHOT.jar",
+      "sha256": "5723b7b2fbcb2ac13064856034b50db9470ef3b3d6eaa57e2a9fc216b605115d",
+      "bytes": 508218,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/baritone/fabric/1.20.1/baritone-1.20.1-SNAPSHOT.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/baritone/baritone-1.20.1-SNAPSHOT.jar",
+      "sha256": "815c68cccb335379dea408db8e91e69812a47023c89aae9c3e1d43eabc4daf75",
+      "bytes": 527297,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/baritone/fabric/1.20/baritone-1.20-SNAPSHOT.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/baritone/baritone-1.20-SNAPSHOT.jar",
+      "sha256": "a187063ee00b300921817e3927881505067039c884636e2b13bf6e5a81eb060d",
+      "bytes": 527304,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/baritone/fabric/1.21.3/baritone-1.21.3-20241117.084726-1.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/baritone/baritone-1.21.3-20241117.084726-1.jar",
+      "sha256": "7ecb533c830827b5b38deafe8c562898e1cc571e961351cd50df31eb982d1284",
+      "bytes": 1601369,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.16.1/meteor-client-0.3.0.1-1.16.1.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.3.0.1-1.16.1.jar",
+      "sha256": "133119083e5a4bcd9d7dad8b3be2fefa0549fe392d3ab5371689eecf05705a19",
+      "bytes": 4085144,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.17.1/meteor-client-0.4.6-1180.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.4.6-1180.jar",
+      "sha256": "e50d7cd5c128b8824a7bbaef08fecdb69cafb21ec0789012a8daa6db1690c4d0",
+      "bytes": 3275889,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.17.1/meteor-client-0.4.6.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/meteor-client-0.4.6.jar",
+      "sha256": "94eb25ec4e6edc72c097744a29bd33914182db6cf22a9c56d1aa5ff42ae2cec5",
+      "bytes": 4641700,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.18.1/meteor-client-0.4.7-1373.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.4.7-1373.jar",
+      "sha256": "0b8c1a92032c6232af387852d17424e98ef3cbf94443de81380386b1cf98e8d9",
+      "bytes": 4572037,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.18.1/meteor-client-0.4.7-1381.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.4.7-1381.jar",
+      "sha256": "60b99ead8c9707c06876f43d738b9825665e1e783cb273e79b7f5d47dfc6f5a8",
+      "bytes": 4571856,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.18.1/meteor-client-0.4.7-1384.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.4.7-1384.jar",
+      "sha256": "32ace616886e346196ff26268875381819226420d1f282ff36987b98dc7082fb",
+      "bytes": 4573158,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.18.1/meteor-client-0.4.7-1388.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.4.7-1388.jar",
+      "sha256": "02155d071a8f7b4d383de2cdbd9a90749207d924fa5b71f1239c301a3a3c0dbb",
+      "bytes": 4569970,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.18.1/meteor-client-0.4.7-1396.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.4.7-1396.jar",
+      "sha256": "f7ca6096c29bd4846e7c757f57c9d6de43ad16eb6bddfbdd07114354049ce5ac",
+      "bytes": 4569179,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.18.1/meteor-client-0.4.7-1405.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.4.7-1405.jar",
+      "sha256": "c9d786e3f974c8c72f6a5ffdf768d95e0735da402b6179662772d82d3d1099c9",
+      "bytes": 4575430,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.18.1/meteor-client-0.4.7.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/meteor-client-0.4.7.jar",
+      "sha256": "cd20bbe5eefc5699de703ecfa886266c4f3f7e1965660b54ac1b78904a0f7fd8",
+      "bytes": 4067523,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.18.2/meteor-client-0.4.8-1427.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.4.8-1427.jar",
+      "sha256": "7e982d83e99f628e2dfdfa959b327ffeb34a01616146c2e89d980d642178a999",
+      "bytes": 3996129,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.18.2/meteor-client-0.4.8-1441.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.4.8-1441.jar",
+      "sha256": "c12bb0a9cbbe9d7b39cc78e5776520e5228a4a23df3ccf932d5787ab2d1d718f",
+      "bytes": 3973859,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.18.2/meteor-client-0.4.8.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/meteor-client-0.4.8.jar",
+      "sha256": "1caf4eb63aec70054bed83ca36ee94607d31cfbdd9c75be0061ac5dfc9eb012e",
+      "bytes": 4087260,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.19.2/meteor-client-0.5.1-1571.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.1-1571.jar",
+      "sha256": "ccec88b2546fc9bf025799886e708ba2093327b37c74d1fc7d0cc49a56f55663",
+      "bytes": 4253230,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.19.2/meteor-client-0.5.1-1690.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.1-1690.jar",
+      "sha256": "c47871d5ab310c21057f2266a5a5ed6d5813cfa520c7a56a266fd1c0625f98bd",
+      "bytes": 4788491,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.19.2/meteor-client-0.5.1.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/meteor-client-0.5.1.jar",
+      "sha256": "eb152dd8a2d64d7c5af25a6bbe973a093c283e0e0abbd28c6639029d02581fdd",
+      "bytes": 4913002,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.19/meteor-client-0.5.0-1562.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.0-1562.jar",
+      "sha256": "224890032c41539780513e0d9c4c77c137a3f8e7bf3825d6a50276e7af49bb9d",
+      "bytes": 4235685,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.19/meteor-client-0.5.0.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/meteor-client-0.5.0.jar",
+      "sha256": "528047bd3be7051a8d34316febd6903b30e0ef537fa26d5cc3dfed1ea24183ba",
+      "bytes": 4349588,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.2/meteor-client-0.5.5-1964.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.5-1964.jar",
+      "sha256": "fa3187b0cfd482237aa3c74ea1fa1392e6d08d5612d98f421e8491e7dc026920",
+      "bytes": 4565511,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.2/meteor-client-0.5.5.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/meteor-client-0.5.5.jar",
+      "sha256": "f957dd8364dfc66794b08f2bb3ebdceec822950dae67fb588e8daf7f4a9b7890",
+      "bytes": 4542051,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.4/meteor-client-0.5.6-1985.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.6-1985.jar",
+      "sha256": "94353e399aec04028694f843b71e363ddab9e0532189288e4210eb2afe8c3fa4",
+      "bytes": 4418123,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.4/meteor-client-0.5.6-1993.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.6-1993.jar",
+      "sha256": "c8c0431785aaa3002323e43991e8884d6e426ba82ce598921649582765b57673",
+      "bytes": 4421957,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.4/meteor-client-0.5.6-1995.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.6-1995.jar",
+      "sha256": "a0bc3020c17b42875dd8a04b813d5fe56844004de9ac864f83b2c9249c6e0a6b",
+      "bytes": 4423569,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.4/meteor-client-0.5.6-1996.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.6-1996.jar",
+      "sha256": "db1aa6cf6ef96759ed544e4dea658e2b82cd66ba9e9c590102f0dd40bf886d48",
+      "bytes": 4423635,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.4/meteor-client-0.5.6-1997.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.6-1997.jar",
+      "sha256": "359b7b6206796d83f7bb4cae4c023e6594e70c5e79716103e4e3a7786208e2cb",
+      "bytes": 4423623,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.4/meteor-client-0.5.6-1998.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.6-1998.jar",
+      "sha256": "59fef6fa315c965492e0557a5b94b46aec594d8d0a46805b02ccf1fa7d4e3a7b",
+      "bytes": 4423573,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.4/meteor-client-0.5.6-1999.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.6-1999.jar",
+      "sha256": "d474ea895c1a0bbf53ab20f4196dcf4c1adbdfecb82abfb93a849d3b056fd88e",
+      "bytes": 4425436,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.4/meteor-client-0.5.6-2001.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.6-2001.jar",
+      "sha256": "090b0a4114881171401ca08f45e40bc73b3f6318030a60c7d469e7795509e112",
+      "bytes": 4429277,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.4/meteor-client-0.5.6-2002.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.6-2002.jar",
+      "sha256": "ddee284a6e79add0402164a45ad059071360b6f6aced2a4d3c55bc00f933bf8b",
+      "bytes": 4429328,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.4/meteor-client-0.5.6-2003.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.6-2003.jar",
+      "sha256": "72f03f51bad0543bb15ce32736f26f3b886a2002c099fd853e22a230d10d3fb8",
+      "bytes": 4429312,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.4/meteor-client-0.5.6-2005.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.6-2005.jar",
+      "sha256": "6bcd07af024e45810011118b9596e34c1f35f9425b3a283737b7880bd9da9881",
+      "bytes": 4450160,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.4/meteor-client-0.5.6-2007.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.6-2007.jar",
+      "sha256": "02d59a9ae6a19ef1f610736910f6d8e69591d82d11b10a56aedcabc52cd9324d",
+      "bytes": 4450907,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.4/meteor-client-0.5.6-2008.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.6-2008.jar",
+      "sha256": "edf83bffc6d611a29857f126b025f5fcc8fa662ec55920af20979d1fff3b9d98",
+      "bytes": 4451973,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.4/meteor-client-0.5.6.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/meteor-client-0.5.6.jar",
+      "sha256": "0058cfe2b24392bb6d84a7cbae10c66ecadfcef47b31e7fa5ad0e8f0b4f71c99",
+      "bytes": 4464027,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.6/meteor-client-0.5.7-2079.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.7-2079.jar",
+      "sha256": "b7f9d8814a1e14713416f718a91cd00d9f188c117b3d76341299ce16491d35ed",
+      "bytes": 4470651,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.20.6/meteor-client-0.5.7.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/meteor-client-0.5.7.jar",
+      "sha256": "5de1f1d09664c1c8c60186a9385ae837b3d7c11e3ab919aa667eb7cf3f2ae3dc",
+      "bytes": 4498286,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.21.1/meteor-client-0.5.8-2119.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/extra/meteor-client-0.5.8-2119.jar",
+      "sha256": "71ae240337f50e778ee2a59371b3dc402a585a615718b18cc0a13469ca5a0f4c",
+      "bytes": 4517190,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-ManInMyVan-meteor-archive/meteor/fabric/1.21.1/meteor-client-0.5.8.jar",
+      "source_url": "https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/files/meteor-client/meteor-client-0.5.8.jar",
+      "sha256": "090ad8f02273a67eca753ef37ccee2256e4dd3d715501ed75433ec8f57d7c5e9",
+      "bytes": 4542953,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.16.5/baritone-api-fabric-1.6.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.3/baritone-api-fabric-1.6.3.jar",
+      "sha256": "79d4c7d359f65320a324c46e9c4af7f550df260117afa0036caa12f6676566d8",
+      "bytes": 467207,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.16.5/baritone-api-fabric-1.6.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.4/baritone-api-fabric-1.6.4.jar",
+      "sha256": "a682045c56370d8e1c7c09dde391c67b8eaee70f2b6b5b0af855ff64bb779731",
+      "bytes": 500178,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.16.5/baritone-api-fabric-1.6.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.5/baritone-api-fabric-1.6.5.jar",
+      "sha256": "ca76ece10a013d5834f2a2cd1673b922111620579f2bace4c4501f67bc126b7c",
+      "bytes": 533485,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.16.5/baritone-standalone-fabric-1.6.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.3/baritone-standalone-fabric-1.6.3.jar",
+      "sha256": "d5bb452f679ee873f2ae2b474772e35969da56a94dcaffcdcbc020bbe8780c41",
+      "bytes": 401565,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.16.5/baritone-standalone-fabric-1.6.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.4/baritone-standalone-fabric-1.6.4.jar",
+      "sha256": "5aaa831ab808d6af385e11ef5e96e4cd5051223c44233db273e5e4d6534cc6ed",
+      "bytes": 431686,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.16.5/baritone-standalone-fabric-1.6.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.5/baritone-standalone-fabric-1.6.5.jar",
+      "sha256": "f9d8eb3f1f6983295771640ae38f49da81d1f9fab238de2e204c9fdac52a78e1",
+      "bytes": 455800,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.16.5/baritone-unoptimized-fabric-1.6.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.3/baritone-unoptimized-fabric-1.6.3.jar",
+      "sha256": "72721f174b9aa561032b67fcd21b21e4886d788eb40289cce7fa8dd0c2b45fd4",
+      "bytes": 656699,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.16.5/baritone-unoptimized-fabric-1.6.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.4/baritone-unoptimized-fabric-1.6.4.jar",
+      "sha256": "8b8386d4d404f8e62cc099e8afea08faa14c5225de575befc18ed8ddc1f58c0e",
+      "bytes": 688551,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.16.5/baritone-unoptimized-fabric-1.6.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.5/baritone-unoptimized-fabric-1.6.5.jar",
+      "sha256": "b0bf3ebdc06b4fddbe3c035c25f4a49c96e34954398a1cc0c8ad6bccf560da64",
+      "bytes": 737906,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.17.1/baritone-api-fabric-1.7.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.1/baritone-api-fabric-1.7.1.jar",
+      "sha256": "006e54cc1a50d20f50222ab173e47dc33ba0819f8b243d0cda2f0c60376afb2e",
+      "bytes": 469259,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.17.1/baritone-api-fabric-1.7.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.2/baritone-api-fabric-1.7.2.jar",
+      "sha256": "9fb6a1d0a6a30aa32c3e7ad061c8df9e9f8445136b49bc4a13090466244e180c",
+      "bytes": 476785,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.17.1/baritone-api-fabric-1.7.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.3/baritone-api-fabric-1.7.3.jar",
+      "sha256": "56ff1b3027f28fd1593e65d52e69a545c52f570b96dbc540d926ee07a113591b",
+      "bytes": 502754,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.17.1/baritone-standalone-fabric-1.7.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.1/baritone-standalone-fabric-1.7.1.jar",
+      "sha256": "e12d5ee78bf2b507a37ffc9e0f6a3a60b4c8aaf914ac01b91abdf18c1bf3ea65",
+      "bytes": 403963,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.17.1/baritone-standalone-fabric-1.7.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.2/baritone-standalone-fabric-1.7.2.jar",
+      "sha256": "60977f3065e20b990ce572637a90b9952089a58a8ecb1a17d565e401a70e19ba",
+      "bytes": 410829,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.17.1/baritone-standalone-fabric-1.7.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.3/baritone-standalone-fabric-1.7.3.jar",
+      "sha256": "a9cc6a715eebfb8e9d3cf927d15b16ca0e4310af88e654aca6ddeef752a193ca",
+      "bytes": 435083,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.17.1/baritone-unoptimized-fabric-1.7.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.1/baritone-unoptimized-fabric-1.7.1.jar",
+      "sha256": "d6859089b9033e02eb1159b670da401a25be1f457495f8966102542a31e4f622",
+      "bytes": 664651,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.17.1/baritone-unoptimized-fabric-1.7.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.2/baritone-unoptimized-fabric-1.7.2.jar",
+      "sha256": "a93c57f32d2593c311886c40db2a855366da25fc217b51345b4347cc8a55cb11",
+      "bytes": 672091,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.17.1/baritone-unoptimized-fabric-1.7.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.3/baritone-unoptimized-fabric-1.7.3.jar",
+      "sha256": "a45fb77985b6f10cf9a512c2d154cb6e7509600d451580e7b87fb124fbb92b6b",
+      "bytes": 698038,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.1/baritone-api-fabric-1.8.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.1/baritone-api-fabric-1.8.1.jar",
+      "sha256": "c6412d23bbbb102742a62fbfe8139bc5a071e7ab5f316ad7825ede50b1844dd9",
+      "bytes": 469229,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.1/baritone-api-fabric-1.8.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.2/baritone-api-fabric-1.8.2.jar",
+      "sha256": "3a40e94c0ab2119463dd78e2cddd630fe74c5b34e8f57b0c7523b0ea718c26a8",
+      "bytes": 476753,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.1/baritone-standalone-fabric-1.8.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.1/baritone-standalone-fabric-1.8.1.jar",
+      "sha256": "2be41889c7647d6637f237ae7114ad560aa89b036411225f06a3a729ec5b06ac",
+      "bytes": 403927,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.1/baritone-standalone-fabric-1.8.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.2/baritone-standalone-fabric-1.8.2.jar",
+      "sha256": "a6bfadfd6ecc1aa318e09ddb1ddecfe0b7ff1915abb6b89bb245057d8a9c9ba7",
+      "bytes": 410795,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.1/baritone-unoptimized-fabric-1.8.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.1/baritone-unoptimized-fabric-1.8.1.jar",
+      "sha256": "d04e4631b7280b88b497372c2248b0d4c73b3fc2751d4147d9e9d75bc4ac53b0",
+      "bytes": 664621,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.1/baritone-unoptimized-fabric-1.8.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.2/baritone-unoptimized-fabric-1.8.2.jar",
+      "sha256": "6ad0e0e805ac19ea2fbc02bb76d46b24e293051eb7edd4d672462075ec397923",
+      "bytes": 672063,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.2/baritone-api-fabric-1.8.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.3/baritone-api-fabric-1.8.3.jar",
+      "sha256": "642b782c9fe7cb0770195419abcb670520db7949a77b44a35c7d36903e406707",
+      "bytes": 476778,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.2/baritone-api-fabric-1.8.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.4/baritone-api-fabric-1.8.4.jar",
+      "sha256": "4465be6faea28ff034b728b0d365763c1eda219ede1a8f6132a5a3e7e04b49fe",
+      "bytes": 502879,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.2/baritone-api-fabric-1.8.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.5/baritone-api-fabric-1.8.5.jar",
+      "sha256": "6df851c7052ed430fe92d7ce6db2152e7190bc7b116addfb3889611fec2f5e25",
+      "bytes": 537912,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.2/baritone-api-fabric-1.8.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.6/baritone-api-fabric-1.8.6.jar",
+      "sha256": "bb8df6f7c6fdf00374d2474ce9fe2c2543a3f7d904d98458181ca4669f60de04",
+      "bytes": 537927,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.2/baritone-standalone-fabric-1.8.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.3/baritone-standalone-fabric-1.8.3.jar",
+      "sha256": "49663cba14295315d9a0dd7b1da98532b4f02b3e64c530fc1be183b85be265a1",
+      "bytes": 410806,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.2/baritone-standalone-fabric-1.8.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.4/baritone-standalone-fabric-1.8.4.jar",
+      "sha256": "28fe9fb38d28d85e868f25e5c01007709875804009b61a7e9836633cbc7bfc9c",
+      "bytes": 435207,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.2/baritone-standalone-fabric-1.8.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.5/baritone-standalone-fabric-1.8.5.jar",
+      "sha256": "6ee4085a571717285b86a0176ae57b6b4050c948fa5cde13a70bcad75d29e4db",
+      "bytes": 460525,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.2/baritone-standalone-fabric-1.8.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.6/baritone-standalone-fabric-1.8.6.jar",
+      "sha256": "e063090a888cbade68d9e02b34de0449aee90219c8177948e015ae31a727dbc2",
+      "bytes": 460537,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.2/baritone-unoptimized-fabric-1.8.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.3/baritone-unoptimized-fabric-1.8.3.jar",
+      "sha256": "538d2a652ecb9de9a8ea67878d4af7327b749d8999324d93197fd8b6f37a72ce",
+      "bytes": 672091,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.2/baritone-unoptimized-fabric-1.8.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.4/baritone-unoptimized-fabric-1.8.4.jar",
+      "sha256": "ad759d74f7cc8fe73b5dcb12cd8b963d8c56df39ffe3187d44f904861317aa8a",
+      "bytes": 698180,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.2/baritone-unoptimized-fabric-1.8.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.5/baritone-unoptimized-fabric-1.8.5.jar",
+      "sha256": "10749ac9a1757c61297a49d54f03259901e740adf1e756aa291ea1777eddd95e",
+      "bytes": 750094,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.18.2/baritone-unoptimized-fabric-1.8.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.6/baritone-unoptimized-fabric-1.8.6.jar",
+      "sha256": "ec275e474c1ecd82bd012884934ad1860ba08e224e016c83d45e1b5a8a30bc6d",
+      "bytes": 750114,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.19.2/baritone-api-fabric-1.9.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.4/baritone-api-fabric-1.9.4.jar",
+      "sha256": "84d44e61de4ce5356795a222b295fd1b2cda24768ed0d7a15ab928dda55c7e2c",
+      "bytes": 499691,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.19.2/baritone-standalone-fabric-1.9.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.4/baritone-standalone-fabric-1.9.4.jar",
+      "sha256": "54d32811954fb395bf22dcc33cb88f70a2ca135dfbfd5a1fe21280bf349aff88",
+      "bytes": 431936,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.19.2/baritone-unoptimized-fabric-1.9.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.4/baritone-unoptimized-fabric-1.9.4.jar",
+      "sha256": "eee64ccef1ec6ffc2196357cf686078b8e2cd89a0ff46d587bca32d646fcc9bc",
+      "bytes": 682682,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.19.3/baritone-api-fabric-1.9.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.1/baritone-api-fabric-1.9.1.jar",
+      "sha256": "2d8aed132ca9676abd4f9554ad7c367d30c1b713c194c8826274258e1a8b895c",
+      "bytes": 501914,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.19.3/baritone-standalone-fabric-1.9.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.1/baritone-standalone-fabric-1.9.1.jar",
+      "sha256": "b13c61754eec8f26c77a2d5284240ae16377b202dba36dfe793c2f1b81ad0e76",
+      "bytes": 433793,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.19.3/baritone-unoptimized-fabric-1.9.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.1/baritone-unoptimized-fabric-1.9.1.jar",
+      "sha256": "1711d841a16a33d51ac501953b9c9523df32c8e943bde9a5a727d7082aadaaed",
+      "bytes": 685276,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.19.4/baritone-api-fabric-1.9.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.2/baritone-api-fabric-1.9.2.jar",
+      "sha256": "7829a9382b2a1f05f5befc7e3baf0d7628b1988843a789f396d789e5560ee910",
+      "bytes": 502549,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.19.4/baritone-api-fabric-1.9.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.3/baritone-api-fabric-1.9.3.jar",
+      "sha256": "5274a6e45af275a3b961bbb67f9da30f8c5dff4bf7d23e5bb3fb39e31220de9b",
+      "bytes": 502549,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.19.4/baritone-standalone-fabric-1.9.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.2/baritone-standalone-fabric-1.9.2.jar",
+      "sha256": "adadf597c94fb129a7b8133224db209642c0a103d58c337cad1c7a56ffcd364a",
+      "bytes": 434430,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.19.4/baritone-standalone-fabric-1.9.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.3/baritone-standalone-fabric-1.9.3.jar",
+      "sha256": "c5b0f735c641ac149eddae8648080ed2b5cba043ab7a2d1d4b010dddd6cfd700",
+      "bytes": 434430,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.19.4/baritone-unoptimized-fabric-1.9.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.2/baritone-unoptimized-fabric-1.9.2.jar",
+      "sha256": "14712c9c933e001297917429cf8ba21e09a27ab454300ee830c3a4adb406a2e4",
+      "bytes": 685626,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.19.4/baritone-unoptimized-fabric-1.9.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.3/baritone-unoptimized-fabric-1.9.3.jar",
+      "sha256": "4a69bb7281961f290d8e0e889c851904b5870f546352af8269169d77810cfd74",
+      "bytes": 685626,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20.3/baritone-api-fabric-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-api-fabric-1.10.2.jar",
+      "sha256": "9c9c37d47bc4b9db8b6163ab76044f2349254ce8088ff6393a1d25439193a8d8",
+      "bytes": 1560331,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20.3/baritone-api-fabric-1.10.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.4/baritone-api-fabric-1.10.4.jar",
+      "sha256": "13e4928c4ee4e2d9231df0efbb47ee8b983359ab53cb03886f374ac28d30ae65",
+      "bytes": 1574327,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20.3/baritone-api-fabric-1.10.7.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.7/baritone-api-fabric-1.10.7.jar",
+      "sha256": "8844b852b71688431d38bfa95530c888f59b68ce7eb1ed7e3e0a05bc158b7c13",
+      "bytes": 4808368,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20.3/baritone-standalone-fabric-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-standalone-fabric-1.10.2.jar",
+      "sha256": "bfaf0b11e61564a902f2a4895d65637840f7f5a319e3042e2e1828200e1bd9ca",
+      "bytes": 1479836,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20.3/baritone-standalone-fabric-1.10.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.4/baritone-standalone-fabric-1.10.4.jar",
+      "sha256": "66fcb079ef67d15a0adf1b5313eb781acaaf81f8dbf6b3689e32182f01d7f611",
+      "bytes": 1492577,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20.3/baritone-standalone-fabric-1.10.7.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.7/baritone-standalone-fabric-1.10.7.jar",
+      "sha256": "3e31207d4be9c1c02910b56aeb56cb6982bc7040f6fe6a93687d71eeeb5c43ae",
+      "bytes": 4726087,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20.3/baritone-unoptimized-fabric-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-unoptimized-fabric-1.10.2.jar",
+      "sha256": "8481117fa8d18a5684982327d4800f8139ace73f8e2f5e3174dc26a300c1f4bf",
+      "bytes": 1781683,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20.3/baritone-unoptimized-fabric-1.10.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.4/baritone-unoptimized-fabric-1.10.4.jar",
+      "sha256": "dad952d07b011a96893d4d5692efcc8bc7f4065b9caa1504bb42a7174479fb76",
+      "bytes": 1798754,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20.3/baritone-unoptimized-fabric-1.10.7.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.7/baritone-unoptimized-fabric-1.10.7.jar",
+      "sha256": "02c1b7344ef8a5a6be231988b14235697facca67c487faaf133ff1753e5b8455",
+      "bytes": 5041594,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20.4/baritone-api-fabric-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-api-fabric-1.10.2.jar",
+      "sha256": "9c9c37d47bc4b9db8b6163ab76044f2349254ce8088ff6393a1d25439193a8d8",
+      "bytes": 1560331,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20.4/baritone-standalone-fabric-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-standalone-fabric-1.10.2.jar",
+      "sha256": "bfaf0b11e61564a902f2a4895d65637840f7f5a319e3042e2e1828200e1bd9ca",
+      "bytes": 1479836,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20.4/baritone-unoptimized-fabric-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-unoptimized-fabric-1.10.2.jar",
+      "sha256": "8481117fa8d18a5684982327d4800f8139ace73f8e2f5e3174dc26a300c1f4bf",
+      "bytes": 1781683,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20.5/baritone-api-fabric-1.10.8.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.8/baritone-api-fabric-1.10.8.jar",
+      "sha256": "edbea33d781e93da14bb75073622dfeb1653cdf3ccdcbc7fddfe8c7d0d3ddc02",
+      "bytes": 4809187,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20.5/baritone-standalone-fabric-1.10.8.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.8/baritone-standalone-fabric-1.10.8.jar",
+      "sha256": "c94e563e87656972bd557c6b1d6ab92448c9dc9edf9f438a246d061880fbc464",
+      "bytes": 4728949,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20.5/baritone-unoptimized-fabric-1.10.8.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.8/baritone-unoptimized-fabric-1.10.8.jar",
+      "sha256": "06d7b32e270e1116441e8ffe01b44033b1f174c233629063eca6b99d8ffa247e",
+      "bytes": 5044044,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20/baritone-api-fabric-1.10.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.1/baritone-api-fabric-1.10.1.jar",
+      "sha256": "311df64264c7f79d32791ae7a5d79a47ea762a5b74d0687b9c51b42d141b6b95",
+      "bytes": 502422,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20/baritone-api-fabric-1.10.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.3/baritone-api-fabric-1.10.3.jar",
+      "sha256": "ab038e33d639815c375f0c9c5518435a7d5e84c622380c58822443c0cb52457c",
+      "bytes": 1573753,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20/baritone-api-fabric-1.10.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.5/baritone-api-fabric-1.10.5.jar",
+      "sha256": "2ec4cb8f94d0655864090d38b7009aa014c294aa3c09e20069842be0054acc07",
+      "bytes": 4807732,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20/baritone-standalone-fabric-1.10.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.1/baritone-standalone-fabric-1.10.1.jar",
+      "sha256": "60651e6bcb91ee0a4ab8b9d12b8f8d5cb50e1c709f52fedc0f06b7afa75e36e4",
+      "bytes": 434269,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20/baritone-standalone-fabric-1.10.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.3/baritone-standalone-fabric-1.10.3.jar",
+      "sha256": "2258de53a1873252da9ce8be0668c86a1ccc1176283a3f9dfa2ea595627536b6",
+      "bytes": 1491993,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20/baritone-standalone-fabric-1.10.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.5/baritone-standalone-fabric-1.10.5.jar",
+      "sha256": "b8e8652a4576a7e980882a7c380349ebbb4e79ac0bf9b0e57a4e6259d3c4cf71",
+      "bytes": 4725437,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20/baritone-unoptimized-fabric-1.10.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.1/baritone-unoptimized-fabric-1.10.1.jar",
+      "sha256": "18b904a90f729ae1cd1c92988649bc54dcb6915860b2a63a4531188b34ee17dc",
+      "bytes": 685486,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20/baritone-unoptimized-fabric-1.10.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.3/baritone-unoptimized-fabric-1.10.3.jar",
+      "sha256": "1df6aa36720daaf2e0c1badf8c370aded8975c3388fc6274ce0cda40f7dd72c6",
+      "bytes": 1797970,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.20/baritone-unoptimized-fabric-1.10.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.5/baritone-unoptimized-fabric-1.10.5.jar",
+      "sha256": "82275eb79c7f955bac1f6ab41e7389ef3e0e4c4283fc670ffdcfcf9c438ca76f",
+      "bytes": 5040749,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21.2/baritone-api-fabric-1.12.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.12.0/baritone-api-fabric-1.12.0.jar",
+      "sha256": "b3b36aa3d74c4df053d147ee9254b70c15f4d1e5e11a2766141a146eea3bd60b",
+      "bytes": 4810436,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21.2/baritone-standalone-fabric-1.12.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.12.0/baritone-standalone-fabric-1.12.0.jar",
+      "sha256": "b7559a9767c95aeafb7d932c7570fc79cf66c1e5ee74182d78787dad8a480110",
+      "bytes": 4730398,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21.2/baritone-unoptimized-fabric-1.12.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.12.0/baritone-unoptimized-fabric-1.12.0.jar",
+      "sha256": "a5e64ea7d196f7305666b52b2561fff5e8239c0d439ed31fc067ca29113e6911",
+      "bytes": 5046549,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21.3/baritone-api-fabric-1.11.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.1/baritone-api-fabric-1.11.1.jar",
+      "sha256": "10e7f1441f23da2e1454ce72edf74546102b126226cda62a1931605d0780f315",
+      "bytes": 1570145,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21.3/baritone-standalone-fabric-1.11.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.1/baritone-standalone-fabric-1.11.1.jar",
+      "sha256": "f38d62e35119975796b9d6d59bf479eb46d600b1aedbf6d6d3f3e789f84a7cad",
+      "bytes": 1491162,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21.3/baritone-unoptimized-fabric-1.11.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.1/baritone-unoptimized-fabric-1.11.1.jar",
+      "sha256": "115fe80689ae70ed724d4c14fee020fec57886af25f0a75042dc34296bda847e",
+      "bytes": 1796096,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21.6/baritone-api-fabric-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-api-fabric-1.15.0.jar",
+      "sha256": "c58ef35a133b6ffce96a74682138ac2ee818cbc063b7c62671db9f9d7d783ebb",
+      "bytes": 1580784,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21.6/baritone-standalone-fabric-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-standalone-fabric-1.15.0.jar",
+      "sha256": "18decb85df264ac1dbc61d01d9fbdc31090b26fe25571a9e0bf9846f50acebd0",
+      "bytes": 1501283,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21.6/baritone-unoptimized-fabric-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-unoptimized-fabric-1.15.0.jar",
+      "sha256": "d82f590654a901d28a705c0a0f13d916350620301bd86dd33de8c0bcc3a8d5d1",
+      "bytes": 1809474,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21.7/baritone-api-fabric-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-api-fabric-1.15.0.jar",
+      "sha256": "c58ef35a133b6ffce96a74682138ac2ee818cbc063b7c62671db9f9d7d783ebb",
+      "bytes": 1580784,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21.7/baritone-standalone-fabric-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-standalone-fabric-1.15.0.jar",
+      "sha256": "18decb85df264ac1dbc61d01d9fbdc31090b26fe25571a9e0bf9846f50acebd0",
+      "bytes": 1501283,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21.7/baritone-unoptimized-fabric-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-unoptimized-fabric-1.15.0.jar",
+      "sha256": "d82f590654a901d28a705c0a0f13d916350620301bd86dd33de8c0bcc3a8d5d1",
+      "bytes": 1809474,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21.9/baritone-api-fabric-1.16.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.16.0/baritone-api-fabric-1.16.0.jar",
+      "sha256": "7a8c2d08fb6e66b2bc32dd6d78570c798186eed114e6e88f692af4e3742a2b46",
+      "bytes": 4812430,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21.9/baritone-standalone-fabric-1.16.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.16.0/baritone-standalone-fabric-1.16.0.jar",
+      "sha256": "7f1227ca11e8e44577430ff23b268c0294ef06889913d2acae33a049b813ceb2",
+      "bytes": 4732487,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21.9/baritone-unoptimized-fabric-1.16.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.16.0/baritone-unoptimized-fabric-1.16.0.jar",
+      "sha256": "71a984781b03640b69948b89221aeb226346d195f219e86c2f6b24bb4f4810ab",
+      "bytes": 5048787,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21/baritone-api-fabric-1.11.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.2/baritone-api-fabric-1.11.2.jar",
+      "sha256": "4e9280be5ad5d1901026c4cca7cbdb76ccfedaea093f4d81625dbc36612cbc5c",
+      "bytes": 1576313,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21/baritone-api-fabric-1.11.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.3/baritone-api-fabric-1.11.3.jar",
+      "sha256": "f9a9b17a41d7d7ad22c759058b14fd01e3319663282e66f99e18153237fa6767",
+      "bytes": 4810562,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21/baritone-standalone-fabric-1.11.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.2/baritone-standalone-fabric-1.11.2.jar",
+      "sha256": "0caea8d82865505d0c39bbf949ed460ecfc4f7aa1e4bfed8bb837dc8af26289e",
+      "bytes": 1496657,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21/baritone-standalone-fabric-1.11.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.3/baritone-standalone-fabric-1.11.3.jar",
+      "sha256": "e9d555e53e2bbef4b3f39ae31effd9970763aee6e870e815d6a3e268f34e73f6",
+      "bytes": 4730355,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21/baritone-unoptimized-fabric-1.11.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.2/baritone-unoptimized-fabric-1.11.2.jar",
+      "sha256": "864981f742d0cd9ef37366bb88daeaa00ea602a0eb1d76317f93de776e4f4785",
+      "bytes": 1803646,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/fabric/1.21/baritone-unoptimized-fabric-1.11.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.3/baritone-unoptimized-fabric-1.11.3.jar",
+      "sha256": "02239bff27955bd842c2e132c2860689bc1190f2ca37b7f379213d8874d75903",
+      "bytes": 5046582,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-api-forge-1.2.10.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.10/baritone-api-forge-1.2.10.jar",
+      "sha256": "6e5e184397f7b01ee65d5de4099a999212e7f80f6d64189d29cb77de4a6d2eea",
+      "bytes": 1392537,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-api-forge-1.2.11.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.11/baritone-api-forge-1.2.11.jar",
+      "sha256": "33407b4d149eb36e690968f53fb40ca9dbaaa7700d9ae42b309963f4fd7fe73b",
+      "bytes": 1402108,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-api-forge-1.2.12.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.12/baritone-api-forge-1.2.12.jar",
+      "sha256": "5987117d6223f19b1d169b3c858bf5f776e719c1c7012ffa16c95fd7fb3f50ed",
+      "bytes": 1405300,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-api-forge-1.2.13.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.13/baritone-api-forge-1.2.13.jar",
+      "sha256": "4f27d8caafd4c56e1b985368460ce73edccacbcf5c75e9d0df7d705d6e59f4d0",
+      "bytes": 1405312,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-api-forge-1.2.14.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.14/baritone-api-forge-1.2.14.jar",
+      "sha256": "738f74deef5065c1688f5ee96a19b2d6badb5eaacf011a5663d51c1c751385ef",
+      "bytes": 1405367,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-api-forge-1.2.15.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.15/baritone-api-forge-1.2.15.jar",
+      "sha256": "5ee4a551537081fb782c41eeb0c9d5683cec342a9842b2f1b83e6b688213f662",
+      "bytes": 1418358,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-api-forge-1.2.17.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.17/baritone-api-forge-1.2.17.jar",
+      "sha256": "e16e070b159b413f78463a32cd282050d4ef23d273529708752b7d2201a93f4f",
+      "bytes": 1439306,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-api-forge-1.2.19.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.19/baritone-api-forge-1.2.19.jar",
+      "sha256": "c53beb4219452775c186a652a3ba02f0d2fa8c2d46f06fba164add3f8b11018a",
+      "bytes": 2499171,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-api-forge-1.2.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.6/baritone-api-forge-1.2.6.jar",
+      "sha256": "e9aac06acc693c6565858448aaf92d99c3f22c18ddd749fa7dcdd98b269803f6",
+      "bytes": 1241568,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-standalone-forge-1.2.10.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.10/baritone-standalone-forge-1.2.10.jar",
+      "sha256": "1903a360f1636680fc71920037d524c91b9a29a026c836cbae9a006b33fa6571",
+      "bytes": 1314040,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-standalone-forge-1.2.11.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.11/baritone-standalone-forge-1.2.11.jar",
+      "sha256": "543b62a1b818b8cccff25c51edd3709990d39bccb4115c3851f620b70605be61",
+      "bytes": 1325007,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-standalone-forge-1.2.12.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.12/baritone-standalone-forge-1.2.12.jar",
+      "sha256": "441edd5e4840b2d38600fc6cc0b617d26a30fed895ed883759ab02f1a0d00c53",
+      "bytes": 1328114,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-standalone-forge-1.2.13.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.13/baritone-standalone-forge-1.2.13.jar",
+      "sha256": "02716708faef62539d58179861e285a2a0cbd5a80aac8d5eb7620155dfd48162",
+      "bytes": 1328126,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-standalone-forge-1.2.14.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.14/baritone-standalone-forge-1.2.14.jar",
+      "sha256": "250b6f58f9cbb53aeb561f904516f5444915fc101407063600a59e53d435a793",
+      "bytes": 1328159,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-standalone-forge-1.2.15.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.15/baritone-standalone-forge-1.2.15.jar",
+      "sha256": "d6c1702996f4906861854c21422dc2bdbd9c3ae23ef528149c32ba87c585b61b",
+      "bytes": 1340131,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-standalone-forge-1.2.17.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.17/baritone-standalone-forge-1.2.17.jar",
+      "sha256": "f4d966a7d769c261ca7139d701b29b4cf968b6376915b0dfef823b70eedfb0f4",
+      "bytes": 1360258,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-standalone-forge-1.2.19.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.19/baritone-standalone-forge-1.2.19.jar",
+      "sha256": "e3ab7718d5eeaf1771ba7fb7b91e8c2e8bddf321ef1f47baa809d1b4a06b651f",
+      "bytes": 2405938,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.12.2/baritone-standalone-forge-1.2.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.6/baritone-standalone-forge-1.2.6.jar",
+      "sha256": "950302b9fdf6c0c399e04e2931f110d2100fb8be3eabc8a65833ed705ae81dce",
+      "bytes": 1204723,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.15.2/baritone-api-forge-1.5.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.5.3/baritone-api-forge-1.5.3.jar",
+      "sha256": "36ca64644d36e8eba54fdd186805b4a71c75f2f4e15a20d6d557f82b6daaa61c",
+      "bytes": 470773,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.15.2/baritone-standalone-forge-1.5.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.5.3/baritone-standalone-forge-1.5.3.jar",
+      "sha256": "5034eaab13f52d5f86b198254441e9e4088b3fd27d8138b4fbd847c19cb39466",
+      "bytes": 406193,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.15.2/baritone-unoptimized-forge-1.5.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.5.3/baritone-unoptimized-forge-1.5.3.jar",
+      "sha256": "4b90e378c50f40faf8be514471c2a28821505bd61fbaa2f084dffad0806ff51e",
+      "bytes": 658075,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.16.2/baritone-api-forge-1.6.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.1/baritone-api-forge-1.6.1.jar",
+      "sha256": "5fa943f7ac7dd26cb80844326f9b97348a9683a353617b31bdb928228f006b0a",
+      "bytes": 472482,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.16.2/baritone-standalone-forge-1.6.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.1/baritone-standalone-forge-1.6.1.jar",
+      "sha256": "3b0556246373394a7b2007569bc777c7421b200f3f9c5e77cec1b398bb1e705b",
+      "bytes": 407944,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.16.2/baritone-unoptimized-forge-1.6.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.1/baritone-unoptimized-forge-1.6.1.jar",
+      "sha256": "f8671d02c0753cd26779cea164f22443ff99e3623403c2d77a38843da7efc951",
+      "bytes": 660114,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.16.4/baritone-api-forge-1.6.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.2/baritone-api-forge-1.6.2.jar",
+      "sha256": "63f443e160a84e234e464e2544c77b668fe16dd858720535ae74910dab674f90",
+      "bytes": 472481,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.16.4/baritone-standalone-forge-1.6.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.2/baritone-standalone-forge-1.6.2.jar",
+      "sha256": "5f6e58dbc9ad7f055318b7bca7d34f3a412fe93276b566986c5c062eb8b35bfe",
+      "bytes": 407943,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.16.4/baritone-unoptimized-forge-1.6.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.2/baritone-unoptimized-forge-1.6.2.jar",
+      "sha256": "b42dc5aee4e2217096f6dcd1d71282eb8f73433d975fa9da427258d9d9d4f192",
+      "bytes": 660113,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.16.5/baritone-api-forge-1.6.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.3/baritone-api-forge-1.6.3.jar",
+      "sha256": "a6263219b83dfed1a64a30fe3c1f999809b2d1c18a7580004b93cb0158090aa8",
+      "bytes": 477186,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.16.5/baritone-api-forge-1.6.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.4/baritone-api-forge-1.6.4.jar",
+      "sha256": "58c02d7bce20c40a9924e33d2756fa1e5a104b43b6a3dde5d8f746751c2f4be5",
+      "bytes": 511023,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.16.5/baritone-api-forge-1.6.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.5/baritone-api-forge-1.6.5.jar",
+      "sha256": "c44e62f3665c43fd91d51acf5dc060c5193f55de1722c8e292c7b71512fbc09a",
+      "bytes": 544603,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.16.5/baritone-standalone-forge-1.6.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.3/baritone-standalone-forge-1.6.3.jar",
+      "sha256": "bc96601c71d5e265083cfff5a45bdd715ba37fb96b002b36266d121ab7baad41",
+      "bytes": 412324,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.16.5/baritone-standalone-forge-1.6.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.4/baritone-standalone-forge-1.6.4.jar",
+      "sha256": "fa502c781cad9dc132f46678238ceb71dbd66da841573897cef0abffcd3f9df3",
+      "bytes": 443203,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.16.5/baritone-standalone-forge-1.6.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.5/baritone-standalone-forge-1.6.5.jar",
+      "sha256": "51aab5a3ae657e52c17b830759751e62cdf3e8bcda0794b543ca75eb8599dd3c",
+      "bytes": 467510,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.16.5/baritone-unoptimized-forge-1.6.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.3/baritone-unoptimized-forge-1.6.3.jar",
+      "sha256": "2951060d56d21efce7da98442ac18e761780f04a7c258e266c3f8791cac35a32",
+      "bytes": 666576,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.16.5/baritone-unoptimized-forge-1.6.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.4/baritone-unoptimized-forge-1.6.4.jar",
+      "sha256": "84da173024308fbd4deb416e16f699f1d0cd4d813be479ca56730623dab932e2",
+      "bytes": 699140,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.16.5/baritone-unoptimized-forge-1.6.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.5/baritone-unoptimized-forge-1.6.5.jar",
+      "sha256": "b4978b4b71a160afcc6542422328bc3ac349b22d4946036ca93e855bbcba0bcc",
+      "bytes": 748772,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.17.1/baritone-api-forge-1.7.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.1/baritone-api-forge-1.7.1.jar",
+      "sha256": "d9d6f92331f020acdf5645bd11dcb1116f1777edabb2d464e0b35af344e4b804",
+      "bytes": 476330,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.17.1/baritone-api-forge-1.7.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.2/baritone-api-forge-1.7.2.jar",
+      "sha256": "648bc142b249813ed1925b6c035596e3dd7fae430e672c3bba7d708343f73849",
+      "bytes": 483957,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.17.1/baritone-api-forge-1.7.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.3/baritone-api-forge-1.7.3.jar",
+      "sha256": "5d5240d1d660efa192497174de000f6677072699a9346c30434bb2030c97bc4d",
+      "bytes": 510568,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.17.1/baritone-standalone-forge-1.7.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.1/baritone-standalone-forge-1.7.1.jar",
+      "sha256": "c3b81f473602d891a69d02763d413b914c3adc0ef2279c7d9198e804de694f45",
+      "bytes": 412078,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.17.1/baritone-standalone-forge-1.7.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.2/baritone-standalone-forge-1.7.2.jar",
+      "sha256": "046c40d873ef9625cab15018e14a4f55be62cfb95bd1be7f2209966c1989f8de",
+      "bytes": 419007,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.17.1/baritone-standalone-forge-1.7.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.3/baritone-standalone-forge-1.7.3.jar",
+      "sha256": "9baf97ee79e374fe4662d05c1d67c58071f4f71f4393ed7b19d85f5bd8e3489f",
+      "bytes": 443873,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.17.1/baritone-unoptimized-forge-1.7.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.1/baritone-unoptimized-forge-1.7.1.jar",
+      "sha256": "b5ccd9417b88bcf2d9efed7f7d8bd6b5d4cdcb11d47e803ec5f6c446001a317e",
+      "bytes": 671238,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.17.1/baritone-unoptimized-forge-1.7.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.2/baritone-unoptimized-forge-1.7.2.jar",
+      "sha256": "c455289336c129fcb915f46b800047519c1e2d8b98ce618b074112f32c5301be",
+      "bytes": 678795,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.17.1/baritone-unoptimized-forge-1.7.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.3/baritone-unoptimized-forge-1.7.3.jar",
+      "sha256": "33771c1bdf4a403729560a2a801e97bc311074c7281c980589266992147a1a14",
+      "bytes": 705207,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.1/baritone-api-forge-1.8.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.1/baritone-api-forge-1.8.1.jar",
+      "sha256": "3034179a1615aaefef8afdf524166466adcee94323384dcd317d09ebc947c059",
+      "bytes": 476293,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.1/baritone-api-forge-1.8.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.2/baritone-api-forge-1.8.2.jar",
+      "sha256": "fb59439e35e8233b24a927be18d77764d69ceb216aa8310382e58e8417b14340",
+      "bytes": 483921,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.1/baritone-standalone-forge-1.8.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.1/baritone-standalone-forge-1.8.1.jar",
+      "sha256": "a4ceda87f69f266d6e35a7661bd846ff4607855227c6eec2ad7458c00c312365",
+      "bytes": 412056,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.1/baritone-standalone-forge-1.8.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.2/baritone-standalone-forge-1.8.2.jar",
+      "sha256": "f1bb74d77fb632f3bc5eefc8f492982ba2d735f8b529dfa7a9e5a77b57c2e1f5",
+      "bytes": 418988,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.1/baritone-unoptimized-forge-1.8.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.1/baritone-unoptimized-forge-1.8.1.jar",
+      "sha256": "9ded76e9104291d2b5eb70eb838aa06453a4f63f10614eb30bbe03ff14ae19f2",
+      "bytes": 671217,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.1/baritone-unoptimized-forge-1.8.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.2/baritone-unoptimized-forge-1.8.2.jar",
+      "sha256": "c6cbeb107bf5abf3d57b615e0122981c43e17800a8d2989ea94611dbbb550696",
+      "bytes": 678769,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.2/baritone-api-forge-1.8.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.3/baritone-api-forge-1.8.3.jar",
+      "sha256": "5304606bfe6e6244e65290e6670e58bc62a2b39723cd8853c734c9f918111737",
+      "bytes": 483940,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.2/baritone-api-forge-1.8.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.4/baritone-api-forge-1.8.4.jar",
+      "sha256": "7e12ea0819d62805bb1afbe14b937e581cc7c54fd1e9be26869fd4a805ac3c47",
+      "bytes": 510675,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.2/baritone-api-forge-1.8.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.5/baritone-api-forge-1.8.5.jar",
+      "sha256": "241ffd8b4b095f0c2cab29de17b0b6b93d43e7193b85c9c5769e5724236ff8a9",
+      "bytes": 545949,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.2/baritone-api-forge-1.8.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.6/baritone-api-forge-1.8.6.jar",
+      "sha256": "69f772f63cab0332ba762a4c3101d97956d32c979111960c998de3d888c5aa65",
+      "bytes": 545961,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.2/baritone-standalone-forge-1.8.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.3/baritone-standalone-forge-1.8.3.jar",
+      "sha256": "72d9f83bb22e012c807d44581176bc17b4b2a358d614def910d367689516dd2e",
+      "bytes": 419010,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.2/baritone-standalone-forge-1.8.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.4/baritone-standalone-forge-1.8.4.jar",
+      "sha256": "ce1c98bfd1a4e91c90d75dfcfd4c914a7c3cb6c2fefce16c02af7abff8f3aad1",
+      "bytes": 444010,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.2/baritone-standalone-forge-1.8.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.5/baritone-standalone-forge-1.8.5.jar",
+      "sha256": "1f603169230414650ce32692ad991f14b0447615d3ac74de9f52ae1fafab227e",
+      "bytes": 469527,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.2/baritone-standalone-forge-1.8.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.6/baritone-standalone-forge-1.8.6.jar",
+      "sha256": "d7f4201a7973ded46ecbf7c1258563f0d873ffb608149ffa354b6d5c9bf233e9",
+      "bytes": 469532,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.2/baritone-unoptimized-forge-1.8.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.3/baritone-unoptimized-forge-1.8.3.jar",
+      "sha256": "72535fd698edd949b58031f191b6154420edd9bd2543e70cbd0087ea0d347a41",
+      "bytes": 678794,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.2/baritone-unoptimized-forge-1.8.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.4/baritone-unoptimized-forge-1.8.4.jar",
+      "sha256": "337def3357dfd293dc6681d124b87facb340ec8fb07093d682645a950486fdf0",
+      "bytes": 705353,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.2/baritone-unoptimized-forge-1.8.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.5/baritone-unoptimized-forge-1.8.5.jar",
+      "sha256": "3afde7bcf209d830a98de4fe9cf61451970290a70b3018f622205d77a1949ef0",
+      "bytes": 757557,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.18.2/baritone-unoptimized-forge-1.8.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.6/baritone-unoptimized-forge-1.8.6.jar",
+      "sha256": "e94291dee10026d555d2248d36b21f0e33a7d349969ada6d9862690cac199583",
+      "bytes": 757574,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.19.2/baritone-api-forge-1.9.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.4/baritone-api-forge-1.9.4.jar",
+      "sha256": "b1a92dba9cf5f52a03935f0cd46ba1bbcfa01caf40b1e219e14276e026578e7b",
+      "bytes": 508013,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.19.2/baritone-standalone-forge-1.9.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.4/baritone-standalone-forge-1.9.4.jar",
+      "sha256": "91f25fe4dffba1743aa8487ab51fbe096890616710f63a9e4812341fc6c2f1cb",
+      "bytes": 441302,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.19.2/baritone-unoptimized-forge-1.9.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.4/baritone-unoptimized-forge-1.9.4.jar",
+      "sha256": "2cf2a76cf6596e7ad69666af2483f3eefea9b36d4b0b4b12031f716e79e93701",
+      "bytes": 690252,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.19.3/baritone-api-forge-1.9.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.1/baritone-api-forge-1.9.1.jar",
+      "sha256": "0d5934d2da0f4264b903f51ae8998133059fc9e63344a94ef3fa4fa3a1224873",
+      "bytes": 510390,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.19.3/baritone-standalone-forge-1.9.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.1/baritone-standalone-forge-1.9.1.jar",
+      "sha256": "da814687eda3dcba639fbaa5edf68f0097b67ce157540905882b116727bfc90e",
+      "bytes": 443302,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.19.3/baritone-unoptimized-forge-1.9.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.1/baritone-unoptimized-forge-1.9.1.jar",
+      "sha256": "1f40e3c73ca300a01a9d62e6d27959b9b7a373d13ab6488587004f178ac772d1",
+      "bytes": 693015,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.19.4/baritone-api-forge-1.9.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.3/baritone-api-forge-1.9.3.jar",
+      "sha256": "392b5228d72b83ce1c65cdf764f92582306b84be6dd645e5ac2485815b47fad0",
+      "bytes": 511078,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.19.4/baritone-standalone-forge-1.9.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.3/baritone-standalone-forge-1.9.3.jar",
+      "sha256": "208a47cf9232895540a343a470742c3d010da645092e9a195141252d2f4ba4ee",
+      "bytes": 443986,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.19.4/baritone-unoptimized-forge-1.9.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.3/baritone-unoptimized-forge-1.9.3.jar",
+      "sha256": "02f555aee7d843b54906e46d27222042f3983838ef341dd2163277f07a4d9692",
+      "bytes": 693395,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20.3/baritone-api-forge-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-api-forge-1.10.2.jar",
+      "sha256": "d7057bff07314a4230b338416755ab95d03ad1892a01028bc1c29e07c0542be5",
+      "bytes": 1572523,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20.3/baritone-api-forge-1.10.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.4/baritone-api-forge-1.10.4.jar",
+      "sha256": "7553516da1d0d43fc07e1d4e0202a989165871eeb7488ba1d5c5b2783d4a3f1f",
+      "bytes": 1592618,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20.3/baritone-api-forge-1.10.7.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.7/baritone-api-forge-1.10.7.jar",
+      "sha256": "6778c30985eab88600bb153cfcb8e2ebbe0085c40c87effed3bda11dfb4ab6a6",
+      "bytes": 4825793,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20.3/baritone-standalone-forge-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-standalone-forge-1.10.2.jar",
+      "sha256": "abdf589e57b8b10ed2f7f7a20d68a93b1d6916cfb98932e5aeb823533a096d5d",
+      "bytes": 1493058,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20.3/baritone-standalone-forge-1.10.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.4/baritone-standalone-forge-1.10.4.jar",
+      "sha256": "a3afd70847d3aac3adc99fa484cf25a8c96d77b115a21018fac45fb3c476e478",
+      "bytes": 1511947,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20.3/baritone-standalone-forge-1.10.7.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.7/baritone-standalone-forge-1.10.7.jar",
+      "sha256": "65d2fc8514626b0018121d1153d59b170c2e82bacb2a15a05a3c529b29b86c63",
+      "bytes": 4744672,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20.3/baritone-unoptimized-forge-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-unoptimized-forge-1.10.2.jar",
+      "sha256": "ba31bd8e8f0fc5bba8920f1576bd001cbf761580795ee97abf236e7027b95737",
+      "bytes": 1799287,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20.3/baritone-unoptimized-forge-1.10.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.4/baritone-unoptimized-forge-1.10.4.jar",
+      "sha256": "80e83e55bcf6edc53828dc1e1903d4a2c8bb81dcb811b86d6d1026f266f68c05",
+      "bytes": 1816599,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20.3/baritone-unoptimized-forge-1.10.7.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.7/baritone-unoptimized-forge-1.10.7.jar",
+      "sha256": "f3f84152a288704f54fceaf32c58958d2edc87ea04c6fd1ced6ebfd6fea83810",
+      "bytes": 5058733,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20.4/baritone-api-forge-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-api-forge-1.10.2.jar",
+      "sha256": "d7057bff07314a4230b338416755ab95d03ad1892a01028bc1c29e07c0542be5",
+      "bytes": 1572523,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20.4/baritone-standalone-forge-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-standalone-forge-1.10.2.jar",
+      "sha256": "abdf589e57b8b10ed2f7f7a20d68a93b1d6916cfb98932e5aeb823533a096d5d",
+      "bytes": 1493058,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20.4/baritone-unoptimized-forge-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-unoptimized-forge-1.10.2.jar",
+      "sha256": "ba31bd8e8f0fc5bba8920f1576bd001cbf761580795ee97abf236e7027b95737",
+      "bytes": 1799287,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20.5/baritone-api-forge-1.10.8.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.8/baritone-api-forge-1.10.8.jar",
+      "sha256": "38068c290974caf9eedae4b6a06f0d9464dc68f301b9ccc58c216b42f0ac8c23",
+      "bytes": 4823525,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20.5/baritone-standalone-forge-1.10.8.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.8/baritone-standalone-forge-1.10.8.jar",
+      "sha256": "6beb1d5ca49f0b4ae36135863afb2ed6ed4bae3ed702191cbb324f25f291dad5",
+      "bytes": 4745255,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20.5/baritone-unoptimized-forge-1.10.8.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.8/baritone-unoptimized-forge-1.10.8.jar",
+      "sha256": "f852851e8dbc3bc53cf72e7926eccab05960b665178af5143c90149f6ca52cb5",
+      "bytes": 5062025,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20/baritone-api-forge-1.10.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.1/baritone-api-forge-1.10.1.jar",
+      "sha256": "6c96bfbea83a6d201239cb56e213186ae8334d1426707b4516f53ea5bf42d3a2",
+      "bytes": 511024,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20/baritone-api-forge-1.10.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.3/baritone-api-forge-1.10.3.jar",
+      "sha256": "55a3a30f56c9714c867ed43e07d3dc8568e9f2ae25e0936ead69959e5b469a31",
+      "bytes": 1591961,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20/baritone-api-forge-1.10.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.5/baritone-api-forge-1.10.5.jar",
+      "sha256": "6767478e2dd51c6ef278dcf76aabc78f238bc545e8806f82db718b9225ced45e",
+      "bytes": 4825138,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20/baritone-standalone-forge-1.10.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.1/baritone-standalone-forge-1.10.1.jar",
+      "sha256": "96677c8d8c3b2e9f4584855c4173b2e82c1fa0f02e4409f7feeea86d5aef95c7",
+      "bytes": 443871,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20/baritone-standalone-forge-1.10.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.3/baritone-standalone-forge-1.10.3.jar",
+      "sha256": "72e7e53881e3a2f0fef8c9154a7b1e4e8bf2b7bccd49d3b6290a9309dad8ee9b",
+      "bytes": 1511276,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20/baritone-standalone-forge-1.10.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.5/baritone-standalone-forge-1.10.5.jar",
+      "sha256": "f3d8106b7a1db1deb1b03ed8c13e620dfa2096b5c4ed11eeac01a00dd1022f0d",
+      "bytes": 4744001,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20/baritone-unoptimized-forge-1.10.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.1/baritone-unoptimized-forge-1.10.1.jar",
+      "sha256": "2fa972b94e25758cbbf797a12ba7217137cc5ac0233950835d0f640bdc8dbce6",
+      "bytes": 693313,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20/baritone-unoptimized-forge-1.10.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.3/baritone-unoptimized-forge-1.10.3.jar",
+      "sha256": "efdd605f24853a67017335545f49c4fae35daf2fb2a8deb62d9137bb1c8d830d",
+      "bytes": 1815701,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.20/baritone-unoptimized-forge-1.10.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.5/baritone-unoptimized-forge-1.10.5.jar",
+      "sha256": "6ddb7189253cbc7129c6711613cd4c94f5c0bceb202a4217a9bc81e82195aea7",
+      "bytes": 5057832,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21.2/baritone-api-forge-1.12.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.12.0/baritone-api-forge-1.12.0.jar",
+      "sha256": "159d83fa657c87a513aecddc4fb6b4d12ce7809a6b1cf6072056974b63e8dca0",
+      "bytes": 4825007,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21.2/baritone-standalone-forge-1.12.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.12.0/baritone-standalone-forge-1.12.0.jar",
+      "sha256": "f38b715005c31628c716894434d564adec65d765985e676d4a2a98c787314be8",
+      "bytes": 4747005,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21.2/baritone-unoptimized-forge-1.12.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.12.0/baritone-unoptimized-forge-1.12.0.jar",
+      "sha256": "2e4dee5cebe694065d2b1c8e842c19e3b26e0312071fe48f6a5458d7e102d357",
+      "bytes": 5064608,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21.3/baritone-api-forge-1.11.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.1/baritone-api-forge-1.11.1.jar",
+      "sha256": "79efb873d7c9182fa78144c339af9753aecaa4990b96236b785e02a035400602",
+      "bytes": 1581626,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21.3/baritone-standalone-forge-1.11.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.1/baritone-standalone-forge-1.11.1.jar",
+      "sha256": "01da336d6e8190e3fdb0005a92ff2e6bce636d9017817685bb91e60ffafe5475",
+      "bytes": 1504527,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21.3/baritone-unoptimized-forge-1.11.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.1/baritone-unoptimized-forge-1.11.1.jar",
+      "sha256": "da0a4792d47d3b0afccb59b6edf5a8fe0e404c73277098633adedf29e686a9ea",
+      "bytes": 1814642,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21.6/baritone-api-forge-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-api-forge-1.15.0.jar",
+      "sha256": "82b360a295c4ca12ea18750b75cf818b1250f76951f31c18f7fe2f0b4952649c",
+      "bytes": 1596317,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21.6/baritone-standalone-forge-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-standalone-forge-1.15.0.jar",
+      "sha256": "63fe871510a69ff46f3445f7a7fbb592acef607bd91612e078ec20012cf7497d",
+      "bytes": 1518662,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21.6/baritone-unoptimized-forge-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-unoptimized-forge-1.15.0.jar",
+      "sha256": "b80cad9139e899a592430d0ea883f71991a773c83d01483bbdd3af80593f19af",
+      "bytes": 1828208,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21.7/baritone-api-forge-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-api-forge-1.15.0.jar",
+      "sha256": "82b360a295c4ca12ea18750b75cf818b1250f76951f31c18f7fe2f0b4952649c",
+      "bytes": 1596317,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21.7/baritone-standalone-forge-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-standalone-forge-1.15.0.jar",
+      "sha256": "63fe871510a69ff46f3445f7a7fbb592acef607bd91612e078ec20012cf7497d",
+      "bytes": 1518662,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21.7/baritone-unoptimized-forge-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-unoptimized-forge-1.15.0.jar",
+      "sha256": "b80cad9139e899a592430d0ea883f71991a773c83d01483bbdd3af80593f19af",
+      "bytes": 1828208,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21.9/baritone-api-forge-1.16.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.16.0/baritone-api-forge-1.16.0.jar",
+      "sha256": "da20fb533e355f702aabe23d2fd6ea6e6eff6b1bc330bb89422cd6b282afa475",
+      "bytes": 4827024,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21.9/baritone-standalone-forge-1.16.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.16.0/baritone-standalone-forge-1.16.0.jar",
+      "sha256": "f7422476d7369abf642fd6b6fb29d253cdb9d54e762ff9ebfdaa33bc28386bd3",
+      "bytes": 4749023,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21.9/baritone-unoptimized-forge-1.16.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.16.0/baritone-unoptimized-forge-1.16.0.jar",
+      "sha256": "9a84fa4294fb516c65417aa9e1e0350f77490d5675f562549bf472fd1c739fbf",
+      "bytes": 5066820,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21/baritone-api-forge-1.11.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.2/baritone-api-forge-1.11.2.jar",
+      "sha256": "f6449033af62450254103d50111c935e9e5da941e0757f5f582eaac0ec558616",
+      "bytes": 1591743,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21/baritone-api-forge-1.11.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.3/baritone-api-forge-1.11.3.jar",
+      "sha256": "0d4459811668e9f69aeb2f7d75b83693db562fe5057ef6927f23c637b8b2e8ee",
+      "bytes": 4825204,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21/baritone-standalone-forge-1.11.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.2/baritone-standalone-forge-1.11.2.jar",
+      "sha256": "c19408924030f44b355983ffe8f51ca198ee21e401e8e23236e3b6af6180b6b4",
+      "bytes": 1513949,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21/baritone-standalone-forge-1.11.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.3/baritone-standalone-forge-1.11.3.jar",
+      "sha256": "a65b0c6ddebd2a85b10ce866dc89dc4a3afd593d3eea811ba41f649e79a8467e",
+      "bytes": 4746991,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21/baritone-unoptimized-forge-1.11.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.2/baritone-unoptimized-forge-1.11.2.jar",
+      "sha256": "16f9b0f95aeb8fbce9affa5bc8fbb4692b17d63f8670a0f8d36e2c02cc054308",
+      "bytes": 1822394,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/forge/1.21/baritone-unoptimized-forge-1.11.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.3/baritone-unoptimized-forge-1.11.3.jar",
+      "sha256": "2084634bda7e7724086fbb3a4b7bb9dc9e4e858e50aaf6d55e9d9216120fcf6e",
+      "bytes": 5064744,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.20.3/baritone-api-neoforge-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-api-neoforge-1.10.2.jar",
+      "sha256": "1c4bcb8d4e35960745019e5c8081d1d2b7f3b10717344b90d0b611fa536e8d35",
+      "bytes": 1570048,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.20.3/baritone-api-neoforge-1.10.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.4/baritone-api-neoforge-1.10.4.jar",
+      "sha256": "3fa56e7a43ae94ef719cf5b3da1a87117ec05e7c8496865f66cf467c97dfa5cb",
+      "bytes": 1590024,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.20.3/baritone-api-neoforge-1.10.7.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.7/baritone-api-neoforge-1.10.7.jar",
+      "sha256": "26dd1deb19d66f54470a492854aea245485910aa2c6d79e58ac7f561d1baab29",
+      "bytes": 4823309,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.20.3/baritone-standalone-neoforge-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-standalone-neoforge-1.10.2.jar",
+      "sha256": "e0f3c5d76b8c2785d66530db8547f247f24978820db5300f5d2d5ae5bc38d3a4",
+      "bytes": 1491376,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.20.3/baritone-standalone-neoforge-1.10.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.4/baritone-standalone-neoforge-1.10.4.jar",
+      "sha256": "b92bff72404510abdb651de4d97be246584928d85c1da08543989d05bf994334",
+      "bytes": 1510213,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.20.3/baritone-standalone-neoforge-1.10.7.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.7/baritone-standalone-neoforge-1.10.7.jar",
+      "sha256": "2fccebd5d66376076ec3e6e1cb8456624d32986bafb40734c115778272c66a52",
+      "bytes": 4743042,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.20.3/baritone-unoptimized-neoforge-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-unoptimized-neoforge-1.10.2.jar",
+      "sha256": "e381060ccc3542a464634e006f67c8526300b3087e8d5ef7d0044c2a3df8b92d",
+      "bytes": 1799947,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.20.3/baritone-unoptimized-neoforge-1.10.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.4/baritone-unoptimized-neoforge-1.10.4.jar",
+      "sha256": "5d5e61f687156687c87b8a54d6ce24f1a03a93881d9f55940ffa7136b33a874f",
+      "bytes": 1817308,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.20.3/baritone-unoptimized-neoforge-1.10.7.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.7/baritone-unoptimized-neoforge-1.10.7.jar",
+      "sha256": "77871fbbdf61c58225a114e1f93cbb1cabb2fb60f29ec8624e91ff8ad9b19610",
+      "bytes": 5059553,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.20.4/baritone-api-neoforge-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-api-neoforge-1.10.2.jar",
+      "sha256": "1c4bcb8d4e35960745019e5c8081d1d2b7f3b10717344b90d0b611fa536e8d35",
+      "bytes": 1570048,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.20.4/baritone-standalone-neoforge-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-standalone-neoforge-1.10.2.jar",
+      "sha256": "e0f3c5d76b8c2785d66530db8547f247f24978820db5300f5d2d5ae5bc38d3a4",
+      "bytes": 1491376,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.20.4/baritone-unoptimized-neoforge-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-unoptimized-neoforge-1.10.2.jar",
+      "sha256": "e381060ccc3542a464634e006f67c8526300b3087e8d5ef7d0044c2a3df8b92d",
+      "bytes": 1799947,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.20.5/baritone-api-neoforge-1.10.8.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.8/baritone-api-neoforge-1.10.8.jar",
+      "sha256": "abbd76f11eddc1b4b8e45ecae3200cde0d4d9363db20f585b3d6b351ead28cf5",
+      "bytes": 4823547,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.20.5/baritone-standalone-neoforge-1.10.8.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.8/baritone-standalone-neoforge-1.10.8.jar",
+      "sha256": "8a042c0883b775d92a75184aa740caa7d9b00e56544cd971142c196e2be9505b",
+      "bytes": 4745277,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.20.5/baritone-unoptimized-neoforge-1.10.8.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.8/baritone-unoptimized-neoforge-1.10.8.jar",
+      "sha256": "cef95363a3ca836f3058cafeaa542cfb70c1cb12591639328371ecc525723178",
+      "bytes": 5062049,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21.2/baritone-api-neoforge-1.12.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.12.0/baritone-api-neoforge-1.12.0.jar",
+      "sha256": "2c2fdc342bfe6ba5bd5fe9656188e27e3ea89371c77163f05050807e59ee443c",
+      "bytes": 4825068,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21.2/baritone-standalone-neoforge-1.12.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.12.0/baritone-standalone-neoforge-1.12.0.jar",
+      "sha256": "b66427db0f40cd65ee24921908ebbf9c3612d4150362f600f2d17aed194db855",
+      "bytes": 4747066,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21.2/baritone-unoptimized-neoforge-1.12.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.12.0/baritone-unoptimized-neoforge-1.12.0.jar",
+      "sha256": "4ad2aa21a9a88683ef5c2158ee73eef902be159bbac44c0bd853f5fd708821bf",
+      "bytes": 5064669,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21.3/baritone-api-neoforge-1.11.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.1/baritone-api-neoforge-1.11.1.jar",
+      "sha256": "4ae7060d9424b230da103a5759a2d8fbd9ec62bf0b28ab218e52553b5716eb1a",
+      "bytes": 1581687,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21.3/baritone-standalone-neoforge-1.11.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.1/baritone-standalone-neoforge-1.11.1.jar",
+      "sha256": "48c73d9e7e1fe2df71b8a5e9e0bb8f7425b6b556ad66c5eb175bc194c3d69e1e",
+      "bytes": 1504588,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21.3/baritone-unoptimized-neoforge-1.11.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.1/baritone-unoptimized-neoforge-1.11.1.jar",
+      "sha256": "e88828f0ff6e8b10e94b893fa320104d2cfb3fc0549944c328e79e34fafbce7e",
+      "bytes": 1814703,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21.6/baritone-api-neoforge-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-api-neoforge-1.15.0.jar",
+      "sha256": "3485b8a51d791a27a142d4a1fa21699433e210385ae48445b507f8dadaf29425",
+      "bytes": 1596380,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21.6/baritone-standalone-neoforge-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-standalone-neoforge-1.15.0.jar",
+      "sha256": "90a132f053c5e3458070bf06aa96bdaa5881d8f5fa4caafc398cd243f8d573cb",
+      "bytes": 1518725,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21.6/baritone-unoptimized-neoforge-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-unoptimized-neoforge-1.15.0.jar",
+      "sha256": "24604d17f2b56b056e309b30c27775d1f1538ae5e72bcac13960add6531af2f3",
+      "bytes": 1828271,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21.7/baritone-api-neoforge-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-api-neoforge-1.15.0.jar",
+      "sha256": "3485b8a51d791a27a142d4a1fa21699433e210385ae48445b507f8dadaf29425",
+      "bytes": 1596380,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21.7/baritone-standalone-neoforge-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-standalone-neoforge-1.15.0.jar",
+      "sha256": "90a132f053c5e3458070bf06aa96bdaa5881d8f5fa4caafc398cd243f8d573cb",
+      "bytes": 1518725,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21.7/baritone-unoptimized-neoforge-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-unoptimized-neoforge-1.15.0.jar",
+      "sha256": "24604d17f2b56b056e309b30c27775d1f1538ae5e72bcac13960add6531af2f3",
+      "bytes": 1828271,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21.9/baritone-api-neoforge-1.16.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.16.0/baritone-api-neoforge-1.16.0.jar",
+      "sha256": "a4d3777ac052b6d691638b12ed1d2fe104ac43d69d9e8b0b259c48e0abdc3df7",
+      "bytes": 4827110,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21.9/baritone-standalone-neoforge-1.16.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.16.0/baritone-standalone-neoforge-1.16.0.jar",
+      "sha256": "f0b82d349cd1d46fca61490684c392ecd904d19d3df5eb59ac29ca4565e8d387",
+      "bytes": 4749109,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21.9/baritone-unoptimized-neoforge-1.16.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.16.0/baritone-unoptimized-neoforge-1.16.0.jar",
+      "sha256": "5685b3afb80639511b61a4136408f03d4da7e83ba9461e7d49d2af2366621668",
+      "bytes": 5066906,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21/baritone-api-neoforge-1.11.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.2/baritone-api-neoforge-1.11.2.jar",
+      "sha256": "27d7cb3c715332dc1d85adcbd9c6998db0b97d41808ecfbe06ebce39fe2c8aba",
+      "bytes": 1591805,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21/baritone-api-neoforge-1.11.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.3/baritone-api-neoforge-1.11.3.jar",
+      "sha256": "7f9f40952c49e78388e4e9ceaa6fd91a5b662238e06c997b3de5438177f99d8d",
+      "bytes": 4825266,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21/baritone-standalone-neoforge-1.11.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.2/baritone-standalone-neoforge-1.11.2.jar",
+      "sha256": "31604e21770cfb8c63ddc80fcfeb07876755246d3355c950f2a8341b72a96f83",
+      "bytes": 1514011,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21/baritone-standalone-neoforge-1.11.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.3/baritone-standalone-neoforge-1.11.3.jar",
+      "sha256": "a6b3bb3df1a1bdead9ca86035c8778c379718aaafeac90d1a6348bdcbf93159d",
+      "bytes": 4747053,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21/baritone-unoptimized-neoforge-1.11.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.2/baritone-unoptimized-neoforge-1.11.2.jar",
+      "sha256": "b413ce0a2754a3c8484aae39875cf84be1f999dee208e86d41b3d0d329d5ca35",
+      "bytes": 1822456,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/neoforge/1.21/baritone-unoptimized-neoforge-1.11.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.3/baritone-unoptimized-neoforge-1.11.3.jar",
+      "sha256": "538161c3dbca9f5c3102eb7ac3cf39b84492e71c900b0e3a94ab216ee36816a3",
+      "bytes": 5064806,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-api-1.2.10.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.10/baritone-api-1.2.10.jar",
+      "sha256": "009b7e79ddd5e077c068ff5fc0bb50385f1fbdd6f9a2d26175858425be97fa78",
+      "bytes": 437759,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-api-1.2.11.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.11/baritone-api-1.2.11.jar",
+      "sha256": "da62b15b1f45e3b5ef66bfcd3e26ea488ee3f8aae182bd63c4f309f676131780",
+      "bytes": 447330,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-api-1.2.12.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.12/baritone-api-1.2.12.jar",
+      "sha256": "846612327c58e920ceacf32b7b9d7bf62a8c4001a39e052a3e5b0962478daf67",
+      "bytes": 450522,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-api-1.2.13.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.13/baritone-api-1.2.13.jar",
+      "sha256": "1a7706ff7e30548a3d2cd4257fb9f39cbd04c64dfb48762b2cda6e608c2bcfaa",
+      "bytes": 450535,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-api-1.2.14.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.14/baritone-api-1.2.14.jar",
+      "sha256": "73cc3eca2eb1bcd03f046533f4329d93da4c5047c8b9ffb9a8edf097cdc74ecd",
+      "bytes": 450589,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-api-1.2.15.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.15/baritone-api-1.2.15.jar",
+      "sha256": "c81c7b6d46a45c1724d05b48f0d9efdb34a9840e89bc6cb011e3712f43d4a88b",
+      "bytes": 463580,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-api-1.2.17.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.17/baritone-api-1.2.17.jar",
+      "sha256": "d59e7b52b5f7825403772ccc6d23739ddc3a7c89c5d04c8e4ee63aad04f38c45",
+      "bytes": 484528,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-api-1.2.19.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.19/baritone-api-1.2.19.jar",
+      "sha256": "9a9cc35ac5b07f4a7341d6389fe163b6b60c8d65dde076fbb8fcda6c73cc58f7",
+      "bytes": 1544394,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-api-1.2.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.6/baritone-api-1.2.6.jar",
+      "sha256": "c2958b5a7f10ae1484a843e19855b3c53cda2e56c67b430ebbed8ffa1ef345c8",
+      "bytes": 286791,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-standalone-1.2.10.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.10/baritone-standalone-1.2.10.jar",
+      "sha256": "79eda1ca0e9be305b5cc6d4e8cba56951d7ef3eb1ad99a21fded47c4ee6b903c",
+      "bytes": 359262,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-standalone-1.2.11.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.11/baritone-standalone-1.2.11.jar",
+      "sha256": "cccad2bb0ece2a84087d8107e333806c887bfef9145877562c92d98e74817f53",
+      "bytes": 370229,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-standalone-1.2.12.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.12/baritone-standalone-1.2.12.jar",
+      "sha256": "c142bcd62206c4e6962e652c3a5e5844bab4c1e2ec0e5407a4d6175f44ee6f33",
+      "bytes": 373336,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-standalone-1.2.13.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.13/baritone-standalone-1.2.13.jar",
+      "sha256": "195ba7aa57ef6c7bc30ad6ff98dd3580942af98ef4ba14faf3ed99342170192a",
+      "bytes": 373349,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-standalone-1.2.14.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.14/baritone-standalone-1.2.14.jar",
+      "sha256": "9dd60530db2f14f076d259d53fc1340ca9a90665235a373d6afef490acb83237",
+      "bytes": 373381,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-standalone-1.2.15.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.15/baritone-standalone-1.2.15.jar",
+      "sha256": "b274002c3356ee04bc357d5a1ddb9d9154561d6cd2a67baf8113964c4dcd199f",
+      "bytes": 385353,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-standalone-1.2.17.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.17/baritone-standalone-1.2.17.jar",
+      "sha256": "09b355b8e51226e92fa9c5f41287c362fb91f2bbe3c49e9168ff437304440d7d",
+      "bytes": 405480,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-standalone-1.2.19.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.19/baritone-standalone-1.2.19.jar",
+      "sha256": "4b6f2500eee75128b6d9404fa544cfada853c9486243acc7f638ff0986c501b9",
+      "bytes": 1451161,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-standalone-1.2.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.6/baritone-standalone-1.2.6.jar",
+      "sha256": "b7bf886d5aa8283413c4b1d1f0f62f6c5d0ef8a5d6de18a56c1690c8b13c1694",
+      "bytes": 249946,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-unoptimized-1.2.10.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.10/baritone-unoptimized-1.2.10.jar",
+      "sha256": "1cebba23a50973e9892b7f189cfccbc87be041d51723a7e8b176a65080eb4b92",
+      "bytes": 615832,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-unoptimized-1.2.11.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.11/baritone-unoptimized-1.2.11.jar",
+      "sha256": "239c0245e7a0e080aa2cb13bea59ae68c94adfb04309be75e6ca1a567872e474",
+      "bytes": 630732,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-unoptimized-1.2.12.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.12/baritone-unoptimized-1.2.12.jar",
+      "sha256": "f5375c7362190a327337e8f87ae263f3532f69ebefeae12aa48df3963b3cfd73",
+      "bytes": 635722,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-unoptimized-1.2.13.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.13/baritone-unoptimized-1.2.13.jar",
+      "sha256": "7822648ae4b5c52dc0483c869ce2f9be5f341849f0e82537bd48a5c10c564e1c",
+      "bytes": 635735,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-unoptimized-1.2.14.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.14/baritone-unoptimized-1.2.14.jar",
+      "sha256": "41badd6b03cbb71edf85fd890b5904946d560a13696ce9456cd8e5e7ecce2810",
+      "bytes": 635792,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-unoptimized-1.2.15.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.15/baritone-unoptimized-1.2.15.jar",
+      "sha256": "cd0f8417e6c8b96c9c06f4ac6494f8caef5ac8fcc581aa7fe6e9f1be4a72a92b",
+      "bytes": 653588,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-unoptimized-1.2.17.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.17/baritone-unoptimized-1.2.17.jar",
+      "sha256": "ab45068cbaf3ca0c05ccbd18a193fc303ea1466c32b0ac0f87b76d6b823b76b5",
+      "bytes": 670016,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-unoptimized-1.2.19.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.19/baritone-unoptimized-1.2.19.jar",
+      "sha256": "fb401644e6dfc2de692da6ecbf95fa0f55401727dd9fa52062814bf21aa72fd4",
+      "bytes": 1767646,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.12.2/baritone-unoptimized-1.2.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.2.6/baritone-unoptimized-1.2.6.jar",
+      "sha256": "f83d412afcdfed9b3b61a835cb2f150e712694cf78fea95347eaf1ed1279ae9c",
+      "bytes": 418827,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.13.2/baritone-api-1.3.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.3.2/baritone-api-1.3.2.jar",
+      "sha256": "5a20628d4c39106f861033141e2d5209bc92e80a54794b7b17e35d91a8c965e6",
+      "bytes": 293162,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.13.2/baritone-api-1.3.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.3.5/baritone-api-1.3.5.jar",
+      "sha256": "19562e6c0ebfef2e136775eaee04c789dfd07db3d8df98a7575e2401a21df890",
+      "bytes": 440808,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.13.2/baritone-api-1.3.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.3.6/baritone-api-1.3.6.jar",
+      "sha256": "f3abfb4c66a4e1bc78ef7ea21baca0d62307d9f421538add8f9548ecc9e8a041",
+      "bytes": 449351,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.13.2/baritone-api-1.3.7.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.3.7/baritone-api-1.3.7.jar",
+      "sha256": "94ed032ae3e30f6c5e69f1769048aad151903e3c88b887d1d21b71a745e7eee9",
+      "bytes": 452577,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.13.2/baritone-api-1.3.8.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.3.8/baritone-api-1.3.8.jar",
+      "sha256": "72eaa1c3084795c358b443583873b7bfd4b37fe2cd9efaad91455c0e4dc1aea7",
+      "bytes": 452634,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.13.2/baritone-standalone-1.3.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.3.2/baritone-standalone-1.3.2.jar",
+      "sha256": "976f6f6c67ab1f6b2971ce8b96677c104b9266cc308fe103f1836e184c8ef7f7",
+      "bytes": 255733,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.13.2/baritone-standalone-1.3.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.3.5/baritone-standalone-1.3.5.jar",
+      "sha256": "3694fbc66b593fbba3f040037ef2b50cf8386ced20b63ccc6fa94ed1ce5466ef",
+      "bytes": 374568,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.13.2/baritone-standalone-1.3.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.3.6/baritone-standalone-1.3.6.jar",
+      "sha256": "06bd230e4327b87af623a87d2b87bc501a4b5dc9a89691798ad16f46631c0b31",
+      "bytes": 385257,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.13.2/baritone-standalone-1.3.7.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.3.7/baritone-standalone-1.3.7.jar",
+      "sha256": "ee926246f142f9facb46656a5dbc065aad15e91c54c5a4985da342aee02a7764",
+      "bytes": 388441,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.13.2/baritone-standalone-1.3.8.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.3.8/baritone-standalone-1.3.8.jar",
+      "sha256": "6b14158e327cf0f06184da995245e1c499d6583715ea37b225cdf1ba917f74c2",
+      "bytes": 388475,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.13.2/baritone-unoptimized-1.3.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.3.2/baritone-unoptimized-1.3.2.jar",
+      "sha256": "b2343a152f1927e1e8fa10e9332539fc83f6af1897355400b7ea17c470c9edb4",
+      "bytes": 428796,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.13.2/baritone-unoptimized-1.3.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.3.5/baritone-unoptimized-1.3.5.jar",
+      "sha256": "4a979c6b9c4c8f0ce5c4739cdcbd02ccfcbc563e4e41ac8b062870bbfde268b5",
+      "bytes": 619985,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.13.2/baritone-unoptimized-1.3.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.3.6/baritone-unoptimized-1.3.6.jar",
+      "sha256": "0be4d9b7d0c0311ba0d8b93f0c9123815b50812f2d6e0f7b3a15e2d085df8650",
+      "bytes": 633379,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.13.2/baritone-unoptimized-1.3.7.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.3.7/baritone-unoptimized-1.3.7.jar",
+      "sha256": "d3e6d70c86e5a5e886ac9dfb83839c89bc95f9b997e89e649b201958f8a5637b",
+      "bytes": 638463,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.13.2/baritone-unoptimized-1.3.8.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.3.8/baritone-unoptimized-1.3.8.jar",
+      "sha256": "d6c7074daca0b682dc7d7050d12a1711452a1623480d389d0e79ff5ab88a553e",
+      "bytes": 638520,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.14.4/baritone-api-1.4.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.4.2/baritone-api-1.4.2.jar",
+      "sha256": "3b7aba3c4e1ebfb838deb283dbc23331c184ea6cf728077b34ed7dc8d8227fc5",
+      "bytes": 435973,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.14.4/baritone-api-1.4.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.4.3/baritone-api-1.4.3.jar",
+      "sha256": "a05b96b01519a79343debbd40c8d31d9abfbfa01b09a9d9a8525cff807243b39",
+      "bytes": 435911,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.14.4/baritone-api-1.4.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.4.4/baritone-api-1.4.4.jar",
+      "sha256": "ba38304746eeca9bfd68887ccf3a73d4bcd545578fdbf20ade82edfa476f2733",
+      "bytes": 444720,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.14.4/baritone-api-1.4.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.4.5/baritone-api-1.4.5.jar",
+      "sha256": "8b47080708995f1f10b137cee3ed580c48e18add3bdeb84a17b04612ce56dce5",
+      "bytes": 447932,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.14.4/baritone-api-1.4.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.4.6/baritone-api-1.4.6.jar",
+      "sha256": "f0828e8c349ec5faa0ceb52874582ba31ce77ae2929e268b96dc5c71c24a43d9",
+      "bytes": 447988,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.14.4/baritone-standalone-1.4.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.4.2/baritone-standalone-1.4.2.jar",
+      "sha256": "c4768eb1f95411b588ab5687c8e15a88d4af16963ec2204822a55305e4e33fc6",
+      "bytes": 369879,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.14.4/baritone-standalone-1.4.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.4.3/baritone-standalone-1.4.3.jar",
+      "sha256": "f2255cbd26b652231a0f4868d91fb481186bcc5ac5b6dd01c2c68e94fc7f7413",
+      "bytes": 369831,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.14.4/baritone-standalone-1.4.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.4.4/baritone-standalone-1.4.4.jar",
+      "sha256": "f1b0a347f391f16864480033c95c50cc15595ed3421a9054067a3aff4730381b",
+      "bytes": 380714,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.14.4/baritone-standalone-1.4.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.4.5/baritone-standalone-1.4.5.jar",
+      "sha256": "c84b0f3beb9ea138a2cf77f4f2be9baebc2a6de25161a4443664688deaca89b7",
+      "bytes": 383901,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.14.4/baritone-standalone-1.4.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.4.6/baritone-standalone-1.4.6.jar",
+      "sha256": "789fceed2aa866126a31731589a572d304e26545493817618cb449ef26585dc2",
+      "bytes": 383932,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.14.4/baritone-unoptimized-1.4.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.4.2/baritone-unoptimized-1.4.2.jar",
+      "sha256": "37fa1d8146092ee98835e19f6ca596cf42dbf41e87f61ad02242de0d14897f06",
+      "bytes": 616419,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.14.4/baritone-unoptimized-1.4.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.4.3/baritone-unoptimized-1.4.3.jar",
+      "sha256": "b9a650507403af5d6d1b4f0dc8092a78d44dca540de2cccc2bcaf25beabe8136",
+      "bytes": 616351,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.14.4/baritone-unoptimized-1.4.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.4.4/baritone-unoptimized-1.4.4.jar",
+      "sha256": "c8b9d640da5ac78243c808de9df29e75129f817449745bbd833c85f079980a70",
+      "bytes": 630093,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.14.4/baritone-unoptimized-1.4.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.4.5/baritone-unoptimized-1.4.5.jar",
+      "sha256": "5af4198552735f9c85946609f4857528cd88471ee672893921c748510b375d99",
+      "bytes": 635156,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.14.4/baritone-unoptimized-1.4.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.4.6/baritone-unoptimized-1.4.6.jar",
+      "sha256": "18ecf634ae59d416c1cba41e3df22219ff7dbce74142ab6d154d66db2d530d65",
+      "bytes": 635212,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.15.2/baritone-api-1.5.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.5.0/baritone-api-1.5.0.jar",
+      "sha256": "075d37f7d826f6154efce6bc7a17201b05ff0484bcc3be72de2cfacaf8446556",
+      "bytes": 444449,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.15.2/baritone-api-1.5.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.5.1/baritone-api-1.5.1.jar",
+      "sha256": "d0e5d8552ebf496181d07d65f16d41b02f14797135897710f0d745affbdb3b9f",
+      "bytes": 444437,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.15.2/baritone-api-1.5.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.5.2/baritone-api-1.5.2.jar",
+      "sha256": "9ba6a6e0008c8994ab033db68c10a292520e790183474a38fd13f67fd9590040",
+      "bytes": 447613,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.15.2/baritone-api-1.5.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.5.3/baritone-api-1.5.3.jar",
+      "sha256": "a4e9bb4178f70dfc5fd4a8179fdb33687158e09ae66c937eff6c31069a2ff40d",
+      "bytes": 449543,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.15.2/baritone-standalone-1.5.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.5.0/baritone-standalone-1.5.0.jar",
+      "sha256": "71bc9986f169467bcaa6158e34e3c8f05389a823e7b56b88f5aed539411eba18",
+      "bytes": 379419,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.15.2/baritone-standalone-1.5.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.5.1/baritone-standalone-1.5.1.jar",
+      "sha256": "9c2ec12508f9d61e624a8105b685a733ba3eb4f49ad1d34c36a48ba96cca7165",
+      "bytes": 379399,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.15.2/baritone-standalone-1.5.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.5.2/baritone-standalone-1.5.2.jar",
+      "sha256": "753a79a44477582c70ae3e95530b00eb1cee92032eed2f6c19a17a9ba66417fd",
+      "bytes": 382663,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.15.2/baritone-standalone-1.5.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.5.3/baritone-standalone-1.5.3.jar",
+      "sha256": "d9cb4a1c8f2f14ece372f9dd3cfe89c7b0380aec774f51f96492d25b242d1255",
+      "bytes": 384573,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.15.2/baritone-unoptimized-1.5.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.5.0/baritone-unoptimized-1.5.0.jar",
+      "sha256": "de046af2cae11a1f8fefa16cfd4786b49e163b9168af32c2b459e0dd169f4974",
+      "bytes": 629557,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.15.2/baritone-unoptimized-1.5.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.5.1/baritone-unoptimized-1.5.1.jar",
+      "sha256": "597b00bf80e0149fa9215b684e2c37a53947d0666ad9c490596c9768ed3f9f78",
+      "bytes": 629572,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.15.2/baritone-unoptimized-1.5.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.5.2/baritone-unoptimized-1.5.2.jar",
+      "sha256": "7ceea0bb8c9580fdc6bcc95d9109c9282fdb31d78e9328e71f2328511546ac77",
+      "bytes": 634637,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.15.2/baritone-unoptimized-1.5.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.5.3/baritone-unoptimized-1.5.3.jar",
+      "sha256": "ffba5f5e7005cc48776aec8e5b1207017915552e3267180a799302b6201544f7",
+      "bytes": 636519,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.16.2/baritone-api-1.6.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.1/baritone-api-1.6.1.jar",
+      "sha256": "8809ef15153b437b24be0f735af53452e6ab04a68636654aca4e343cbe3e783b",
+      "bytes": 450549,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.16.2/baritone-standalone-1.6.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.1/baritone-standalone-1.6.1.jar",
+      "sha256": "e0341142dae863752c6a0e330f8f77d2a25d800e99ed0ce95f22896abf814fd7",
+      "bytes": 385538,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.16.2/baritone-unoptimized-1.6.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.1/baritone-unoptimized-1.6.1.jar",
+      "sha256": "877d597d8df39447b40a8f3e00960b7b364df509e74261d370ca6ec80d7c8d25",
+      "bytes": 637643,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.16.4/baritone-api-1.6.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.2/baritone-api-1.6.2.jar",
+      "sha256": "50bb40150dc1e35c8e524a9e1d37bd0a3e775e9769d5c70c38ca376cb5205450",
+      "bytes": 450610,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.16.4/baritone-standalone-1.6.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.2/baritone-standalone-1.6.2.jar",
+      "sha256": "9e8083dbc7c95105f2ca36577c30b8b829298c132174038e5976ff2febd1b1ec",
+      "bytes": 385580,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.16.4/baritone-unoptimized-1.6.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.2/baritone-unoptimized-1.6.2.jar",
+      "sha256": "140e9ab49f91113e212014b678d3961f4c1118bbdcab0281e82ef5f6466e5de4",
+      "bytes": 637669,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.16.5/baritone-api-1.6.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.3/baritone-api-1.6.3.jar",
+      "sha256": "ad877c3e48601e464262de5431e4b46b3fbb27ce7973d9733b10703687c03bbc",
+      "bytes": 454142,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.16.5/baritone-api-1.6.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.4/baritone-api-1.6.4.jar",
+      "sha256": "0f0d759569da1b8ee3f6487682da72c82275d85fc14e154fa583ce6a1dc8c1ac",
+      "bytes": 486044,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.16.5/baritone-api-1.6.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.5/baritone-api-1.6.5.jar",
+      "sha256": "c35c36b0582b7adb71e607a4288900bb36e34ff3e63cb4c35f06456bdba1d6dc",
+      "bytes": 518897,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.16.5/baritone-standalone-1.6.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.3/baritone-standalone-1.6.3.jar",
+      "sha256": "b4d1a87c6652c96689e0527f0eea1848dc94af016d073323d052215c2cb24690",
+      "bytes": 388660,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.16.5/baritone-standalone-1.6.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.4/baritone-standalone-1.6.4.jar",
+      "sha256": "3620571d473c9f4488ff5b3360cab29303dcc493821b80b16b18341814d0e6e7",
+      "bytes": 417774,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.16.5/baritone-standalone-1.6.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.5/baritone-standalone-1.6.5.jar",
+      "sha256": "6489e17a613c37aa7c8a067278f03f3cbf2ca4c30d3150b98b5d91d86eae3bf8",
+      "bytes": 441393,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.16.5/baritone-unoptimized-1.6.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.3/baritone-unoptimized-1.6.3.jar",
+      "sha256": "4ef5846d255f21cf1da5a1bc61e34507a73c871339917b280d4c31913ff4dcc5",
+      "bytes": 642956,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.16.5/baritone-unoptimized-1.6.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.4/baritone-unoptimized-1.6.4.jar",
+      "sha256": "ed29000571f1b89162266dfd57c00d2433deecfa2989f6232090f7af86725870",
+      "bytes": 673930,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.16.5/baritone-unoptimized-1.6.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.6.5/baritone-unoptimized-1.6.5.jar",
+      "sha256": "06fe0005f61f6d9e557d15579a6cee2a6bd0dcba05de173eacf29de81c5b1c99",
+      "bytes": 722598,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.17.1/baritone-api-1.7.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.1/baritone-api-1.7.1.jar",
+      "sha256": "7f1db8d9e39415f5222644248bed43001fa3bf364ecd3d43c535e9b5e1faa14d",
+      "bytes": 455839,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.17.1/baritone-api-1.7.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.2/baritone-api-1.7.2.jar",
+      "sha256": "08ee0859f8f724404df8fe7ff6b814e2a9ba993ad6b2285ece79a0601d83b98e",
+      "bytes": 463181,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.17.1/baritone-api-1.7.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.3/baritone-api-1.7.3.jar",
+      "sha256": "bccf933b6f2341f6725ec0eb6f1220c3b9dd6380d95b4fcb31b5686cec94a84b",
+      "bytes": 488295,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.17.1/baritone-standalone-1.7.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.1/baritone-standalone-1.7.1.jar",
+      "sha256": "2b250567caecd80d9bd01fd0131f370b72c9cbf87f5eeb5800c2b6c9bc15fe7e",
+      "bytes": 390641,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.17.1/baritone-standalone-1.7.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.2/baritone-standalone-1.7.2.jar",
+      "sha256": "f31a3a21436f36b21b33f2540487337d98b3fb4d754ca1f8961160dab0845feb",
+      "bytes": 397306,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.17.1/baritone-standalone-1.7.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.3/baritone-standalone-1.7.3.jar",
+      "sha256": "8fbc2b56e7cb1313b28e752693cced5b0f6beb76d05d4899a121f52544a2e7ba",
+      "bytes": 420713,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.17.1/baritone-unoptimized-1.7.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.1/baritone-unoptimized-1.7.1.jar",
+      "sha256": "64ac33eb18b0a20aed10afc3daa6275396f28359c41f4cbba8b68c812f597cbf",
+      "bytes": 650134,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.17.1/baritone-unoptimized-1.7.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.2/baritone-unoptimized-1.7.2.jar",
+      "sha256": "d3f55924ccac589ce1466b9816ce6a69bfee842a12fe71e766a3052865359fa6",
+      "bytes": 657522,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.17.1/baritone-unoptimized-1.7.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.7.3/baritone-unoptimized-1.7.3.jar",
+      "sha256": "df90092e2796f068d9d84d14cc8c965cb6983b83672757ed8ceba414503ac66a",
+      "bytes": 682621,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.1/baritone-api-1.8.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.1/baritone-api-1.8.1.jar",
+      "sha256": "fcecfcc67197c36e31041ebb1057ff70659b298fb61e3e4b95134160f1bbf837",
+      "bytes": 455808,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.1/baritone-api-1.8.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.2/baritone-api-1.8.2.jar",
+      "sha256": "5233301c26b421172056214bae46e83c4286520b9829753c109eb7868b72799c",
+      "bytes": 463187,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.1/baritone-standalone-1.8.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.1/baritone-standalone-1.8.1.jar",
+      "sha256": "3dffdaab06e6f6561fa56c7d34a9460428c4d6e321d20c3254fc697d3f57dac4",
+      "bytes": 390630,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.1/baritone-standalone-1.8.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.2/baritone-standalone-1.8.2.jar",
+      "sha256": "7cf2596775f1a248de7f9b87fc7e7bac8b2960c5ed7922fdcaee685c8522ce44",
+      "bytes": 397319,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.1/baritone-unoptimized-1.8.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.1/baritone-unoptimized-1.8.1.jar",
+      "sha256": "a141464f1964ac34100290840950d641024556dbe156b87767290557b80b7a38",
+      "bytes": 650059,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.1/baritone-unoptimized-1.8.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.2/baritone-unoptimized-1.8.2.jar",
+      "sha256": "fa9a706adde0bc90a17eb46a13844e55851092ff8fec1d3eca4d48e5f75609d9",
+      "bytes": 657440,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.2/baritone-api-1.8.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.3/baritone-api-1.8.3.jar",
+      "sha256": "2e5c1fc27979e95bfe9f348948b2e2d6bb5aa64674b27f3db6e9d4f6480249fd",
+      "bytes": 463212,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.2/baritone-api-1.8.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.4/baritone-api-1.8.4.jar",
+      "sha256": "d7d270ae9392c21c16ed70ca17ed05e5e98ac061f300e2dfe711eb24b3d7209a",
+      "bytes": 488390,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.2/baritone-api-1.8.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.5/baritone-api-1.8.5.jar",
+      "sha256": "5b484bf5aaedd8302e514c77073286b57aea985965353ffd395af7cc541c3ac4",
+      "bytes": 522932,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.2/baritone-api-1.8.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.6/baritone-api-1.8.6.jar",
+      "sha256": "6887ccd27ab4f0d43bd87a6f12506f27f557f01833e8504a05e2295371d6380f",
+      "bytes": 522947,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.2/baritone-standalone-1.8.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.3/baritone-standalone-1.8.3.jar",
+      "sha256": "5a2dbe6a42fa0209d00ccba90f70e1c20f17b54f161e1a7cf9c8e2abfa401a66",
+      "bytes": 397331,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.2/baritone-standalone-1.8.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.4/baritone-standalone-1.8.4.jar",
+      "sha256": "3b66484d7ec779a36365434134e2d866690ec04d34664845ff9c8d37c96b425f",
+      "bytes": 420771,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.2/baritone-standalone-1.8.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.5/baritone-standalone-1.8.5.jar",
+      "sha256": "e418e9f8eb5f5fa67601e82e163a999b6fe133401e69ee428c57ede7d2744330",
+      "bytes": 445689,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.2/baritone-standalone-1.8.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.6/baritone-standalone-1.8.6.jar",
+      "sha256": "7c4fe71a32824fd98862ba339d113ec03dcb393f28a88ccb14b432342380bcf8",
+      "bytes": 445696,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.2/baritone-unoptimized-1.8.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.3/baritone-unoptimized-1.8.3.jar",
+      "sha256": "fb3cfff56e1496e2a44b6966e91d68526344c58975bd0bb44c3edc62ef8d481f",
+      "bytes": 657518,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.2/baritone-unoptimized-1.8.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.4/baritone-unoptimized-1.8.4.jar",
+      "sha256": "c75b7ca794adda90af2bcf3002d03986c9e1565e8e903d043fcd863f518e6fcc",
+      "bytes": 682735,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.2/baritone-unoptimized-1.8.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.5/baritone-unoptimized-1.8.5.jar",
+      "sha256": "862bec6a5ac255d294dddb51108004c993dff0e68fdbe8a8aa0e565195ce05fa",
+      "bytes": 734022,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.18.2/baritone-unoptimized-1.8.6.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.8.6/baritone-unoptimized-1.8.6.jar",
+      "sha256": "471b83db2bf63f24050d4d3ce3590d4e98ba01f15302ad699f011fb355f8ced8",
+      "bytes": 734036,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.19.2/baritone-api-1.9.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.4/baritone-api-1.9.4.jar",
+      "sha256": "856d010076bea607ef4aa44f0acdf77c039fbc2663d83593aaff5019f557df60",
+      "bytes": 488617,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.19.2/baritone-standalone-1.9.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.4/baritone-standalone-1.9.4.jar",
+      "sha256": "50bc3edce8a3d3083b5819bafa41e99922be2c4bf484fa0f3166260edac5c857",
+      "bytes": 420843,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.19.2/baritone-unoptimized-1.9.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.4/baritone-unoptimized-1.9.4.jar",
+      "sha256": "693a4f6e49b9a76b65ac57a4731cf20b74680168f322cd0287a49b164cbfc2b4",
+      "bytes": 671170,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.19.3/baritone-api-1.9.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.1/baritone-api-1.9.1.jar",
+      "sha256": "74e3ff77543f81b7c4d22f19d7a4e9e583b9caf31c014d23e4a9e49f3c46022f",
+      "bytes": 490859,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.19.3/baritone-standalone-1.9.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.1/baritone-standalone-1.9.1.jar",
+      "sha256": "888e7eca69583f0a8373733178b5a5c0b64a48608d5ae0c89f996f2ac2c19cf0",
+      "bytes": 422684,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.19.3/baritone-unoptimized-1.9.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.1/baritone-unoptimized-1.9.1.jar",
+      "sha256": "877938faee432b882d55bb8bc18c50954bf376003e0d60a374b1ff04d0b08356",
+      "bytes": 673839,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.19.4/baritone-api-1.9.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.2/baritone-api-1.9.2.jar",
+      "sha256": "c8aaf4ebc026574039f398ed98266fc7a08e68dbfda2dc329969b4547892158b",
+      "bytes": 491447,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.19.4/baritone-api-1.9.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.3/baritone-api-1.9.3.jar",
+      "sha256": "3f5996e755fe3bda7803c525436b1599c2da570c9e54a37bdb5da3400a74204b",
+      "bytes": 491447,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.19.4/baritone-standalone-1.9.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.2/baritone-standalone-1.9.2.jar",
+      "sha256": "271f7ad72f6457b9033397593d955e5fef18f7ce38a5bf518d4a16022193bae7",
+      "bytes": 423298,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.19.4/baritone-standalone-1.9.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.3/baritone-standalone-1.9.3.jar",
+      "sha256": "cbae13f21b7fc056365fbb0b005c64b331d2489070d0d5e317dfb861970f81a9",
+      "bytes": 423298,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.19.4/baritone-unoptimized-1.9.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.2/baritone-unoptimized-1.9.2.jar",
+      "sha256": "72810edb2cf6b2ce10d88a2aa5ae75fb0a52911fddc013f65501c9ad4c34fe51",
+      "bytes": 674235,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.19.4/baritone-unoptimized-1.9.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.9.3/baritone-unoptimized-1.9.3.jar",
+      "sha256": "105f431d97c1be84c95cb0fe184b7563466286e1b414d203a1b4b6efdc9c98a5",
+      "bytes": 674235,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20.3/baritone-api-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-api-1.10.2.jar",
+      "sha256": "eb1d17a6d5afab0979845b913961bd2d7437e9631ff7cbe8ac9ba82b71aead90",
+      "bytes": 569767,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20.3/baritone-api-1.10.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.4/baritone-api-1.10.4.jar",
+      "sha256": "6ddf13cca100619ff3697c4056ba38860dcff83a5d6794c30f67870240c022e8",
+      "bytes": 583401,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20.3/baritone-api-1.10.7.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.7/baritone-api-1.10.7.jar",
+      "sha256": "a1c2a1dfb62f53a2000f3d9d2820cf89847056a309b8d4d3903253eedbcdc83b",
+      "bytes": 598779,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20.3/baritone-standalone-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-standalone-1.10.2.jar",
+      "sha256": "3daf03bb06f62547386edc8456b63c4b24f1c358a7cd008faf3e1f467cdf6b4d",
+      "bytes": 489309,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20.3/baritone-standalone-1.10.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.4/baritone-standalone-1.10.4.jar",
+      "sha256": "4666078d305983e8d1754dc5c26184812ba396d715138b558d3bb92760e692f8",
+      "bytes": 501637,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20.3/baritone-standalone-1.10.7.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.7/baritone-standalone-1.10.7.jar",
+      "sha256": "0cb6584cb9691fde09fab3594a6b9e9fc4dd6347154ffe574a3ca223acad048c",
+      "bytes": 516445,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20.3/baritone-unoptimized-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-unoptimized-1.10.2.jar",
+      "sha256": "4a99e98184d6019102ca3dda4808214b7fffd30386253c486eee9c3c25990a39",
+      "bytes": 789859,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20.3/baritone-unoptimized-1.10.4.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.4/baritone-unoptimized-1.10.4.jar",
+      "sha256": "28627f89d9d6cd5018c635682c66d70c4bf5abe9b901c50f1882a5d14e6041c3",
+      "bytes": 806615,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20.3/baritone-unoptimized-1.10.7.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.7/baritone-unoptimized-1.10.7.jar",
+      "sha256": "bd711f8466f1485ecc60a40222e62f78c97f5dd675e302c870bad308fbee08a0",
+      "bytes": 830621,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20.4/baritone-api-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-api-1.10.2.jar",
+      "sha256": "eb1d17a6d5afab0979845b913961bd2d7437e9631ff7cbe8ac9ba82b71aead90",
+      "bytes": 569767,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20.4/baritone-standalone-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-standalone-1.10.2.jar",
+      "sha256": "3daf03bb06f62547386edc8456b63c4b24f1c358a7cd008faf3e1f467cdf6b4d",
+      "bytes": 489309,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20.4/baritone-unoptimized-1.10.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.2/baritone-unoptimized-1.10.2.jar",
+      "sha256": "4a99e98184d6019102ca3dda4808214b7fffd30386253c486eee9c3c25990a39",
+      "bytes": 789859,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20.5/baritone-api-1.10.8.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.8/baritone-api-1.10.8.jar",
+      "sha256": "bc7ac99e73678623aff7eb0567a70fd1eede768c971599aa450d6791b0851834",
+      "bytes": 599486,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20.5/baritone-standalone-1.10.8.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.8/baritone-standalone-1.10.8.jar",
+      "sha256": "36992dfdbee1d9cd400398abef8d08a1f1719a34a10a5278bd78b0a36ebd65a8",
+      "bytes": 519140,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20.5/baritone-unoptimized-1.10.8.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.8/baritone-unoptimized-1.10.8.jar",
+      "sha256": "be705c55c554e764959cd7487d6723c7b1821f686e6b4bb0e412380e01b62237",
+      "bytes": 832764,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20/baritone-api-1.10.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.1/baritone-api-1.10.1.jar",
+      "sha256": "75489cb5ef84b9119dbc4da43b5533902049737541e928575a5dbc5279558e25",
+      "bytes": 491432,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20/baritone-api-1.10.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.3/baritone-api-1.10.3.jar",
+      "sha256": "5273f8f26c1afc5d75a22672ad5113a4b54e36ac2514441cbd955aa7fb60842e",
+      "bytes": 585215,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20/baritone-api-1.10.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.5/baritone-api-1.10.5.jar",
+      "sha256": "aa3bd91bb7162053751d5a8003362835aa40e627755384d3806ffb953ec71f5f",
+      "bytes": 600605,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20/baritone-standalone-1.10.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.1/baritone-standalone-1.10.1.jar",
+      "sha256": "698d4da213cac3cb7c02229462d54bb7c372b8e92d47f4a5c1b0b6e2762673de",
+      "bytes": 423262,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20/baritone-standalone-1.10.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.3/baritone-standalone-1.10.3.jar",
+      "sha256": "8b098d220aeb7fa88ac783be08cc1e160b01ff2c698bd4fda0e8d5bfd837fb60",
+      "bytes": 503370,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20/baritone-standalone-1.10.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.5/baritone-standalone-1.10.5.jar",
+      "sha256": "a099b8ff0224efe0dba25b9f06767b47f8eeedf3b56d8b2c28c1050e0ec1a3b0",
+      "bytes": 518218,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20/baritone-unoptimized-1.10.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.1/baritone-unoptimized-1.10.1.jar",
+      "sha256": "03c9d4b83787ef8919163c649429b0ffb1b9e14921e08f3239655e9638220459",
+      "bytes": 674105,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20/baritone-unoptimized-1.10.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.3/baritone-unoptimized-1.10.3.jar",
+      "sha256": "c6f88be829a61efa11ab1417a7ab7e513b68eb1ca368c8debd714d8e33a435f5",
+      "bytes": 808737,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.20/baritone-unoptimized-1.10.5.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.10.5/baritone-unoptimized-1.10.5.jar",
+      "sha256": "4b1c92d7bab9cec32c1027fb3b0cb3fda6234ed3c545d46b7c8a9955a136a6db",
+      "bytes": 832724,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21.2/baritone-api-1.12.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.12.0/baritone-api-1.12.0.jar",
+      "sha256": "edf6235d7925c15ebf1bdc8ebb03654dc548e23e6299ff1ca5137de7f31e2fc7",
+      "bytes": 600558,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21.2/baritone-standalone-1.12.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.12.0/baritone-standalone-1.12.0.jar",
+      "sha256": "4b084d054ad282c51eca8b748d4321c73b9f444bb5a3d788ad39a26e0e677af7",
+      "bytes": 520431,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21.2/baritone-unoptimized-1.12.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.12.0/baritone-unoptimized-1.12.0.jar",
+      "sha256": "be75ec6ad14a98db0db4aba03c5930413f7dc6f3d44694f92c38d859112b349e",
+      "bytes": 834942,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21.3/baritone-api-1.11.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.1/baritone-api-1.11.1.jar",
+      "sha256": "ea934cad0381ff7efdc5699e9ac21ef6478776a9a1ec1c4914d831040211620c",
+      "bytes": 579209,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21.3/baritone-standalone-1.11.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.1/baritone-standalone-1.11.1.jar",
+      "sha256": "f709fb3bf3e12ad3a5ae5c2bd27b625e1180499e877ef55b4431259cb4bff56a",
+      "bytes": 500066,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21.3/baritone-unoptimized-1.11.1.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.1/baritone-unoptimized-1.11.1.jar",
+      "sha256": "737f088d5d11f7de045e760757225c73ffba73cbfc74f3564f2fb7d6bebe27c9",
+      "bytes": 803683,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21.6/baritone-api-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-api-1.15.0.jar",
+      "sha256": "44b81440213fd686785e88258b8fef9be84866fd99e9f44f458d08ff8afaea2f",
+      "bytes": 589249,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21.6/baritone-standalone-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-standalone-1.15.0.jar",
+      "sha256": "745f2c93e7a5f985d533ffaec49a53f50d874d65dd329747b9b776ce17a455f3",
+      "bytes": 509654,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21.6/baritone-unoptimized-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-unoptimized-1.15.0.jar",
+      "sha256": "fd35e4c80242a42f555ac2d6d6f6f068306fcc7c55ddd364d0ee3d9dcb48b9b5",
+      "bytes": 816422,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21.7/baritone-api-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-api-1.15.0.jar",
+      "sha256": "44b81440213fd686785e88258b8fef9be84866fd99e9f44f458d08ff8afaea2f",
+      "bytes": 589249,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21.7/baritone-standalone-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-standalone-1.15.0.jar",
+      "sha256": "745f2c93e7a5f985d533ffaec49a53f50d874d65dd329747b9b776ce17a455f3",
+      "bytes": 509654,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21.7/baritone-unoptimized-1.15.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.15.0/baritone-unoptimized-1.15.0.jar",
+      "sha256": "fd35e4c80242a42f555ac2d6d6f6f068306fcc7c55ddd364d0ee3d9dcb48b9b5",
+      "bytes": 816422,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21.9/baritone-api-1.16.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.16.0/baritone-api-1.16.0.jar",
+      "sha256": "49929f33f868854dd149d37e02315ea10236ce71f99eb49de33b9ed321d0807a",
+      "bytes": 602554,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21.9/baritone-standalone-1.16.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.16.0/baritone-standalone-1.16.0.jar",
+      "sha256": "c2774bda1ce236027f7a1695a98c021eb7d0a5b8d6a02a2afb2dcad9db5b7485",
+      "bytes": 522478,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21.9/baritone-unoptimized-1.16.0.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.16.0/baritone-unoptimized-1.16.0.jar",
+      "sha256": "163232134ec269bb79a62dd9e566078c663b0600c093dd4f2171e758b8586e80",
+      "bytes": 837140,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21/baritone-api-1.11.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.2/baritone-api-1.11.2.jar",
+      "sha256": "dbaad08c2720a3a71614673d47c3f0d48b0e567b7d4a703c1ec81ee9e7abcc87",
+      "bytes": 585040,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21/baritone-api-1.11.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.3/baritone-api-1.11.3.jar",
+      "sha256": "a030f6d4d3b2e83d7bd2e247f7b9fda646ce171be86495c832bb475cd5c135b5",
+      "bytes": 600613,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21/baritone-standalone-1.11.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.2/baritone-standalone-1.11.2.jar",
+      "sha256": "b653faffafb630e67bd832cf629e7d5774d5b6c2ad2367051d9642622f7bd17e",
+      "bytes": 505246,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21/baritone-standalone-1.11.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.3/baritone-standalone-1.11.3.jar",
+      "sha256": "4621d6e415f0b52d683c9d7a80dfa35769f2c5f9606322c52b617e1c04afd290",
+      "bytes": 520351,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21/baritone-unoptimized-1.11.2.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.2/baritone-unoptimized-1.11.2.jar",
+      "sha256": "ee347a0c74717b7b56555ac4ba4bf681e86621d79dff7504ebc928baefd8b4b8",
+      "bytes": 810844,
+      "tested_in_game": false
+    },
+    {
+      "path": "source/github.com-cabaletta-baritone/baritone/standalone/1.21/baritone-unoptimized-1.11.3.jar",
+      "source_url": "https://github.com/cabaletta/baritone/releases/download/v1.11.3/baritone-unoptimized-1.11.3.jar",
+      "sha256": "6a0846386c8e19745d79f685eff042ca1c511b53a19b541526fc08c813d2619a",
+      "bytes": 834954,
+      "tested_in_game": false
+    }
+  ]
+}
