@@ -1,8 +1,10 @@
-# Archived JAR downloads by Minecraft version and loader
+# 📦 Archived JAR downloads by Minecraft version and loader
+
+![Meteor](https://img.shields.io/badge/Meteor_Client-f97358?style=for-the-badge) ![Baritone](https://img.shields.io/badge/Baritone-17b7c5?style=for-the-badge) ![Downloads](https://img.shields.io/badge/Archive-JAR_Downloads-21b68c?style=for-the-badge)
 
 These links point to files committed in this repository. The community-source comparison is tracked in [IMPORT-PROVENANCE.json](IMPORT-PROVENANCE.json). Version folders reflect the original archive's version labels, not independently verified runtime compatibility. The `unverified-extra` builds require inspection of their embedded metadata.
 
-## meteor
+## ☄️ Meteor Client
 
 | Minecraft version | Loader | JAR |
 |---|---|---|
@@ -76,7 +78,7 @@ These links point to files committed in this repository. The community-source co
 | unverified-extra | fabric | [meteor-client-0.5.7-2079.jar](meteor/fabric/1.20.6/MeteorClient_1.20.6_0.5.7_ManInMyVan_build-af9f8e66.jar) |
 | unverified-extra | fabric | [meteor-client-0.5.8-2119.jar](meteor/fabric/1.21.1/MeteorClient_1.21.1_0.5.8_ManInMyVan_build-f5677724.jar) |
 
-## baratone
+## 🧭 Baritone
 
 | Minecraft version | Loader | JAR |
 |---|---|---|
@@ -133,32 +135,32 @@ These **22 JARs have been downloaded and committed** from [Meteor's official ver
 
 | Minecraft version | Loader | Mod version / build | Download |
 |---|---|---|---|
-| 26.2 | fabric | meteor-client-26.2 | [Download JAR](source/meteorclient.com/meteor/fabric/26.2/meteor-client-26.2.jar) |
-| 26.1.2 | fabric | meteor-client-26.1.2 | [Download JAR](source/meteorclient.com/meteor/fabric/26.1.2/meteor-client-26.1.2.jar) |
-| 1.21.11 | fabric | meteor-client-1.21.11 | [Download JAR](source/meteorclient.com/meteor/fabric/1.21.11/meteor-client-1.21.11.jar) |
-| 1.21.10 | fabric | meteor-client-1.21.10 | [Download JAR](source/meteorclient.com/meteor/fabric/1.21.10/meteor-client-1.21.10.jar) |
-| 1.21.8 | fabric | meteor-client-1.21.8 | [Download JAR](source/meteorclient.com/meteor/fabric/1.21.8/meteor-client-1.21.8.jar) |
-| 1.21.7 | fabric | meteor-client-1.21.7 | [Download JAR](source/meteorclient.com/meteor/fabric/1.21.7/meteor-client-1.21.7.jar) |
-| 1.21.6 | fabric | meteor-client-1.21.6 | [Download JAR](source/meteorclient.com/meteor/fabric/1.21.6/meteor-client-1.21.6.jar) |
-| 1.21.5 | fabric | meteor-client-1.21.5 | [Download JAR](source/meteorclient.com/meteor/fabric/1.21.5/meteor-client-1.21.5.jar) |
-| 1.21.4 | fabric | meteor-client-1.21.4 | [Download JAR](source/meteorclient.com/meteor/fabric/1.21.4/meteor-client-1.21.4.jar) |
+| 26.2 | fabric | meteor-client-26.2 | [⬇️ Download JAR](source/meteorclient.com/meteor/fabric/26.2/meteor-client-26.2.jar) |
+| 26.1.2 | fabric | meteor-client-26.1.2 | [⬇️ Download JAR](source/meteorclient.com/meteor/fabric/26.1.2/meteor-client-26.1.2.jar) |
+| 1.21.11 | fabric | meteor-client-1.21.11 | [⬇️ Download JAR](source/meteorclient.com/meteor/fabric/1.21.11/meteor-client-1.21.11.jar) |
+| 1.21.10 | fabric | meteor-client-1.21.10 | [⬇️ Download JAR](source/meteorclient.com/meteor/fabric/1.21.10/meteor-client-1.21.10.jar) |
+| 1.21.8 | fabric | meteor-client-1.21.8 | [⬇️ Download JAR](source/meteorclient.com/meteor/fabric/1.21.8/meteor-client-1.21.8.jar) |
+| 1.21.7 | fabric | meteor-client-1.21.7 | [⬇️ Download JAR](source/meteorclient.com/meteor/fabric/1.21.7/meteor-client-1.21.7.jar) |
+| 1.21.6 | fabric | meteor-client-1.21.6 | [⬇️ Download JAR](source/meteorclient.com/meteor/fabric/1.21.6/meteor-client-1.21.6.jar) |
+| 1.21.5 | fabric | meteor-client-1.21.5 | [⬇️ Download JAR](source/meteorclient.com/meteor/fabric/1.21.5/meteor-client-1.21.5.jar) |
+| 1.21.4 | fabric | meteor-client-1.21.4 | [⬇️ Download JAR](source/meteorclient.com/meteor/fabric/1.21.4/meteor-client-1.21.4.jar) |
 
 ### Baritone
 
 | Minecraft version | Loader | Mod version / build | Download |
 |---|---|---|---|
-| 26.2 | fabric | baritone-26.2 | [Download JAR](source/meteorclient.com/baritone/fabric/26.2/baritone-26.2.jar) |
-| 26.1 | fabric | baritone-26.1 | [Download JAR](source/meteorclient.com/baritone/fabric/26.1/baritone-26.1.jar) |
-| 1.21.11 | fabric | baritone-1.21.11 | [Download JAR](source/meteorclient.com/baritone/fabric/1.21.11/baritone-1.21.11.jar) |
-| 1.21.10 | fabric | baritone-1.21.10 | [Download JAR](source/meteorclient.com/baritone/fabric/1.21.10/baritone-1.21.10.jar) |
-| 1.21.8 | fabric | baritone-1.21.8 | [Download JAR](source/meteorclient.com/baritone/fabric/1.21.8/baritone-1.21.8.jar) |
-| 1.21.5 | fabric | baritone-1.21.5 | [Download JAR](source/meteorclient.com/baritone/fabric/1.21.5/baritone-1.21.5.jar) |
-| 1.21.4 | fabric | baritone-1.21.4 | [Download JAR](source/meteorclient.com/baritone/fabric/1.21.4/baritone-1.21.4.jar) |
-| 1.21.3 | fabric | baritone-1.21.3 | [Download JAR](source/meteorclient.com/baritone/fabric/1.21.3/baritone-1.21.3.jar) |
-| 1.21.1 | fabric | baritone-1.21.1 | [Download JAR](source/meteorclient.com/baritone/fabric/1.21.1/baritone-1.21.1.jar) |
-| 1.21 | fabric | baritone-1.21 | [Download JAR](source/meteorclient.com/baritone/fabric/1.21/baritone-1.21.jar) |
-| 1.20.6 | fabric | baritone-1.20.6 | [Download JAR](source/meteorclient.com/baritone/fabric/1.20.6/baritone-1.20.6.jar) |
-| 1.20.4 | fabric | baritone-1.20.4 | [Download JAR](source/meteorclient.com/baritone/fabric/1.20.4/baritone-1.20.4.jar) |
-| 1.20.2 | fabric | baritone-1.20.2 | [Download JAR](source/meteorclient.com/baritone/fabric/1.20.2/baritone-1.20.2.jar) |
+| 26.2 | fabric | baritone-26.2 | [⬇️ Download JAR](source/meteorclient.com/baritone/fabric/26.2/baritone-26.2.jar) |
+| 26.1 | fabric | baritone-26.1 | [⬇️ Download JAR](source/meteorclient.com/baritone/fabric/26.1/baritone-26.1.jar) |
+| 1.21.11 | fabric | baritone-1.21.11 | [⬇️ Download JAR](source/meteorclient.com/baritone/fabric/1.21.11/baritone-1.21.11.jar) |
+| 1.21.10 | fabric | baritone-1.21.10 | [⬇️ Download JAR](source/meteorclient.com/baritone/fabric/1.21.10/baritone-1.21.10.jar) |
+| 1.21.8 | fabric | baritone-1.21.8 | [⬇️ Download JAR](source/meteorclient.com/baritone/fabric/1.21.8/baritone-1.21.8.jar) |
+| 1.21.5 | fabric | baritone-1.21.5 | [⬇️ Download JAR](source/meteorclient.com/baritone/fabric/1.21.5/baritone-1.21.5.jar) |
+| 1.21.4 | fabric | baritone-1.21.4 | [⬇️ Download JAR](source/meteorclient.com/baritone/fabric/1.21.4/baritone-1.21.4.jar) |
+| 1.21.3 | fabric | baritone-1.21.3 | [⬇️ Download JAR](source/meteorclient.com/baritone/fabric/1.21.3/baritone-1.21.3.jar) |
+| 1.21.1 | fabric | baritone-1.21.1 | [⬇️ Download JAR](source/meteorclient.com/baritone/fabric/1.21.1/baritone-1.21.1.jar) |
+| 1.21 | fabric | baritone-1.21 | [⬇️ Download JAR](source/meteorclient.com/baritone/fabric/1.21/baritone-1.21.jar) |
+| 1.20.6 | fabric | baritone-1.20.6 | [⬇️ Download JAR](source/meteorclient.com/baritone/fabric/1.20.6/baritone-1.20.6.jar) |
+| 1.20.4 | fabric | baritone-1.20.4 | [⬇️ Download JAR](source/meteorclient.com/baritone/fabric/1.20.4/baritone-1.20.4.jar) |
+| 1.20.2 | fabric | baritone-1.20.2 | [⬇️ Download JAR](source/meteorclient.com/baritone/fabric/1.20.2/baritone-1.20.2.jar) |
 
 <!-- OFFICIAL_METEOR_END -->

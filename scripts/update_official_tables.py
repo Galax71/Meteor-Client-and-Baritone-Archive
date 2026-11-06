@@ -24,10 +24,10 @@ def version_from_row(row):
     return row.split("|")[1].strip().replace(" (inferred)", "")
 def status(version, found):
     if found:
-        return "Yes — archived build"
+        return "🟢 Yes — archived build"
     if version in early or re.fullmatch(r"1\.(?:[0-9]|10|11)(?:\.\d+)?", version):
-        return "No — predates documented mod support"
-    return "Unknown — no verified build"
+        return "⚫ No — predates documented mod support"
+    return "🟡 Unknown — no verified build"
 
 readme = README.read_text()
 start = readme.index("## Downloads by mod")
@@ -63,9 +63,9 @@ for heading, next_heading, mod in [
         source = parts[1]
         # The build filename is not necessarily an independently verified mod version.
         line = (
-            f"| {version} | Yes — archived build | {loader} | "
+            f"| {version} | 🟢 Yes — archived build | {loader} | "
             f"{filename[:-4]} (filename) | [{source}]({item['source_url']}) | "
-            f"[Download JAR]({path}) |"
+            f"[⬇️ Download JAR]({path}) |"
         )
         recovered.setdefault(version, []).append(line)
     all_versions = sorted(set(versions) | set(by_version) | set(recovered), key=key, reverse=True)
@@ -82,7 +82,7 @@ for heading, next_heading, mod in [
             rows.append("|".join(cells))
         rows.extend(downloaded)
         if not existing and not downloaded:
-            rows.append(f"| {version} | {status(version, False)} | — | **Missing** | — | **Missing** |")
+            rows.append(f"| {version} | {status(version, False)} | — | 🔴 **Missing** | — | 🔴 **Missing** |")
     prefix = "\n".join(lines[:header])
     replacement = prefix + "\n| Minecraft version | Mod existed? | Loader | Mod version | Archive found in | Download |\n|---|---|---|---|---|---|\n" + "\n".join(rows) + "\n\n"
     section = section[:a] + replacement + section[b:]
