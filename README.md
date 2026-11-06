@@ -42,12 +42,9 @@ Minecraft versions are sorted newest first. **(inferred)** means the version is 
 | 1.21.1 (inferred) | fabric | 0.5.8 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.21.1/MeteorClient_1.21.1_0.5.8_ManInMyVan_build-f5677724.jar) |
 | 1.21 | — | **Missing** | — | **Missing** |
 | 1.20.6 | fabric | 0.5.7 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.6/MeteorClient_1.20.6_0.5.7_ManInMyVan.jar) |
+| 1.20.6 (inferred) | fabric | 0.5.7 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.6/MeteorClient_1.20.6_0.5.7_ManInMyVan_build-af9f8e66.jar) |
 | 1.20.5 | — | **Missing** | — | **Missing** |
 | 1.20.4 | fabric | 0.5.6 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan.jar) |
-| 1.20.3 | — | **Missing** | — | **Missing** |
-| 1.20.2 | fabric | 0.5.5 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.2/MeteorClient_1.20.2_0.5.5_ManInMyVan.jar) |
-| 1.20.1 | — | **Missing** | — | **Missing** |
-| 1.20.6 (inferred) | fabric | 0.5.7 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.6/MeteorClient_1.20.6_0.5.7_ManInMyVan_build-af9f8e66.jar) |
 | 1.20.4 (inferred) | fabric | 0.5.6 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-a0e45bb5.jar) |
 | 1.20.4 (inferred) | fabric | 0.5.6 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-05b42454.jar) |
 | 1.20.4 (inferred) | fabric | 0.5.6 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-13c939e4.jar) |
@@ -61,18 +58,22 @@ Minecraft versions are sorted newest first. **(inferred)** means the version is 
 | 1.20.4 (inferred) | fabric | 0.5.6 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-8bbd0a7e.jar) |
 | 1.20.4 (inferred) | fabric | 0.5.6 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-aad83ef9.jar) |
 | 1.20.4 (inferred) | fabric | 0.5.6 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.4/MeteorClient_1.20.4_0.5.6_ManInMyVan_build-c13166ed.jar) |
+| 1.20.3 | — | **Missing** | — | **Missing** |
+| 1.20.2 | fabric | 0.5.5 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.2/MeteorClient_1.20.2_0.5.5_ManInMyVan.jar) |
 | 1.20.2 (inferred) | fabric | 0.5.5 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.2/MeteorClient_1.20.2_0.5.5_ManInMyVan_build-0ecbbc55.jar) |
+| 1.20-1.20.1 | fabric | 0.5.4 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20-1.20.1/MeteorClient_1.20-1.20.1_0.5.4_ManInMyVan.jar) |
+| 1.20.1 | — | **Missing** | — | **Missing** |
 | 1.20 | — | **Missing** | — | **Missing** |
 | 1.19.4 | fabric | 0.5.3 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19.4/MeteorClient_1.19.4_0.5.3_ManInMyVan.jar) |
 | 1.19.3 | fabric | 0.5.2 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19.3/MeteorClient_1.19.3_0.5.2_ManInMyVan.jar) |
 | 1.19.2 | fabric | 0.5.1 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19.2/MeteorClient_1.19.2_0.5.1_ManInMyVan.jar) |
-| 1.19.1 | — | **Missing** | — | **Missing** |
 | 1.19.2 (inferred) | fabric | 0.5.1 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19.2/MeteorClient_1.19.2_0.5.1_ManInMyVan_build-e87f5a6a.jar) |
 | 1.19.2 (inferred) | fabric | 0.5.1 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19.2/MeteorClient_1.19.2_0.5.1_ManInMyVan_build-f9d6ed89.jar) |
+| 1.19.1 | — | **Missing** | — | **Missing** |
 | 1.19 | fabric | 0.5.0 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19/MeteorClient_1.19_0.5.0_ManInMyVan.jar) |
+| 1.19 (inferred) | fabric | 0.5.0 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19/MeteorClient_1.19_0.5.0_ManInMyVan_build-97666a93.jar) |
 | 1.18.2 | fabric | 0.4.9 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.18.2/MeteorClient_1.18.2_0.4.9_ManInMyVan.jar) |
 | 1.18.2 | fabric | 0.4.8 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.18.2/MeteorClient_1.18.2_0.4.8_ManInMyVan.jar) |
-| 1.18.1 | — | **Missing** | — | **Missing** |
 | 1.18.2 (inferred) | fabric | 0.4.8 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.18.2/MeteorClient_1.18.2_0.4.8_ManInMyVan_build-e0a60a9c.jar) |
 | 1.18.2 (inferred) | fabric | 0.4.8 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.18.2/MeteorClient_1.18.2_0.4.8_ManInMyVan_build-8381cbe3.jar) |
 | 1.18.1 (inferred) | fabric | 0.4.7 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.18.1/MeteorClient_1.18.1_0.4.7_ManInMyVan.jar) |
@@ -88,7 +89,6 @@ Minecraft versions are sorted newest first. **(inferred)** means the version is 
 | 1.16.4 | — | **Missing** | — | **Missing** |
 | 1.16.3 | — | **Missing** | — | **Missing** |
 | 1.16.2 | — | **Missing** | — | **Missing** |
-| 1.16.1 | — | **Missing** | — | **Missing** |
 | 1.16.1 (inferred) | fabric | 0.3.0.1 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.16.1/MeteorClient_1.16.1_0.3.0.1_ManInMyVan.jar) |
 | 1.16.x | fabric | 0.4.4 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.16.x/MeteorClient_1.16.x_0.4.4_ManInMyVan.jar) |
 | 1.16.x | fabric | 0.4.2 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.16.x/MeteorClient_1.16.x_0.4.2_ManInMyVan.jar) |
@@ -180,10 +180,9 @@ Minecraft versions are sorted newest first. **(inferred)** means the version is 
 | 1.2.2 | — | **Missing** | — | **Missing** |
 | 1.2.1 | — | **Missing** | — | **Missing** |
 | 1.1 | — | **Missing** | — | **Missing** |
-| 1.20-1.20.1 | fabric | 0.5.4 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20-1.20.1/MeteorClient_1.20-1.20.1_0.5.4_ManInMyVan.jar) |
 | 1.0.1 | — | **Missing** | — | **Missing** |
-| 1.19 (inferred) | fabric | 0.5.0 | [ManInMyVan](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | [Download JAR](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19/MeteorClient_1.19_0.5.0_ManInMyVan_build-97666a93.jar) |
 | 1.0.0 | — | **Missing** | — | **Missing** |
+
 ### Baritone
 
 | Minecraft version | Loader | Mod version | Archive found in | Download |
@@ -309,6 +308,7 @@ Minecraft versions are sorted newest first. **(inferred)** means the version is 
 | 1.1 | — | **Missing** | — | **Missing** |
 | 1.0.1 | — | **Missing** | — | **Missing** |
 | 1.0.0 | — | **Missing** | — | **Missing** |
+
 ## Minecraft Java releases 1.0.0 through 26.3
 
 [Complete per-version table](MC-VERSION-COVERAGE.md) · [Machine-readable inventory](MC-VERSION-COVERAGE.json) · [Missing / potentially lost mod builds](MISSING-OR-LOST.md).
