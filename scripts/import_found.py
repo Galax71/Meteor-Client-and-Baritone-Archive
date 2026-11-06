@@ -53,6 +53,31 @@ try:
   save('https://raw.githubusercontent.com/ManInMyVan/meteor-archive/main/'+urllib.parse.quote(path,safe='/'),'github.com-ManInMyVan-meteor-archive',mod,'fabric',mc,name)
 except Exception as e:print('Community archive error',e)
 
+
+# Discover real download links from Meteor's official, non-GitHub archive.
+from html.parser import HTMLParser
+class DownloadLinks(HTMLParser):
+ def __init__(self):
+  super().__init__();self.links=[]
+ def handle_starttag(self,tag,attrs):
+  if tag!='a':return
+  d=dict(attrs);href=d.get('href','')
+  if 'download' in href:self.links.append(href)
+try:
+ html=fetch('https://meteorclient.com/archive').decode('utf-8','replace')
+ parser=DownloadLinks();parser.feed(html)
+ for href in sorted(set(parser.links)):
+  url=urllib.parse.urljoin('https://meteorclient.com/archive',href)
+  u=urllib.parse.urlparse(url);q=urllib.parse.parse_qs(u.query)
+  if u.hostname not in ('meteorclient.com','www.meteorclient.com'):continue
+  mc=q.get('version',[''])[0]
+  if not re.fullmatch(r'(?:1\.\d+(?:\.\d+)?|26\.\d+(?:\.\d+)?)',mc):continue
+  if u.path=='/api/download':
+   save(url,'meteorclient.com','meteor','fabric',mc,'meteor-client-'+mc+'.jar')
+  elif u.path=='/api/downloadBaritone':
+   save(url,'meteorclient.com','baritone','fabric',mc,'baritone-'+mc+'.jar')
+except Exception as e:print('Official Meteor archive discovery error',e)
+
 # Import non-GitHub direct downloads listed in a reviewed source manifest.
 external=root/'EXTERNAL-DOWNLOADS.json'
 if external.exists():
