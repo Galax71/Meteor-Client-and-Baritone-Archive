@@ -1,110 +1,127 @@
-# Meteor/Baritone Archive
+# Meteor Client & Baritone — Minecraft Version Archive
 
-**Archive folder layout:** `meteor/fabric/<minecraft-version>/` and `baratone/<fabric-or-forge>/<minecraft-version>/`. Meteor extra builds with unverified compatibility are under `meteor/fabric/unverified-extra/`. The folder spelling `baratone` follows the requested name. Existing links in this README have been updated.
+An independent historical archive of **Meteor Client** and **Baritone** JARs, organized by Minecraft version and mod loader. **102 archived JARs** are currently present across **26 folder-version labels**.
 
+> **Compatibility and authenticity notice:** Minecraft versions shown below are *archive folder labels*, not independently verified compatibility claims. **None of these JARs has a documented successful in-game launch test in this repository.** Older files may be unsupported, and original binary provenance has not been fully established. A successful Gradle build or valid ZIP file alone does not prove the mod runs in Minecraft.
 
-Using Unsupported Minecraft Versions:
-If the mod does not support the version of Minecraft you are using, consider using ViaFabricPlus. This tool allows you to connect to servers using different Minecraft versions, providing greater compatibility.
+## Quick links
 
-You can download ViaFabricPlus from the following official sources:  [GitHub](https://github.com/ViaVersion/ViaFabricPlus)  [CurseForge](https://www.curseforge.com/minecraft/mc-mods/viafabricplus)  [Modrinth](https://modrinth.com/mod/viafabricplus)
+- [Browse and filter downloads on the archive homepage](https://github.com/Galax71/meteor-archive-and-Baritone-archive/blob/master/index.html)
+- [Full download catalog](DOWNLOADS.md)
+- [83-file ManInMyVan source comparison and per-file provenance](IMPORT-PROVENANCE.json)
+- [Community archive source catalog](COMMUNITY-SOURCES.md)
+- [Automatic build instructions](AUTOMATED-BUILDS.md)
+- [Build matrix](build-matrix.json)
+- [GitHub Actions: build all versions](https://github.com/Galax71/meteor-archive-and-Baritone-archive/actions/workflows/build-all-versions.yml)
+- [Upstream build instructions](BUILDING.md)
 
-## Disclaimer
+## Downloads by Minecraft version
 
-These versions will receive no support or updates, as these are old versions of Meteor Client. Please read the [Old Versions FAQ](https://meteorclient.com/faq/old-versions).
+Each link below points to a JAR **already present** in this repository. The status of every listed file is **Not verified in Minecraft**. Multiple builds for one version are kept separately rather than overwritten.
 
-## Meteor Client
+| Minecraft version label | Mod | Loader | Available JARs | In-game verification |
+|---|---|---|---|---|
+| unverified-extra | Meteor Client | fabric | [meteor-client-0.3.0.1-1.16.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.3.0.1-1.16.1.jar)<br>[meteor-client-0.4.6-1180.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.4.6-1180.jar)<br>[meteor-client-0.4.7-1373.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.4.7-1373.jar)<br>[meteor-client-0.4.7-1381.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.4.7-1381.jar)<br>[meteor-client-0.4.7-1388.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.4.7-1388.jar)<br>[meteor-client-0.4.7-1396.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.4.7-1396.jar)<br>[meteor-client-0.4.8-1427.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.4.8-1427.jar)<br>[meteor-client-0.4.8-1441.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.4.8-1441.jar)<br>[meteor-client-0.5.0-1562.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.0-1562.jar)<br>[meteor-client-0.5.1-1571.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.1-1571.jar)<br>[meteor-client-0.5.1-1690.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.1-1690.jar)<br>[meteor-client-0.5.5-1964.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.5-1964.jar)<br>[meteor-client-0.5.6-1985.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.6-1985.jar)<br>[meteor-client-0.5.6-1993.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.6-1993.jar)<br>[meteor-client-0.5.6-1995.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.6-1995.jar)<br>[meteor-client-0.5.6-1996.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.6-1996.jar)<br>[meteor-client-0.5.6-1997.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.6-1997.jar)<br>[meteor-client-0.5.6-1998.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.6-1998.jar)<br>[meteor-client-0.5.6-1999.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.6-1999.jar)<br>[meteor-client-0.5.6-2001.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.6-2001.jar)<br>[meteor-client-0.5.6-2002.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.6-2002.jar)<br>[meteor-client-0.5.6-2003.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.6-2003.jar)<br>[meteor-client-0.5.6-2005.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.6-2005.jar)<br>[meteor-client-0.5.6-2007.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.6-2007.jar)<br>[meteor-client-0.5.6-2008.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.6-2008.jar)<br>[meteor-client-0.5.7-2079.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.7-2079.jar)<br>[meteor-client-0.5.8-2119.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/unverified-extra/meteor-client-0.5.8-2119.jar) | Not verified |
+| 1.21.3 | Baritone | fabric | [baritone-1.21.3.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.21.3/baritone-1.21.3.jar) | Not verified |
+| 1.21.3 | Baritone | forge | [baritone-forge-1.21.3.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.21.3/baritone-forge-1.21.3.jar) | Not verified |
+| 1.21.1 | Baritone | fabric | [baritone-1.21.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.21.1/baritone-1.21.1.jar) | Not verified |
+| 1.21.1 | Meteor Client | fabric | [meteor-client-0.5.8.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.21.1/meteor-client-0.5.8.jar) | Not verified |
+| 1.21 | Baritone | fabric | [baritone-1.21.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.21/baritone-1.21.jar) | Not verified |
+| 1.20.6 | Baritone | fabric | [baritone-1.20.6.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.20.6/baritone-1.20.6.jar) | Not verified |
+| 1.20.6 | Meteor Client | fabric | [meteor-client-0.5.7.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.6/meteor-client-0.5.7.jar) | Not verified |
+| 1.20.4 | Baritone | fabric | [baritone-1.20.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.20.4/baritone-1.20.4.jar) | Not verified |
+| 1.20.4 | Baritone | forge | [baritone-forge-1.20.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.20.4/baritone-forge-1.20.4.jar) | Not verified |
+| 1.20.4 | Meteor Client | fabric | [meteor-client-0.5.6.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.4/meteor-client-0.5.6.jar) | Not verified |
+| 1.20.3 | Baritone | fabric | [baritone-1.20.3.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.20.3/baritone-1.20.3.jar) | Not verified |
+| 1.20.3 | Baritone | forge | [baritone-forge-1.20.3.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.20.3/baritone-forge-1.20.3.jar) | Not verified |
+| 1.20.2 | Baritone | fabric | [baritone-1.20.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.20.2/baritone-1.20.2.jar) | Not verified |
+| 1.20.2 | Meteor Client | fabric | [meteor-client-0.5.5.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.2/meteor-client-0.5.5.jar) | Not verified |
+| 1.20.1 | Baritone | fabric | [baritone-1.20.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.20.1/baritone-1.20.1.jar) | Not verified |
+| 1.20.1 | Baritone | forge | [baritone-forge-1.20.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.20.1/baritone-forge-1.20.1.jar) | Not verified |
+| 1.20-1.20.1 | Meteor Client | fabric | [meteor-client-0.5.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20-1.20.1/meteor-client-0.5.4.jar) | Not verified |
+| 1.20 | Baritone | fabric | [baritone-1.20.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.20/baritone-1.20.jar) | Not verified |
+| 1.20 | Baritone | forge | [baritone-forge-1.20.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.20/baritone-forge-1.20.jar) | Not verified |
+| 1.19.4 | Baritone | fabric | [baritone-1.19.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.19.4/baritone-1.19.4.jar) | Not verified |
+| 1.19.4 | Baritone | forge | [baritone-forge-1.19.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.19.4/baritone-forge-1.19.4.jar) | Not verified |
+| 1.19.4 | Meteor Client | fabric | [meteor-client-0.5.3.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19.4/meteor-client-0.5.3.jar) | Not verified |
+| 1.19.3 | Baritone | fabric | [baritone-1.19.3.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.19.3/baritone-1.19.3.jar) | Not verified |
+| 1.19.3 | Meteor Client | fabric | [meteor-client-0.5.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19.3/meteor-client-0.5.2.jar) | Not verified |
+| 1.19.2 | Baritone | fabric | [baritone-1.19.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.19.2/baritone-1.19.2.jar) | Not verified |
+| 1.19.2 | Baritone | forge | [baritone-forge-1.19.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.19.2/baritone-forge-1.19.2.jar) | Not verified |
+| 1.19.2 | Meteor Client | fabric | [meteor-client-0.5.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19.2/meteor-client-0.5.1.jar) | Not verified |
+| 1.19 | Baritone | fabric | [baritone-1.19.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.19/baritone-1.19.jar) | Not verified |
+| 1.19 | Meteor Client | fabric | [meteor-client-0.5.0.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19/meteor-client-0.5.0.jar) | Not verified |
+| 1.18.2 | Baritone | fabric | [baritone-1.18.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.18.2/baritone-1.18.2.jar) | Not verified |
+| 1.18.2 | Baritone | forge | [baritone-forge-1.18.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.18.2/baritone-forge-1.18.2.jar) | Not verified |
+| 1.18.2 | Meteor Client | fabric | [meteor-client-0.4.8.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.18.2/meteor-client-0.4.8.jar)<br>[meteor-client-0.4.9.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.18.2/meteor-client-0.4.9.jar) | Not verified |
+| 1.18.1 | Baritone | forge | [baritone-forge-1.18.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.18.1/baritone-forge-1.18.1.jar) | Not verified |
+| 1.17.1 | Baritone | fabric | [baritone-1.17.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.17.1/baritone-1.17.1.jar) | Not verified |
+| 1.17.1 | Baritone | forge | [baritone-forge-1.17.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.17.1/baritone-forge-1.17.1.jar) | Not verified |
+| 1.17.1 | Meteor Client | fabric | [meteor-client-0.4.5.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.17.1/meteor-client-0.4.5.jar)<br>[meteor-client-0.4.6.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.17.1/meteor-client-0.4.6.jar) | Not verified |
+| 1.16.x | Meteor Client | fabric | [meteor-client-0.3.6.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.16.x/meteor-client-0.3.6.jar)<br>[meteor-client-0.3.8.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.16.x/meteor-client-0.3.8.jar)<br>[meteor-client-0.4.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.16.x/meteor-client-0.4.2.jar)<br>[meteor-client-0.4.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.16.x/meteor-client-0.4.4.jar) | Not verified |
+| 1.16.5 | Baritone | fabric | [baritone-1.16.5.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.16.5/baritone-1.16.5.jar) | Not verified |
+| 1.16.5 | Baritone | forge | [baritone-forge-1.16.5.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.16.5/baritone-forge-1.16.5.jar) | Not verified |
+| 1.16.4 | Baritone | fabric | [baritone-1.16.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.16.4/baritone-1.16.4.jar) | Not verified |
+| 1.16.4 | Baritone | forge | [baritone-forge-1.16.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.16.4/baritone-forge-1.16.4.jar) | Not verified |
+| 1.16.2 | Baritone | fabric | [baritone-1.16.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.16.2/baritone-1.16.2.jar) | Not verified |
+| 1.15.2 | Baritone | forge | [baritone-forge-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.15.2/baritone-forge-1.15.2.jar) | Not verified |
+| 1.15.2 | Meteor Client | fabric | [meteor-client-0.1.7-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.1.7-1.15.2.jar)<br>[meteor-client-0.1.8-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.1.8-1.15.2.jar)<br>[meteor-client-0.1.9-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.1.9-1.15.2.jar)<br>[meteor-client-0.2.0-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.2.0-1.15.2.jar)<br>[meteor-client-0.2.1-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.2.1-1.15.2.jar)<br>[meteor-client-0.2.2-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.2.2-1.15.2.jar)<br>[meteor-client-0.2.3-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.2.3-1.15.2.jar)<br>[meteor-client-0.2.4-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.2.4-1.15.2.jar)<br>[meteor-client-0.2.6-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.2.6-1.15.2.jar) | Not verified |
+| 1.14.4 | Meteor Client | fabric | [meteor-client-0.1.0.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.0.jar)<br>[meteor-client-0.1.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.1.jar)<br>[meteor-client-0.1.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.2.jar)<br>[meteor-client-0.1.3.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.3.jar)<br>[meteor-client-0.1.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.4.jar)<br>[meteor-client-0.1.5.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.5.jar)<br>[meteor-client-0.1.6.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.6.jar)<br>[meteor-client-0.1.7-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.7-1.14.4.jar)<br>[meteor-client-0.1.8-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.8-1.14.4.jar)<br>[meteor-client-0.1.9-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.9-1.14.4.jar)<br>[meteor-client-0.2.0-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.2.0-1.14.4.jar)<br>[meteor-client-0.2.1-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.2.1-1.14.4.jar)<br>[meteor-client-0.2.2-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.2.2-1.14.4.jar)<br>[meteor-client-0.2.3-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.2.3-1.14.4.jar)<br>[meteor-client-0.2.4-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.2.4-1.14.4.jar)<br>[meteor-client-0.2.8-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.2.8-1.14.4.jar) | Not verified |
+| 1.13.2 | Baritone | fabric | [baritone-1.13.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.13.2/baritone-1.13.2.jar) | Not verified |
+| 1.12.2 | Baritone | forge | [baritone-forge-1.12.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.12.2/baritone-forge-1.12.2.jar) | Not verified |
 
-| Release             | Download                                                                                                                                   |
-|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| 0.5.8 - 1.21.1      | [meteor-client-0.5.8.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.21.1/meteor-client-0.5.8.jar)               |
-| 0.5.7 - 1.20.6      | [meteor-client-0.5.7.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.6/meteor-client-0.5.7.jar)               |
-| 0.5.6 - 1.20.4      | [meteor-client-0.5.6.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.4/meteor-client-0.5.6.jar)               |
-| 0.5.5 - 1.20.2      | [meteor-client-0.5.5.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20.2/meteor-client-0.5.5.jar)               |
-| 0.5.4 - 1.20/1.20.1 | [meteor-client-0.5.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.20-1.20.1/meteor-client-0.5.4.jar)               |
-| 0.5.3 - 1.19.4      | [meteor-client-0.5.3.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19.4/meteor-client-0.5.3.jar)               |
-| 0.5.2 - 1.19.3      | [meteor-client-0.5.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19.3/meteor-client-0.5.2.jar)               |
-| 0.5.1 - 1.19.2      | [meteor-client-0.5.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19.2/meteor-client-0.5.1.jar)               |
-| 0.5.0 - 1.19        | [meteor-client-0.5.0.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.19/meteor-client-0.5.0.jar)               |
-| 0.4.9 - 1.18.2      | [meteor-client-0.4.9.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.18.2/meteor-client-0.4.9.jar)               |
-| 0.4.8 - 1.18.2      | [meteor-client-0.4.8.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.18.2/meteor-client-0.4.8.jar)               |
-| 0.4.6 - 1.17.1      | [meteor-client-0.4.6.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.17.1/meteor-client-0.4.6.jar)               |
-| 0.4.5 - 1.17.1      | [meteor-client-0.4.5.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.17.1/meteor-client-0.4.5.jar)               |
-| 0.4.4 - 1.16.x      | [meteor-client-0.4.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.16.x/meteor-client-0.4.4.jar)               |
-| 0.4.2 - 1.16.x      | [meteor-client-0.4.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.16.x/meteor-client-0.4.2.jar)               |
-| 0.3.8 - 1.16.x      | [meteor-client-0.3.8.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.16.x/meteor-client-0.3.8.jar)               |
-| 0.3.6 - 1.16.x      | [meteor-client-0.3.6.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.16.x/meteor-client-0.3.6.jar)               |
-| 0.2.8 - 1.14.4      | [meteor-client-0.2.8-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.2.8-1.14.4.jar) |
-| 0.2.6 - 1.15.2      | [meteor-client-0.2.6-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.2.6-1.15.2.jar) |
-| 0.2.4 - 1.15.2      | [meteor-client-0.2.4-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.2.4-1.15.2.jar) |
-| 0.2.4 - 1.14.4      | [meteor-client-0.2.4-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.2.4-1.14.4.jar) |
-| 0.2.3 - 1.15.2      | [meteor-client-0.2.3-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.2.3-1.15.2.jar) |
-| 0.2.3 - 1.14.4      | [meteor-client-0.2.3-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.2.3-1.14.4.jar) |
-| 0.2.2 - 1.15.2      | [meteor-client-0.2.2-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.2.2-1.15.2.jar) |
-| 0.2.2 - 1.14.4      | [meteor-client-0.2.2-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.2.2-1.14.4.jar) |
-| 0.2.1 - 1.15.2      | [meteor-client-0.2.1-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.2.1-1.15.2.jar) |
-| 0.2.1 - 1.14.4      | [meteor-client-0.2.1-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.2.1-1.14.4.jar) |
-| 0.2.0 - 1.15.2      | [meteor-client-0.2.0-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.2.0-1.15.2.jar) |
-| 0.2.0 - 1.14.4      | [meteor-client-0.2.0-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.2.0-1.14.4.jar) |
-| 0.1.9 - 1.15.2      | [meteor-client-0.1.9-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.1.9-1.15.2.jar) |
-| 0.1.9 - 1.14.4      | [meteor-client-0.1.9-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.9-1.14.4.jar) |
-| 0.1.8 - 1.15.2      | [meteor-client-0.1.8-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.1.8-1.15.2.jar) |
-| 0.1.8 - 1.14.4      | [meteor-client-0.1.8-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.8-1.14.4.jar) |
-| 0.1.7 - 1.15.2      | [meteor-client-0.1.7-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.15.2/meteor-client-0.1.7-1.15.2.jar) |
-| 0.1.7 - 1.14.4      | [meteor-client-0.1.7-1.14.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.7-1.14.4.jar) |
-| 0.1.6 - 1.14.4      | [meteor-client-0.1.6.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.6.jar)               |
-| 0.1.5 - 1.14.4      | [meteor-client-0.1.5.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.5.jar)               |
-| 0.1.4 - 1.14.4      | [meteor-client-0.1.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.4.jar)               |
-| 0.1.3 - 1.14.4      | [meteor-client-0.1.3.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.3.jar)               |
-| 0.1.2 - 1.14.4      | [meteor-client-0.1.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.2.jar)               |
-| 0.1.1 - 1.14.4      | [meteor-client-0.1.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.1.jar)               |
-| 0.1.0 - 1.14.4      | [meteor-client-0.1.0.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/meteor/fabric/1.14.4/meteor-client-0.1.0.jar)               |
+## Where the files came from
 
-## Baritone
-Support for Baritone Users
-If you need support or have questions about Baritone, please visit the official repository maintained by the mod creators:
-https://github.com/cabaletta/baritone?tab=readme-ov-file
+The following are **source locations and research leads**, not proof that a specific archived JAR was originally built or downloaded there. The original acquisition location of many files is unknown.
 
-This is the best place to find documentation, report issues, and access community resources for Baritone.
+| Location | Category | Details |
+|---|---|---|
+| [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client) | Official upstream source | Meteor Client source code |
+| [cabaletta/baritone](https://github.com/cabaletta/baritone) | Official upstream source | Baritone source code |
+| [ManInMyVan/meteor-archive](https://github.com/ManInMyVan/meteor-archive/tree/main/files) | Community archive | 83 JARs compared: **78 identical-content matches** already present, **5 missing and not imported**; see [manifest](IMPORT-PROVENANCE.json) |
+| [ModxVoldHunter/meteor-client-archive](https://github.com/ModxVoldHunter/meteor-client-archive) | Community historical source | Contains historical source/build files; not verified as original upstream |
+| [ShlokTheAmazing/MeteorClientArchive](https://github.com/ShlokTheAmazing/MeteorClientArchive) | Community archive candidate | Contents not fully inspected |
+| [purpleceilingstars/meteor-archive-and-Baritone-archive](https://github.com/purpleceilingstars/meteor-archive-and-Baritone-archive) | Community archive | May overlap with files already present |
+| [This repository](https://github.com/Galax71/meteor-archive-and-Baritone-archive) | Current download host | Existing binaries preserved in organized directories |
 
-| Release | Download Fabric                                                                                                                         |
-|---------|-----------------------------------------------------------------------------------------------------------------------------------|
-| 1.21.3   | [baritone-1.21.3.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.21.3/baritone-1.21.3.jar) |
-| 1.21.1   | [baritone-1.21.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.21.1/baritone-1.21.1.jar) |
-| 1.21    | [baritone-1.21.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.21/baritone-1.21.jar) |
-| 1.20.6   | [baritone-1.20.6.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.20.6/baritone-1.20.6.jar) |
-| 1.20.4   | [baritone-1.20.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.20.4/baritone-1.20.4.jar) |
-| 1.20.3   | [baritone-1.20.3.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.20.3/baritone-1.20.3.jar) |
-| 1.20.2  | [baritone-1.20.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.20.2/baritone-1.20.2.jar)     |
-| 1.20.1  | [baritone-1.20.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.20.1/baritone-1.20.1.jar) |
-| 1.20    | [baritone-1.20.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.20/baritone-1.20.jar)     |
-| 1.19.4  | [baritone-1.19.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.19.4/baritone-1.19.4.jar) |
-| 1.19.3  | [baritone-1.19.3.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.19.3/baritone-1.19.3.jar) |
-| 1.19.2  | [baritone-1.19.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.19.2/baritone-1.19.2.jar) |
-| 1.19    | [baritone-1.19.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.19/baritone-1.19.jar)     |
-| 1.18.2  | [baritone-1.18.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.18.2/baritone-1.18.2.jar) |
-| 1.17.1  | [baritone-1.17.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.17.1/baritone-1.17.1.jar) |
-| 1.16.5  | [baritone-1.16.5.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/fabric/1.16.5/baritone-1.16.5.jar) |
-| Release | Download Forge                                                                                                                         |
-| 1.21.3  | [baritone-1.21.3.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.21.3/baritone-forge-1.21.3.jar) |
-| 1.20.4  | [baritone-1.20.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.20.4/baritone-forge-1.20.4.jar) |
-| 1.20.3  | [baritone-1.20.3.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.20.3/baritone-forge-1.20.3.jar) |
-| 1.20.1  | [baritone-1.20.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.20.1/baritone-forge-1.20.1.jar) |
-| 1.20    | [baritone-1.20.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.20/baritone-forge-1.20.jar) |
-| 1.19.4  | [baritone-1.19.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.19.4/baritone-forge-1.19.4.jar) |
-| 1.19.2  | [baritone-1.19.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.19.2/baritone-forge-1.19.2.jar) |
-| 1.18.2  | [baritone-1.18.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.18.2/baritone-forge-1.18.2.jar) |
-| 1.18.1  | [baritone-1.18.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.18.1/baritone-forge-1.18.1.jar) |
-| 1.17.1  | [baritone-1.17.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.17.1/baritone-forge-1.17.1.jar) |
-| 1.16.5  | [baritone-1.16.5.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.16.5/baritone-forge-1.16.5.jar) |
-| 1.16.4  | [baritone-1.16.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.16.4/baritone-forge-1.16.4.jar) |
-| 1.15.2  | [baritone-1.15.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.15.2/baritone-forge-1.15.2.jar) |
-| 1.12.2  | [baritone-1.12.2.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/baratone/forge/1.12.2/baritone-forge-1.12.2.jar) |
+The ManInMyVan repository also contains contributor credits and historical version labels in its [README](https://github.com/ManInMyVan/meteor-archive/blob/main/README.md). Those credits are not automatically proof of original authorship of each binary.
 
-## Missing Versions
+### Five ManInMyVan files not yet imported
 
-| Mod             | Versions                                                                                                                                                        |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Meteor Client   | 0.4.7, 0.4.3, 0.4.1, 0.4.0, 0.3.9, 0.3.7, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.9, 0.2.8-1.15.2, 0.2.8-1.16.1, 0.2.7, 0.2.6-1.14.4, 0.2.6-1.16.1, 0.2.5 |                                                                                          |
-| Baritone Fabric | 1.21.2 ,1.20.5 ,1.19.1, 1.18, 1.17  
-| Baritone forge  | have to look                               |
+These are linked to their **external source** and are **not** counted among this repository's downloads:
 
+| File | Source link |
+|---|---|
+| `baritone-1.21.3-20241117.084726-1.jar` | [View source file](https://github.com/ManInMyVan/meteor-archive/blob/main/files/baritone/baritone-1.21.3-20241117.084726-1.jar) |
+| `meteor-client-0.4.7-1384.jar` | [View source file](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.7-1384.jar) |
+| `meteor-client-0.4.7-1405.jar` | [View source file](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/extra/meteor-client-0.4.7-1405.jar) |
+| `meteor-client-0.4.7.jar` | [View source file](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/meteor-client-0.4.7.jar) |
+| `meteor-client-0.5.9.jar` | [View source file](https://github.com/ManInMyVan/meteor-archive/blob/main/files/meteor-client/meteor-client-0.5.9.jar) |
+
+## Archive layout
+
+```text
+meteor/fabric/<minecraft-version>/<filename>.jar
+meteor/fabric/unverified-extra/<filename>.jar
+baratone/fabric/<minecraft-version>/<filename>.jar
+baratone/forge/<minecraft-version>/<filename>.jar
+```
+
+The `baratone` directory spelling is intentional and retained for compatibility with existing links. The `unverified-extra` folder contains builds whose exact Minecraft compatibility has not been confirmed. A loader folder reflects the archive's classification, not an independent runtime test.
+
+## What counts as verified?
+
+A JAR may be labeled **Verified working** only after a documented successful launch with the exact Minecraft version and matching loader, with the tested file checksum and test environment recorded. **No existing JAR currently meets this criterion.** All download links above therefore say **Not verified**.
+
+## Automatic compilation
+
+The [build-all-versions workflow](.github/workflows/build-all-versions.yml) and [matrix](build-matrix.json) define upstream build attempts for historical and current branches. A workflow being configured or running does **not** mean all versions have compiled successfully, been published, or passed in-game tests. See [AUTOMATED-BUILDS.md](AUTOMATED-BUILDS.md).
+
+## Unsupported versions and safety
+
+Historical mods may no longer receive updates or support. See the [Meteor old versions FAQ](https://meteorclient.com/faq/old-versions) and [official Meteor archive](https://meteorclient.com/archive). [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) can assist with server protocol compatibility but **does not make an incompatible Meteor/Baritone JAR compatible with a different Minecraft client version**. Only download and run files you trust.
+
+## Attribution
+
+Meteor Client and Baritone are third-party projects. This archive is independent and is not affiliated with their developers, Mojang, or Microsoft. Respect each upstream project's licenses and contributors. For community file history and contributor acknowledgments, see the [ManInMyVan README](https://github.com/ManInMyVan/meteor-archive/blob/main/README.md) and [COMMUNITY-SOURCES.md](COMMUNITY-SOURCES.md).
+ 
