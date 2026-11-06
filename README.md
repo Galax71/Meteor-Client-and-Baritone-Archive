@@ -6,8 +6,8 @@
 
 **A community-maintained historical Minecraft Java mod archive**
 
-[![Browse downloads](https://img.shields.io/badge/Browse-Downloads-35c5b5?style=for-the-badge&logo=github)](#downloads-by-mod)
-[![Missing versions](https://img.shields.io/badge/Explore-Missing_Versions-f39b75?style=for-the-badge)](#minecraft-java-releases-100-through-263)
+[![Browse downloads](https://img.shields.io/badge/Browse-Downloads-00bfae?style=for-the-badge&logo=github&logoColor=white)](#downloads-by-mod)
+[![Missing versions](https://img.shields.io/badge/Explore-Missing_Versions-ef8354?style=for-the-badge)](#minecraft-java-releases-100-through-263)
 [![Recovery workflow](https://img.shields.io/github/actions/workflow/status/Galax71/meteor-archive-and-Baritone-archive/recover-found.yml?branch=master&style=for-the-badge&label=Archive%20recovery)](https://github.com/Galax71/meteor-archive-and-Baritone-archive/actions/workflows/recover-found.yml)
 
 [**Meteor Client**](#meteor-client) · [**Baritone**](#baritone) · [**Download catalog**](DOWNLOADS.md) · [**Sources**](COMMUNITY-SOURCES.md) · [**Build guide**](BUILDING.md)
@@ -17,7 +17,22 @@
 ---
 
 <table>
-<tr><td width="50%" valign="top"><h3>☄️ Meteor Client</h3><p>Browse preserved Meteor builds by Minecraft version, loader, and original source.</p><p><a href="#meteor-client"><strong>Explore Meteor builds →</strong></a></p></td><td width="50%" valign="top"><h3>🧭 Baritone</h3><p>Find historical pathfinding-mod JARs and identify gaps in the archive.</p><p><a href="#baritone"><strong>Explore Baritone builds →</strong></a></p></td></tr>
+<tr>
+<td width="50%" valign="top" align="center" bgcolor="#241d2a">
+<a href="https://meteorclient.com/"><img src="https://meteorclient.com/icon.png" width="100" height="100" alt="Official Meteor Client logo"></a>
+<h3>☄️ Meteor Client</h3>
+<p><strong>Orange · Coral</strong></p>
+<p>Preserved builds, source history, and download links for Minecraft Java.</p>
+<p><a href="#meteor-client"><strong>Explore Meteor builds →</strong></a></p>
+</td>
+<td width="50%" valign="top" align="center" bgcolor="#142a35">
+<a href="https://github.com/cabaletta/baritone"><img src="assets/baritone-path-icon.svg" width="100" height="100" alt="Custom Baritone pathfinding icon"></a>
+<h3>🧭 Baritone</h3>
+<p><strong>Teal · Blue</strong></p>
+<p>Historical pathfinding builds, version coverage, and missing releases.</p>
+<p><a href="#baritone"><strong>Explore Baritone builds →</strong></a></p>
+</td>
+</tr>
 </table>
 
 > [!IMPORTANT]
@@ -36,11 +51,20 @@
 
 ## Downloads by mod
 
+<p align="center">
+<img alt="Available archived JAR" src="https://img.shields.io/badge/AVAILABLE-archived_JAR-14b8a6?style=flat-square">
+<img alt="Missing archive JAR" src="https://img.shields.io/badge/MISSING-no_JAR_found-f97373?style=flat-square">
+<img alt="Unknown historical support" src="https://img.shields.io/badge/UNKNOWN-support_not_confirmed-f0b45d?style=flat-square">
+</p>
+
+
 Minecraft versions are sorted newest first. **(inferred)** means the version is matched from the historical release series, not confirmed from the individual JAR metadata or an in-game launch. See [EXTRA-VERSION-MATCHES.json](EXTRA-VERSION-MATCHES.json). All JARs remain unverified in-game. **Missing** means no JAR is listed in this main table for that exact Minecraft version; it does not prove the mod was released for that version or that the file is permanently lost.
 
 The **Mod existed?** column refers to evidence for that Minecraft version, not whether Minecraft itself existed. **Yes** means an archived build is present; **No — predates documented mod support** means the Minecraft version predates the known mod support history; **Unknown** means no compatible build has been established. Early development versions are representative milestones, not every historical snapshot.
 
 ### Meteor Client
+
+<img src="https://meteorclient.com/icon.png" width="64" alt="Meteor Client official logo"> **Meteor Client archive** · <img src="https://img.shields.io/badge/Theme-Coral%20%26%20Orange-e97755" alt="Meteor orange">
 
 | Minecraft version | Mod existed? | Loader | Mod version | Archive found in | Download |
 |---|---|---|---|---|---|
@@ -271,6 +295,8 @@ The **Mod existed?** column refers to evidence for that Minecraft version, not w
 | a1.0.11 | No — predates documented mod support | — | **Missing** | — | **Missing** |
 
 ### Baritone
+
+<img src="assets/baritone-path-icon.svg" width="64" alt="Custom Baritone pathfinding icon"> **Baritone archive** · <img src="https://img.shields.io/badge/Theme-Teal%20%26%20Blue-18b6b2" alt="Baritone teal">
 
 | Minecraft version | Mod existed? | Loader | Mod version | Archive found in | Download |
 |---|---|---|---|---|---|
