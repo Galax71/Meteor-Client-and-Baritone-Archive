@@ -1,0 +1,178 @@
+name: Compile full source-version matrix
+
+on:
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: Which source versions to compile
+        required: true
+        type: choice
+        options: [all, meteor, baratone]
+        default: all
+      publish:
+        description: Commit validated JARs to master (otherwise only downloadable Actions artifacts)
+        type: boolean
+        default: false
+  schedule:
+    - cron: '0 5 1 * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: full-archive-matrix
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.make.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate supported upstream source matrix
+        id: make
+        env:
+          SCOPE: ${{ inputs.scope || 'all' }}
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json,os
+          data=json.load(open("build-matrix.json"))
+          scope=os.environ["SCOPE"]
+          entries=[dict(project=k,**item) for k,items in data.items() for item in items if scope=="all" or scope==k]
+          print("matrix="+json.dumps({"include":entries},separators=(",",":")))
+          PY
+
+  compile:
+    needs: discover
+    if: ${{ needs.discover.outputs.matrix != '' }}
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix: ${{ fromJSON(needs.discover.outputs.matrix) }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Fetch exact upstream branch
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ matrix.project == 'meteor' && 'MeteorDevelopment/meteor-client' || 'cabaletta/baritone' }}
+          ref: ${{ matrix.ref }}
+          path: source
+          fetch-depth: 0
+          submodules: recursive
+          persist-credentials: false
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: ${{ matrix.java }}
+      - uses: gradle/actions/setup-gradle@v4
+      - name: Compile upstream source
+        shell: bash
+        working-directory: source
+        run: |
+          chmod +x gradlew
+          if [[ "${{ matrix.project }}" == "meteor" ]]; then
+            ./gradlew --no-daemon build -Pcommit="$(git rev-parse HEAD)" -Pbuild_number=0
+          else
+            ./gradlew --no-daemon build
+          fi
+      - name: Collect loader-specific distributable JARs
+        shell: bash
+        env:
+          PROJECT: ${{ matrix.project }}
+          MC: ${{ matrix.mc }}
+          LOADER: ${{ matrix.loader }}
+        run: |
+          python3 - <<'PY'
+          import os,pathlib,shutil,json,hashlib,subprocess,zipfile
+          project=os.environ['PROJECT']; mc=os.environ['MC']; requested=os.environ['LOADER']
+          src=pathlib.Path('source'); out=pathlib.Path('publish')
+          if project=='meteor':
+              jars=list(src.glob('build/libs/*.jar'))
+          else:
+              jars=list(src.glob('dist/*.jar'))
+              if not jars: jars=list(src.glob('**/build/libs/*.jar'))
+          count=0
+          for jar in jars:
+              name=jar.name.lower()
+              if any(x in name for x in ('-sources','-javadoc','-dev','-unoptimized','-api-')): continue
+              if project=='meteor': loader='fabric'
+              elif 'neoforge' in name: loader='neoforge'
+              elif 'forge' in name: loader='forge'
+              elif 'fabric' in name: loader='fabric'
+              else: continue
+              if requested!='all' and requested!=loader: continue
+              try:
+                  with zipfile.ZipFile(jar) as z:
+                      names=set(z.namelist())
+                      marker={'fabric':'fabric.mod.json','forge':'META-INF/mods.toml','neoforge':'META-INF/neoforge.mods.toml'}[loader]
+                      if marker not in names and not (loader=='neoforge' and 'META-INF/mods.toml' in names): continue
+                      if z.testzip() is not None: continue
+              except (zipfile.BadZipFile,OSError): continue
+              target=out/project/loader/mc
+              target.mkdir(parents=True,exist_ok=True)
+              dest=target/jar.name
+              shutil.copy2(jar,dest)
+              count+=1
+          if not count: raise SystemExit('No loader-specific JARs passed archive/metadata checks')
+          sha=subprocess.check_output(['git','-C','source','rev-parse','HEAD'],text=True).strip()
+          (out/project/'SOURCE-INFO.json').write_text(json.dumps({'project':project,'minecraft':mc,'source_ref':'${{ matrix.ref }}','commit':sha},indent=2))
+          for file in out.rglob('*.jar'):
+              (file.parent/(file.name+'.sha256')).write_text(hashlib.sha256(file.read_bytes()).hexdigest()+'  '+file.name+'\n')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: built-${{ matrix.project }}-${{ matrix.mc }}-${{ github.run_id }}
+          path: publish/
+          if-no-files-found: error
+          retention-days: 30
+
+  publish:
+    needs: [discover,compile]
+    if: ${{ github.event_name == 'workflow_dispatch' && inputs.publish == true }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          persist-credentials: true
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: built-*-${{ github.run_id }}
+          path: incoming
+          merge-multiple: false
+      - name: Copy only new JARs, preserving archive
+        run: |
+          python3 - <<'PY'
+          import pathlib,shutil
+          for jar in pathlib.Path('incoming').rglob('*.jar'):
+              parts=jar.parts
+              try: i=parts.index('meteor')
+              except ValueError:
+                  try: i=parts.index('baratone')
+                  except ValueError: continue
+              relative=pathlib.Path(*parts[i:])
+              if len(relative.parts)!=4: continue
+              target=pathlib.Path(relative)
+              if target.exists():
+                  if target.read_bytes()!=jar.read_bytes():
+                      print('Existing archive preserved:',target)
+                  continue
+              target.parent.mkdir(parents=True,exist_ok=True)
+              shutil.copy2(jar,target)
+              checksum=jar.with_name(jar.name+'.sha256')
+              if checksum.exists(): shutil.copy2(checksum,target.with_name(target.name+'.sha256'))
+          PY
+      - name: Commit compiled JARs to master
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add meteor/ baratone/
+          if git diff --cached --quiet; then
+            echo "No new builds to publish"
+          else
+            git commit -m "Archive newly compiled upstream mod builds (run ${{ github.run_id }})"
+            git pull --rebase origin master
+            git push origin HEAD:master
+          fi
