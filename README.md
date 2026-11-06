@@ -1,8 +1,27 @@
-# Meteor Client & Baritone — Minecraft Version Archive
+<div align="center">
 
-An independent historical archive of **Meteor Client** and **Baritone** JARs, organized by Minecraft version and mod loader. **102 archived JARs** are currently present across **26 folder-version labels**.
+![Meteor Client and Baritone archive banner](assets/archive-banner.svg)
 
-> **Compatibility and authenticity notice:** Minecraft versions shown below are *archive folder labels*, not independently verified compatibility claims. **None of these JARs has a documented successful in-game launch test in this repository.** Older files may be unsupported, and original binary provenance has not been fully established. A successful Gradle build or valid ZIP file alone does not prove the mod runs in Minecraft.
+# Meteor Client & Baritone Archive
+
+**A community-maintained historical Minecraft Java mod archive**
+
+[![Browse downloads](https://img.shields.io/badge/Browse-Downloads-35c5b5?style=for-the-badge&logo=github)](#downloads-by-mod)
+[![Missing versions](https://img.shields.io/badge/Explore-Missing_Versions-f39b75?style=for-the-badge)](#minecraft-java-releases-100-through-263)
+[![Recovery workflow](https://img.shields.io/github/actions/workflow/status/Galax71/meteor-archive-and-Baritone-archive/recover-found.yml?branch=master&style=for-the-badge&label=Archive%20recovery)](https://github.com/Galax71/meteor-archive-and-Baritone-archive/actions/workflows/recover-found.yml)
+
+[**Meteor Client**](#meteor-client) · [**Baritone**](#baritone) · [**Download catalog**](DOWNLOADS.md) · [**Sources**](COMMUNITY-SOURCES.md) · [**Build guide**](BUILDING.md)
+
+</div>
+
+---
+
+<table>
+<tr><td width="50%" valign="top"><h3>☄️ Meteor Client</h3><p>Browse preserved Meteor builds by Minecraft version, loader, and original source.</p><p><a href="#meteor-client"><strong>Explore Meteor builds →</strong></a></p></td><td width="50%" valign="top"><h3>🧭 Baritone</h3><p>Find historical pathfinding-mod JARs and identify gaps in the archive.</p><p><a href="#baritone"><strong>Explore Baritone builds →</strong></a></p></td></tr>
+</table>
+
+> [!IMPORTANT]
+> **Archive files are not guaranteed to work in-game.** Version labels and mod-existence statuses describe available evidence, not independently tested compatibility. **Missing** means no archived JAR is currently listed; it does not prove a build never existed.
 
 ## Quick links
 
